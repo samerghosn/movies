@@ -1,0 +1,7781 @@
+1
+00:00:28,402 --> 00:00:32,374
+The Tesseract has awakened.
+
+2
+00:00:33,033 --> 00:00:38,039
+It is on a little
+world, a human world.
+
+3
+00:00:38,704 --> 00:00:42,130
+They would wield its power,
+
+4
+00:00:42,417 --> 00:00:48,140
+but our ally knows its
+workings as they never will.
+
+5
+00:00:49,633 --> 00:00:52,762
+He is ready to lead
+
+6
+00:00:52,927 --> 00:00:58,401
+and our force, our
+Chitauri, will follow.
+
+7
+00:00:59,976 --> 00:01:02,445
+A world will be his.
+
+8
+00:01:02,603 --> 00:01:05,733
+The universe, yours.
+
+9
+00:01:05,899 --> 00:01:11,531
+And the humans, what
+can they do but burn?
+
+10
+00:01:26,003 --> 00:01:27,174
+All personnel,
+
+11
+00:01:27,254 --> 00:01:29,597
+the evacuation order
+has been confirmed.
+
+12
+00:01:29,799 --> 00:01:34,000
+Proceed to your designated vehicles
+immediately for forced evacuation
+
+13
+00:01:34,099 --> 00:01:35,500
+This is not a drill
+
+14
+00:01:36,000 --> 00:01:36,998
+Emergency personnel
+
+15
+00:01:37,000 --> 00:01:40,498
+Proceed to your designated
+vehicles for on site evacuation
+
+16
+00:02:01,454 --> 00:02:03,001
+How bad is it?
+
+17
+00:02:03,165 --> 00:02:06,293
+That's the problem, sir.
+We don't know.
+
+18
+00:02:10,046 --> 00:02:12,971
+Dr. Selvig read an energy surge
+from the Tesseract four hours ago.
+
+19
+00:02:13,050 --> 00:02:14,973
+NASA didn't authorize
+Selvig to go to test phase.
+
+20
+00:02:15,134 --> 00:02:17,388
+He wasn't testing it. He
+wasn't even in the room.
+
+21
+00:02:17,554 --> 00:02:18,555
+Spontaneous event.
+
+22
+00:02:18,639 --> 00:02:19,639
+It just turned itself on?
+
+23
+00:02:20,056 --> 00:02:21,149
+Where are the energy levels now?
+
+24
+00:02:21,307 --> 00:02:23,526
+Climbing. When Selvig couldn't
+shut it down, we ordered evac.
+
+25
+00:02:23,685 --> 00:02:24,731
+How long to get everyone out?
+
+26
+00:02:25,103 --> 00:02:26,479
+Campus should be clear
+in the next half-hour.
+
+27
+00:02:26,646 --> 00:02:27,943
+Do better.
+
+28
+00:02:28,856 --> 00:02:30,859
+Sir, evacuation may be futile.
+
+29
+00:02:31,026 --> 00:02:32,277
+We should tell them
+to go back to sleep?
+
+30
+00:02:32,610 --> 00:02:34,864
+If we can't control the
+Tesseract's energy,
+
+31
+00:02:35,030 --> 00:02:37,408
+there may not be a
+minimum safe distance.
+
+32
+00:02:37,490 --> 00:02:38,582
+I need you to make sure
+
+33
+00:02:38,658 --> 00:02:40,377
+the Phase 2 prototypes
+are shipped out.
+
+34
+00:02:40,493 --> 00:02:42,587
+Sir, is that really a
+priority right now?
+
+35
+00:02:42,746 --> 00:02:44,497
+Until such time as
+the world ends,
+
+36
+00:02:44,581 --> 00:02:46,457
+we will act as though
+it intends to spin on.
+
+37
+00:02:47,584 --> 00:02:49,006
+Clear out the tech below.
+
+38
+00:02:49,168 --> 00:02:51,263
+Every piece of Phase 2
+on a truck and gone.
+
+39
+00:02:51,420 --> 00:02:52,843
+Yes, sir.
+
+40
+00:02:53,256 --> 00:02:54,427
+With me.
+
+41
+00:02:57,426 --> 00:02:58,427
+Talk to me, Doctor.
+
+42
+00:03:00,430 --> 00:03:01,852
+Director.
+
+43
+00:03:02,014 --> 00:03:03,733
+Is there anything we
+know for certain?
+
+44
+00:03:03,891 --> 00:03:06,145
+The Tesseract is misbehaving.
+
+45
+00:03:06,311 --> 00:03:09,155
+- Is that supposed to be funny?
+- No, it's not funny at all.
+
+46
+00:03:09,313 --> 00:03:12,658
+The Tesseract is not only
+active, she's behaving.
+
+47
+00:03:13,068 --> 00:03:14,115
+I assume you pulled the plug.
+
+48
+00:03:14,276 --> 00:03:15,995
+She's an energy source.
+
+49
+00:03:16,320 --> 00:03:19,370
+We turn off the power,
+she turns it back on.
+
+50
+00:03:19,449 --> 00:03:20,574
+If she reaches peak level..
+
+51
+00:03:20,741 --> 00:03:24,211
+We prepared for this, Doctor.
+Harnessing energy from space.
+
+52
+00:03:24,371 --> 00:03:25,793
+But we don't have the harness.
+
+53
+00:03:25,872 --> 00:03:26,963
+My calculations are
+far from complete.
+
+54
+00:03:27,707 --> 00:03:30,301
+And she's throwing off
+interference, radiation.
+
+55
+00:03:30,460 --> 00:03:31,927
+Nothing harmful, low
+levels of gamma radiation.
+
+56
+00:03:33,087 --> 00:03:34,680
+That can be harmful.
+
+57
+00:03:35,132 --> 00:03:36,599
+Where's Agent Barton?
+
+58
+00:03:36,675 --> 00:03:38,473
+The Hawk?
+
+59
+00:03:39,301 --> 00:03:40,974
+Up in his nest, as usual.
+
+60
+00:03:42,805 --> 00:03:44,649
+Agent Barton, report.
+
+61
+00:03:45,474 --> 00:03:46,692
+I gave you this detail
+
+62
+00:03:46,768 --> 00:03:48,360
+so you could keep a
+close eye on things.
+
+63
+00:03:48,562 --> 00:03:49,984
+Well, I see better
+from a distance.
+
+64
+00:03:50,146 --> 00:03:51,865
+Have you seen anything that
+might set this thing off?
+
+65
+00:03:52,524 --> 00:03:54,742
+Doctor, it's spiking again.
+
+66
+00:03:54,901 --> 00:03:56,323
+No one's come or gone.
+
+67
+00:03:56,485 --> 00:03:58,158
+And Selvig's clean.
+
+68
+00:03:58,320 --> 00:04:00,493
+No contacts, no IMs.
+
+69
+00:04:01,116 --> 00:04:02,709
+If there was any tampering,
+sir, it wasn't at this end.
+
+70
+00:04:04,828 --> 00:04:06,205
+"At this end"?
+
+71
+00:04:06,371 --> 00:04:10,295
+Yeah, the Cube is a doorway to
+the other end of space, right?
+
+72
+00:04:12,043 --> 00:04:13,294
+Doors open from both sides.
+
+73
+00:04:14,128 --> 00:04:15,506
+Not yet.
+
+74
+00:05:23,406 --> 00:05:26,454
+Sir, please put down the spear.
+
+75
+00:06:05,781 --> 00:06:06,829
+You have heart.
+
+76
+00:06:37,646 --> 00:06:39,149
+Please don't.
+
+77
+00:06:40,817 --> 00:06:41,908
+I still need that.
+
+78
+00:06:42,319 --> 00:06:43,821
+This doesn't have
+to get any messier.
+
+79
+00:06:43,987 --> 00:06:45,079
+Of course it does.
+
+80
+00:06:45,322 --> 00:06:47,040
+I've come too far
+for anything else.
+
+81
+00:06:48,992 --> 00:06:51,836
+I am Loki, of Asgard
+
+82
+00:06:52,786 --> 00:06:55,165
+and I am burdened with
+glorious purpose.
+
+83
+00:06:55,331 --> 00:06:56,834
+Loki.
+
+84
+00:06:57,250 --> 00:06:58,627
+Brother of Thor.
+
+85
+00:06:58,793 --> 00:07:00,966
+We have no quarrel
+with your people.
+
+86
+00:07:01,463 --> 00:07:04,137
+An ant has no quarrel
+with a boot.
+
+87
+00:07:05,007 --> 00:07:06,509
+Are you planning to step on us?
+
+88
+00:07:07,009 --> 00:07:10,105
+I come with glad tidings
+
+89
+00:07:11,348 --> 00:07:13,021
+of a world made free.
+
+90
+00:07:13,516 --> 00:07:14,608
+Free from what?
+
+91
+00:07:14,768 --> 00:07:15,939
+Freedom.
+
+92
+00:07:16,685 --> 00:07:19,064
+Freedom is life's great lie.
+
+93
+00:07:19,521 --> 00:07:22,776
+Once you accept that,
+in your heart,
+
+94
+00:07:27,363 --> 00:07:29,081
+you will know peace.
+
+95
+00:07:29,615 --> 00:07:32,119
+Yeah, you say "peace,"
+
+96
+00:07:32,284 --> 00:07:34,207
+I kind of think you
+mean the other thing.
+
+97
+00:07:34,370 --> 00:07:36,874
+Sir, Director Fury is stalling.
+
+98
+00:07:37,040 --> 00:07:38,461
+This place is about to blow
+
+99
+00:07:38,540 --> 00:07:39,963
+and drop a hundred
+feet of rock on us.
+
+100
+00:07:41,627 --> 00:07:42,720
+He means to bury us.
+
+101
+00:07:42,879 --> 00:07:44,050
+Like the pharaohs of old.
+
+102
+00:07:44,254 --> 00:07:46,302
+He's right. The portal is
+collapsing in on itself.
+
+103
+00:07:46,466 --> 00:07:48,560
+We've got maybe two minutes
+before this goes critical.
+
+104
+00:07:48,884 --> 00:07:49,886
+Well, then.
+
+105
+00:08:05,651 --> 00:08:06,744
+I need these vehicles.
+
+106
+00:08:10,865 --> 00:08:12,913
+- Who's that?
+- They didn't tell me.
+
+107
+00:08:16,204 --> 00:08:17,500
+Hill!
+
+108
+00:08:17,747 --> 00:08:18,622
+Do you copy?
+
+109
+00:08:20,082 --> 00:08:21,129
+Barton has turned.
+
+110
+00:08:34,096 --> 00:08:36,941
+They have the Tesseract!
+Shut them down!
+
+111
+00:09:13,635 --> 00:09:15,683
+Okay, let's go. No, leave it.
+Go!
+
+112
+00:09:32,322 --> 00:09:34,198
+We're clear upstairs, sir.
+You need to go.
+
+113
+00:11:06,291 --> 00:11:07,668
+Director?
+
+114
+00:11:08,083 --> 00:11:09,427
+Director Fury, do you copy?
+
+115
+00:11:09,751 --> 00:11:12,096
+The Tesseract is with
+a hostile force.
+
+116
+00:11:12,254 --> 00:11:14,427
+I have men down. Hill?
+
+117
+00:11:15,091 --> 00:11:17,014
+A lot of men still under.
+
+118
+00:11:17,177 --> 00:11:18,928
+I don't know how many survivors.
+
+119
+00:11:19,095 --> 00:11:20,312
+Sound a general call.
+
+120
+00:11:20,471 --> 00:11:22,018
+I want every living
+soul not working rescue
+
+121
+00:11:22,097 --> 00:11:23,099
+looking for that briefcase.
+
+122
+00:11:23,182 --> 00:11:24,274
+Roger that.
+
+123
+00:11:24,433 --> 00:11:27,812
+Coulson, get back to base.
+This is a Level Seven.
+
+124
+00:11:29,105 --> 00:11:30,697
+As of right now,
+
+125
+00:11:30,815 --> 00:11:32,158
+we are at war.
+
+126
+00:11:34,110 --> 00:11:35,452
+What do we do?
+
+127
+00:12:12,273 --> 00:12:15,777
+This is not how I wanted
+this evening to go.
+
+128
+00:12:15,860 --> 00:12:17,658
+I know how you wanted
+this evening to go.
+
+129
+00:12:17,736 --> 00:12:18,863
+Believe me
+
+130
+00:12:18,947 --> 00:12:19,994
+this is better.
+
+131
+00:12:21,157 --> 00:12:22,875
+Who are you working for?
+
+132
+00:12:23,408 --> 00:12:24,831
+Lermentov, yes?
+
+133
+00:12:26,955 --> 00:12:28,456
+Does he think
+
+134
+00:12:28,664 --> 00:12:30,337
+we have to go through him
+
+135
+00:12:30,832 --> 00:12:32,335
+to move our cargo?
+
+136
+00:12:33,836 --> 00:12:38,386
+I thought General Solohob is in
+charge of the export business.
+
+137
+00:12:38,758 --> 00:12:40,759
+Solohob
+
+138
+00:12:40,884 --> 00:12:43,013
+a bagman, a front.
+
+139
+00:12:45,389 --> 00:12:49,644
+Your outdated information
+betrays you.
+
+140
+00:12:51,187 --> 00:12:53,815
+The famous Black Widow
+
+141
+00:12:55,566 --> 00:12:59,821
+and she turns out to be
+simply another pretty face.
+
+142
+00:13:00,822 --> 00:13:03,870
+You really think I'm pretty?
+
+143
+00:13:06,535 --> 00:13:08,833
+Tell Lermentov we don't need him
+
+144
+00:13:09,080 --> 00:13:12,710
+to move the tanks.
+
+145
+00:13:13,625 --> 00:13:16,299
+Tell him he is out.
+
+146
+00:13:16,671 --> 00:13:18,344
+Well..
+
+147
+00:13:21,174 --> 00:13:22,802
+you may have
+to write it down.
+
+148
+00:13:31,894 --> 00:13:33,395
+It's for her.
+
+149
+00:13:36,816 --> 00:13:38,158
+You listen carefully
+
+150
+00:13:38,234 --> 00:13:40,532
+You're at 1-14 Silensky
+Plaza, 3rd floor.
+
+151
+00:13:41,070 --> 00:13:43,038
+We have an F-22 exactly
+eight miles out.
+
+152
+00:13:43,990 --> 00:13:45,991
+Put the woman on the phone
+or I will blow up the block
+
+153
+00:13:46,075 --> 00:13:48,168
+before you can make the lobby.
+
+154
+00:13:54,750 --> 00:13:56,923
+- We need you to come in.
+- Are you kidding'? I'm working.
+
+155
+00:13:57,086 --> 00:13:58,258
+This takes precedence.
+
+156
+00:13:58,587 --> 00:14:00,260
+I'm in the middle of
+an interrogation.
+
+157
+00:14:00,380 --> 00:14:02,008
+This moron is giving
+me everything.
+
+158
+00:14:02,591 --> 00:14:05,061
+I don't give everything.
+
+159
+00:14:06,636 --> 00:14:07,889
+Look, you can't pull me
+out of this right now.
+
+160
+00:14:07,971 --> 00:14:08,972
+Natasha..
+
+161
+00:14:10,725 --> 00:14:12,067
+Barton's been compromised.
+
+162
+00:14:15,437 --> 00:14:17,315
+Let me put you on hold.
+
+163
+00:14:59,023 --> 00:15:00,024
+Where is Barton now?
+
+164
+00:15:00,191 --> 00:15:01,488
+- We don't know.
+- But he's alive?
+
+165
+00:15:01,900 --> 00:15:04,528
+We think so. I'll brief you on
+everything when you get back.
+
+166
+00:15:04,903 --> 00:15:06,998
+But first, we need you
+to talk to the big guy.
+
+167
+00:15:07,490 --> 00:15:10,333
+Coulson, you know that Stark trusts
+me about as far as he can throw me.
+
+168
+00:15:10,493 --> 00:15:13,667
+I've got Stark. You
+get the big guy.
+
+169
+00:15:38,687 --> 00:15:39,688
+Who are you?
+
+170
+00:15:40,188 --> 00:15:41,315
+Get out!
+
+171
+00:15:41,399 --> 00:15:43,947
+There is sickness here!
+
+172
+00:15:44,025 --> 00:15:45,027
+You're a doctor.
+
+173
+00:15:46,736 --> 00:15:48,080
+My father's not waking up!
+
+174
+00:15:48,155 --> 00:15:49,783
+He has a fever and he's moaning
+
+175
+00:15:49,865 --> 00:15:51,038
+but his eyes won't open.
+
+176
+00:15:51,116 --> 00:15:52,118
+Slow down.
+
+177
+00:15:53,536 --> 00:15:54,662
+My father..
+
+178
+00:15:57,331 --> 00:15:58,331
+Like them?
+
+179
+00:16:02,336 --> 00:16:03,633
+Please.
+
+180
+00:16:30,780 --> 00:16:33,125
+You should've got paid
+up front, Banner.
+
+181
+00:16:33,283 --> 00:16:34,626
+You know, for a man
+
+182
+00:16:34,701 --> 00:16:35,999
+who's supposed to
+be avoiding stress
+
+183
+00:16:36,203 --> 00:16:39,253
+you picked a hell of
+a place to settle.
+
+184
+00:16:41,209 --> 00:16:43,336
+Avoiding stress
+isn't the secret.
+
+185
+00:16:43,628 --> 00:16:45,755
+Then what is it? Yoga?
+
+186
+00:16:47,298 --> 00:16:50,518
+You brought me to the
+edge of the city. Smart.
+
+187
+00:16:51,052 --> 00:16:55,148
+I assume the whole
+place is surrounded.
+
+188
+00:16:55,556 --> 00:16:56,977
+Just you and me.
+
+189
+00:16:58,183 --> 00:17:00,278
+And your actress buddy?
+
+190
+00:17:00,436 --> 00:17:02,187
+Is she a spy, too?
+They start that young?
+
+191
+00:17:02,812 --> 00:17:04,109
+I did.
+
+192
+00:17:04,272 --> 00:17:05,365
+Who are you?
+
+193
+00:17:05,441 --> 00:17:06,442
+Natasha Romanoff.
+
+194
+00:17:09,987 --> 00:17:11,364
+Are you here to kill
+me, Ms. Romanoff?
+
+195
+00:17:11,530 --> 00:17:14,125
+Because that's not going
+to work out for everyone.
+
+196
+00:17:14,450 --> 00:17:16,623
+No, of course not. I'm here
+on behalf of S.H.I.E.L.D.
+
+197
+00:17:18,663 --> 00:17:20,039
+S.H.I.E.L.D.
+
+198
+00:17:21,958 --> 00:17:22,959
+How did they find me?
+
+199
+00:17:23,125 --> 00:17:24,547
+We never lost you, Doctor.
+
+200
+00:17:24,794 --> 00:17:26,090
+We've kept our distance.
+
+201
+00:17:26,170 --> 00:17:27,887
+Even helped keep some
+other interested parties
+
+202
+00:17:27,963 --> 00:17:29,089
+off your scent.
+
+203
+00:17:29,673 --> 00:17:30,721
+Why?
+
+204
+00:17:30,799 --> 00:17:33,222
+Nick Fury seems to trust you.
+
+205
+00:17:33,385 --> 00:17:34,729
+But now we need you to come in.
+
+206
+00:17:35,971 --> 00:17:37,598
+What if I say no?
+
+207
+00:17:38,057 --> 00:17:40,025
+I'll persuade you.
+
+208
+00:17:42,310 --> 00:17:46,691
+And what if the
+other guy says no?
+
+209
+00:17:47,357 --> 00:17:49,030
+You've been more than a
+year without an incident.
+
+210
+00:17:49,192 --> 00:17:51,490
+I don't think you want
+to break that streak.
+
+211
+00:17:53,990 --> 00:17:56,663
+Well, I don't every
+time get what I want.
+
+212
+00:17:57,660 --> 00:17:59,627
+Doctor, we're facing a
+potential global catastrophe.
+
+213
+00:18:00,704 --> 00:18:03,584
+Well, those I actively
+try to avoid.
+
+214
+00:18:04,165 --> 00:18:06,259
+This
+
+215
+00:18:06,419 --> 00:18:08,547
+is the Tesseract.
+
+216
+00:18:08,671 --> 00:18:11,515
+It has the potential energy
+to wipe out the planet.
+
+217
+00:18:14,634 --> 00:18:16,511
+What does Fury want
+me to do, swallow it?
+
+218
+00:18:17,012 --> 00:18:19,266
+He wants you to find it.
+It's been taken.
+
+219
+00:18:20,307 --> 00:18:24,528
+It emits a gamma signature
+that's too weak for us to trace.
+
+220
+00:18:24,686 --> 00:18:27,656
+There's no one that knows
+gamma radiation like you do.
+
+221
+00:18:27,815 --> 00:18:30,317
+If there was, that's
+where I'd be.
+
+222
+00:18:31,192 --> 00:18:33,161
+So, Fury isn't
+after the monster?
+
+223
+00:18:33,570 --> 00:18:34,867
+Not that he's told me.
+
+224
+00:18:35,030 --> 00:18:37,250
+And he tells you everything?
+
+225
+00:18:37,866 --> 00:18:39,493
+Talk to Fury. He
+needs you on this.
+
+226
+00:18:39,576 --> 00:18:40,749
+He needs me in a cage?
+
+227
+00:18:40,827 --> 00:18:41,795
+No one's going to
+put you in a..
+
+228
+00:18:41,871 --> 00:18:42,712
+Stop lying to me!
+
+229
+00:18:46,916 --> 00:18:49,590
+I'm sorry. That was mean.
+
+230
+00:18:50,503 --> 00:18:52,722
+I just wanted to
+see what you'd do.
+
+231
+00:18:53,883 --> 00:18:56,886
+Why don't we do
+this the easy way
+
+232
+00:18:57,052 --> 00:18:58,349
+where you don't use that
+
+233
+00:18:58,511 --> 00:19:02,232
+and the other guy
+doesn't make a mess.
+
+234
+00:19:03,224 --> 00:19:04,567
+Okay?
+
+235
+00:19:05,519 --> 00:19:06,895
+Natasha?
+
+236
+00:19:12,526 --> 00:19:13,617
+Stand down.
+
+237
+00:19:14,528 --> 00:19:16,121
+We're good here.
+
+238
+00:19:17,906 --> 00:19:19,250
+"Just you and me."
+
+239
+00:19:21,618 --> 00:19:24,247
+This is out of line, Director.
+
+240
+00:19:24,413 --> 00:19:26,882
+You're dealing with
+forces you can't control.
+
+241
+00:19:27,249 --> 00:19:30,752
+You ever been in a war, Councilman?
+In a firefight?
+
+242
+00:19:30,920 --> 00:19:33,763
+Did you feel an
+overabundance of control?
+
+243
+00:19:33,923 --> 00:19:37,347
+You're saying that this Asgard
+is declaring war on our planet?
+
+244
+00:19:37,425 --> 00:19:40,099
+Not Asgard. Loki.
+
+245
+00:19:40,261 --> 00:19:43,105
+He can't be working alone.
+What about the other one?
+
+246
+00:19:43,182 --> 00:19:44,273
+His brother.
+
+247
+00:19:44,349 --> 00:19:46,317
+Our intelligence says
+Thor is not a hostile
+
+248
+00:19:46,602 --> 00:19:47,603
+but he's worlds away.
+
+249
+00:19:47,769 --> 00:19:49,613
+We can't depend on
+him to help, either.
+
+250
+00:19:49,689 --> 00:19:50,690
+It's up to us.
+
+251
+00:19:50,772 --> 00:19:53,447
+Which is why you should
+be focusing on Phase 2.
+
+252
+00:19:53,608 --> 00:19:54,780
+It was designed for
+exactly this..
+
+253
+00:19:55,111 --> 00:19:57,954
+Phase 2 isn't ready.
+Our enemy is.
+
+254
+00:19:58,530 --> 00:20:00,124
+We need a response team.
+
+255
+00:20:00,281 --> 00:20:02,454
+The Avengers Initiative
+was shut down.
+
+256
+00:20:02,617 --> 00:20:04,461
+This isn't about the Avengers.
+
+257
+00:20:04,787 --> 00:20:05,959
+We've seen the list.
+
+258
+00:20:06,122 --> 00:20:08,375
+You're running the world's
+greatest covert security network
+
+259
+00:20:08,457 --> 00:20:10,130
+and you're going to leave
+the fate of the human race
+
+260
+00:20:10,250 --> 00:20:11,548
+to a handful of freaks.
+
+261
+00:20:11,626 --> 00:20:13,595
+I'm not leaving
+anything to anyone.
+
+262
+00:20:13,753 --> 00:20:15,676
+We need a response team.
+
+263
+00:20:16,214 --> 00:20:18,968
+These people may be
+isolated, unbalanced even
+
+264
+00:20:19,134 --> 00:20:23,230
+but I believe with the right push
+they can be exactly what we need.
+
+265
+00:20:23,596 --> 00:20:24,973
+You believe?
+
+266
+00:20:25,141 --> 00:20:28,486
+War isn't won by
+sentiment, Director.
+
+267
+00:20:29,394 --> 00:20:32,819
+No, it's won by soldiers.
+
+268
+00:20:52,375 --> 00:20:53,798
+There's not enough time.
+
+269
+00:20:54,127 --> 00:20:55,674
+I got to put her in the water!
+
+270
+00:21:00,925 --> 00:21:02,018
+You won't be alone.
+
+271
+00:21:02,678 --> 00:21:04,020
+Oh, my God.
+
+272
+00:21:04,637 --> 00:21:05,855
+This guy is still alive!
+
+273
+00:21:30,830 --> 00:21:32,628
+Trouble sleeping?
+
+274
+00:21:33,917 --> 00:21:36,386
+I slept for 70 years, sir.
+I think I've had my fill.
+
+275
+00:21:38,130 --> 00:21:41,805
+Then you should be out,
+celebrating, seeing the world.
+
+276
+00:21:47,890 --> 00:21:50,769
+When I went under, the
+world was at war.
+
+277
+00:21:50,934 --> 00:21:52,481
+I wake up, they say we won.
+
+278
+00:21:53,479 --> 00:21:54,730
+They didn't say what we lost.
+
+279
+00:21:55,605 --> 00:21:57,700
+We've made some
+mistakes along the way.
+
+280
+00:21:58,358 --> 00:21:59,736
+Some, very recently.
+
+281
+00:22:01,569 --> 00:22:02,821
+Are you here with
+a mission, sir?
+
+282
+00:22:02,904 --> 00:22:03,951
+I am.
+
+283
+00:22:04,030 --> 00:22:05,452
+Trying to get me
+back in the world?
+
+284
+00:22:06,200 --> 00:22:07,622
+Trying to save it.
+
+285
+00:22:12,539 --> 00:22:14,587
+HYDRA'S secret weapon.
+
+286
+00:22:14,750 --> 00:22:16,548
+Howard Stark fished
+that out of the ocean
+
+287
+00:22:16,626 --> 00:22:17,798
+when he was looking for you.
+
+288
+00:22:18,628 --> 00:22:19,971
+He thought what we think.
+
+289
+00:22:20,548 --> 00:22:24,394
+The Tesseract could be the key
+to unlimited sustainable energy.
+
+290
+00:22:25,134 --> 00:22:28,730
+That's something the
+world sorely needs.
+
+291
+00:22:30,473 --> 00:22:31,691
+Who took it from you?
+
+292
+00:22:31,851 --> 00:22:33,318
+He's called Loki.
+
+293
+00:22:33,477 --> 00:22:35,775
+He's not from around here.
+
+294
+00:22:36,605 --> 00:22:38,699
+There's a lot we'll have to
+bring you up to speed on
+
+295
+00:22:38,773 --> 00:22:40,026
+if you're in.
+
+296
+00:22:40,942 --> 00:22:42,661
+The world has gotten
+even stranger
+
+297
+00:22:42,778 --> 00:22:43,903
+than you already know.
+
+298
+00:22:44,654 --> 00:22:46,999
+At this point, I doubt
+anything would surprise me.
+
+299
+00:22:47,866 --> 00:22:49,288
+Ten bucks says you're wrong.
+
+300
+00:22:51,287 --> 00:22:52,709
+There's a debriefing packet
+
+301
+00:22:52,788 --> 00:22:55,211
+waiting for you back
+at your apartment.
+
+302
+00:22:57,375 --> 00:22:59,344
+Is there anything you can
+tell us about the Tesseract
+
+303
+00:22:59,627 --> 00:23:00,845
+that we ought to know now?
+
+304
+00:23:01,130 --> 00:23:03,473
+You should have left
+it in the ocean.
+
+305
+00:23:36,164 --> 00:23:39,044
+Good to go on this end.
+The rest is up to you.
+
+306
+00:23:39,209 --> 00:23:40,586
+You disconnected the
+transmission lines?
+
+307
+00:23:40,669 --> 00:23:41,760
+Are we off the grid?
+
+308
+00:23:41,836 --> 00:23:44,009
+Stark Tower is about
+to become a beacon
+
+309
+00:23:44,131 --> 00:23:45,473
+of self-sustaining clean energy.
+
+310
+00:23:45,715 --> 00:23:47,809
+Well, assuming the arc
+reactor takes over
+
+311
+00:23:47,884 --> 00:23:49,182
+and it actually works.
+
+312
+00:23:49,470 --> 00:23:50,813
+I assume.
+
+313
+00:23:51,012 --> 00:23:52,013
+Light her up.
+
+314
+00:23:57,853 --> 00:23:58,854
+How does it look?
+
+315
+00:23:59,020 --> 00:24:01,694
+Like Christmas,
+but with more me.
+
+316
+00:24:01,856 --> 00:24:03,483
+We've got to go wider on the
+public awareness campaign.
+
+317
+00:24:03,567 --> 00:24:04,659
+You need to do some press.
+
+318
+00:24:05,234 --> 00:24:06,326
+I'm in DC tomorrow,
+
+319
+00:24:06,403 --> 00:24:07,904
+I'm working on the zoning for
+the next three buildings.
+
+320
+00:24:07,988 --> 00:24:10,207
+Pepper, you're killing me.
+The moment, remember?
+
+321
+00:24:10,740 --> 00:24:11,866
+Enjoy the moment.
+
+322
+00:24:11,951 --> 00:24:12,951
+Get in here and I will.
+
+323
+00:24:16,538 --> 00:24:19,461
+Sir, Agent Coulson of S.H.I.E.L.D.
+is on the line.
+
+324
+00:24:20,000 --> 00:24:21,047
+I'm not in.
+
+325
+00:24:21,669 --> 00:24:23,046
+I'm actually out.
+
+326
+00:24:30,176 --> 00:24:32,895
+Sir, I'm afraid he's insisting.
+
+327
+00:24:33,055 --> 00:24:35,523
+Grow a spine, Jarvis.
+I got a date.
+
+328
+00:24:40,311 --> 00:24:43,316
+Levels are holding
+steady, I think.
+
+329
+00:24:43,481 --> 00:24:45,701
+Of course they are. I
+was directly involved.
+
+330
+00:24:45,858 --> 00:24:47,076
+Which brings me to
+my next question.
+
+331
+00:24:47,193 --> 00:24:49,241
+How does it feel to be a genius?
+
+332
+00:24:49,404 --> 00:24:51,657
+Well, I really wouldn't
+know, now would I?
+
+333
+00:24:51,824 --> 00:24:56,375
+What do you mean? All
+this came from you.
+
+334
+00:24:56,537 --> 00:24:59,915
+No, all this came from that.
+
+335
+00:25:00,374 --> 00:25:02,501
+Give yourself some credit.
+Please.
+
+336
+00:25:02,875 --> 00:25:04,719
+Stark Tower is your baby.
+
+337
+00:25:04,877 --> 00:25:07,006
+Give yourself 12% of the credit.
+
+338
+00:25:07,506 --> 00:25:08,632
+12%?
+
+339
+00:25:08,757 --> 00:25:09,973
+An argument can be made for 15.
+
+340
+00:25:10,259 --> 00:25:11,852
+12%? My baby?
+
+341
+00:25:12,010 --> 00:25:13,683
+Well, I did do all
+the heavy lifting.
+
+342
+00:25:13,761 --> 00:25:15,263
+Literally, I lifted
+the heavy things.
+
+343
+00:25:15,847 --> 00:25:18,192
+And, sorry, but the
+security snafu?
+
+344
+00:25:18,267 --> 00:25:19,769
+That was on you.
+
+345
+00:25:19,852 --> 00:25:21,819
+- My private elevator..
+- You mean our elevator?
+
+346
+00:25:22,145 --> 00:25:24,865
+It was teeming
+with sweaty workmen.
+
+347
+00:25:25,023 --> 00:25:27,446
+I'm going to pay for that
+comment about percentages
+
+348
+00:25:27,608 --> 00:25:29,236
+in some subtle way
+later, aren't I?
+
+349
+00:25:29,987 --> 00:25:31,284
+It's not going to
+be that subtle.
+
+350
+00:25:31,446 --> 00:25:32,743
+I'll tell you what.
+
+351
+00:25:32,905 --> 00:25:35,203
+The next building is gonna
+say "Potts" on the tower.
+
+352
+00:25:35,451 --> 00:25:36,748
+On the lease.
+
+353
+00:25:37,869 --> 00:25:40,042
+Call your mom. Can
+you bunk over?
+
+354
+00:25:40,204 --> 00:25:41,501
+Sir, the telephone.
+
+355
+00:25:41,664 --> 00:25:44,134
+I'm afraid my protocols
+are being overridden.
+
+356
+00:25:44,292 --> 00:25:46,010
+Mr. Stark, we need to talk.
+
+357
+00:25:46,295 --> 00:25:48,673
+You have reached the life
+model decoy of Tony Stark.
+
+358
+00:25:49,088 --> 00:25:50,965
+- Please leave a message.
+- This is urgent.
+
+359
+00:25:51,299 --> 00:25:53,097
+Then leave it urgently.
+
+360
+00:25:54,635 --> 00:25:55,807
+Security breach. It's on you.
+
+361
+00:25:55,971 --> 00:25:58,598
+- Mr. Stark.
+- Phil! Come in.
+
+362
+00:25:58,682 --> 00:25:59,682
+"Phil"?
+
+363
+00:25:59,807 --> 00:26:00,855
+I can't stay.
+
+364
+00:26:01,184 --> 00:26:02,436
+His first name is "Agent."
+
+365
+00:26:02,894 --> 00:26:04,192
+Come on in. We're celebrating.
+
+366
+00:26:04,270 --> 00:26:06,114
+Which is why he can't stay.
+
+367
+00:26:06,481 --> 00:26:08,483
+We need you to look this
+over as soon as possible.
+
+368
+00:26:08,650 --> 00:26:09,696
+I don't like being
+handed things.
+
+369
+00:26:09,859 --> 00:26:11,156
+That's fine, because I
+love to be handed things.
+
+370
+00:26:11,319 --> 00:26:12,696
+So, let's trade.
+
+371
+00:26:14,239 --> 00:26:15,786
+Thank you.
+
+372
+00:26:16,950 --> 00:26:19,044
+Official consulting hours
+are between 8 and 5
+
+373
+00:26:19,118 --> 00:26:20,119
+every other Thursday.
+
+374
+00:26:20,496 --> 00:26:21,497
+This isn't a consultation.
+
+375
+00:26:21,579 --> 00:26:22,672
+Is this about the Avengers?
+
+376
+00:26:23,248 --> 00:26:25,171
+Which I know nothing about.
+
+377
+00:26:25,334 --> 00:26:27,883
+The Avengers Initiative
+was scrapped, I thought.
+
+378
+00:26:28,045 --> 00:26:29,297
+And I didn't even qualify.
+
+379
+00:26:29,378 --> 00:26:30,380
+I didn't know that either.
+
+380
+00:26:30,798 --> 00:26:33,721
+Apparently I'm volatile,
+self-obsessed,
+
+381
+00:26:33,800 --> 00:26:34,926
+don't play well with others.
+
+382
+00:26:35,344 --> 00:26:36,391
+That I did know.
+
+383
+00:26:36,470 --> 00:26:38,188
+This isn't about personality
+profiles any more.
+
+384
+00:26:38,262 --> 00:26:40,685
+Whatever. Ms. Potts,
+got a second?
+
+385
+00:26:40,848 --> 00:26:41,849
+Half a mo.
+
+386
+00:26:47,105 --> 00:26:49,278
+You know, I thought we
+were having a moment.
+
+387
+00:26:49,691 --> 00:26:50,988
+I was having 12% of a moment.
+
+388
+00:26:52,443 --> 00:26:54,947
+This seems serious.
+Phil's pretty shaken.
+
+389
+00:26:55,114 --> 00:26:57,115
+How would you know if it's..
+Why is he "Phil"?
+
+390
+00:26:57,281 --> 00:26:59,079
+What is all this?
+
+391
+00:26:59,242 --> 00:27:00,869
+This is
+
+392
+00:27:01,494 --> 00:27:02,496
+this.
+
+393
+00:27:09,836 --> 00:27:10,962
+I'm going to take the
+jet to DC tonight.
+
+394
+00:27:11,046 --> 00:27:12,172
+Tomorrow.
+
+395
+00:27:12,381 --> 00:27:14,724
+You have homework. You
+have a lot of homework.
+
+396
+00:27:15,049 --> 00:27:16,768
+Well, what if I didn't?
+
+397
+00:27:17,385 --> 00:27:18,762
+- If you didn't?
+- Yeah.
+
+398
+00:27:18,929 --> 00:27:21,147
+You mean when you've finished?
+
+399
+00:27:22,223 --> 00:27:25,523
+Well, then..
+
+400
+00:27:30,440 --> 00:27:31,737
+Square deal. Fly safe.
+
+401
+00:27:36,195 --> 00:27:37,367
+Work hard.
+
+402
+00:27:40,200 --> 00:27:41,998
+So, any chance you're
+driving by LaGuardia?
+
+403
+00:27:42,161 --> 00:27:44,960
+- I can drop you.
+- Fantastic.
+
+404
+00:27:45,038 --> 00:27:46,085
+I want to hear
+
+405
+00:27:46,164 --> 00:27:47,916
+about the cellist. Is
+that still a thing?
+
+406
+00:27:48,040 --> 00:27:49,258
+She moved back to Portland.
+
+407
+00:27:49,417 --> 00:27:52,136
+What? Boo!
+
+408
+00:28:00,554 --> 00:28:03,022
+We're about 40 minutes
+out from home base, sir.
+
+409
+00:28:06,684 --> 00:28:10,405
+So, this Dr. Banner was trying to
+replicate the serum they used on me?
+
+410
+00:28:10,564 --> 00:28:12,156
+A lot of people were.
+
+411
+00:28:12,316 --> 00:28:13,784
+You were the world's
+first superhero.
+
+412
+00:28:14,651 --> 00:28:17,450
+Banner thought gamma radiation
+might hold the key to unlocking
+
+413
+00:28:17,528 --> 00:28:18,780
+Erskine's original formula.
+
+414
+00:28:19,615 --> 00:28:21,083
+Didn't really go
+his way, did it?
+
+415
+00:28:21,700 --> 00:28:23,201
+Not so much.
+
+416
+00:28:23,367 --> 00:28:25,961
+When he's not that thing, though,
+the guy's like a Stephen Hawking.
+
+417
+00:28:28,289 --> 00:28:30,462
+He's like a smart person.
+
+418
+00:28:32,669 --> 00:28:33,885
+I gotta say.
+
+419
+00:28:34,003 --> 00:28:36,472
+It's an honour to
+meet you officially.
+
+420
+00:28:37,548 --> 00:28:39,142
+I've sort of met you. I mean,
+
+421
+00:28:39,218 --> 00:28:40,810
+I watched you while
+you were sleeping.
+
+422
+00:28:42,846 --> 00:28:45,144
+I mean, I was present
+
+423
+00:28:45,265 --> 00:28:48,644
+while you were unconscious
+from the ice.
+
+424
+00:28:48,769 --> 00:28:51,113
+You know, it's really
+just a huge honour
+
+425
+00:28:51,188 --> 00:28:52,940
+to have you on board this..
+
+426
+00:28:53,522 --> 00:28:55,445
+I hope I'm the man for the job.
+
+427
+00:28:55,608 --> 00:28:58,532
+Oh, you are. Absolutely.
+
+428
+00:28:58,694 --> 00:29:01,664
+We made some modifications
+to the uniform.
+
+429
+00:29:01,823 --> 00:29:03,325
+I had a little design input.
+
+430
+00:29:03,491 --> 00:29:04,743
+The uniform?
+
+431
+00:29:04,992 --> 00:29:07,496
+Aren't the stars and
+stripes a little
+
+432
+00:29:08,413 --> 00:29:09,835
+old-fashioned?
+
+433
+00:29:10,790 --> 00:29:12,759
+With everything that's happening
+
+434
+00:29:12,834 --> 00:29:14,507
+and the things that are
+about to come to light,
+
+435
+00:29:15,461 --> 00:29:18,965
+people might just need a
+little old-fashioned.
+
+436
+00:29:51,707 --> 00:29:54,711
+The Chitauri grow restless.
+
+437
+00:29:54,875 --> 00:29:56,627
+Let them gird themselves.
+
+438
+00:29:56,711 --> 00:29:58,384
+I will lead them in
+the glorious battle.
+
+439
+00:29:58,462 --> 00:29:59,555
+Battle?
+
+440
+00:30:00,673 --> 00:30:03,803
+Against the meagre
+might of Earth?
+
+441
+00:30:03,969 --> 00:30:06,847
+Glorious, not lengthy.
+
+442
+00:30:07,013 --> 00:30:10,894
+If your force is as
+formidable as you claim.
+
+443
+00:30:11,058 --> 00:30:13,311
+You question us?
+
+444
+00:30:13,729 --> 00:30:15,902
+You question him,
+
+445
+00:30:16,022 --> 00:30:18,526
+he who put the scepter
+in your hand?
+
+446
+00:30:18,692 --> 00:30:21,411
+Who gave you ancient
+knowledge and new purpose
+
+447
+00:30:21,653 --> 00:30:24,826
+when you were cast
+out, defeated?
+
+448
+00:30:24,905 --> 00:30:26,828
+I was a king!
+
+449
+00:30:26,991 --> 00:30:29,244
+The rightful king of Asgard,
+
+450
+00:30:29,368 --> 00:30:30,415
+betrayed.
+
+451
+00:30:31,371 --> 00:30:33,920
+Your ambition is little
+
+452
+00:30:33,999 --> 00:30:36,751
+and born of childish need.
+
+453
+00:30:37,169 --> 00:30:39,217
+We look beyond the Earth
+
+454
+00:30:39,378 --> 00:30:42,132
+to the greater worlds the
+Tesseract will unveil.
+
+455
+00:30:42,590 --> 00:30:44,093
+You don't have the
+Tesseract yet.
+
+456
+00:30:46,802 --> 00:30:47,804
+I don't threaten.
+
+457
+00:30:49,597 --> 00:30:52,192
+But until I open the doors,
+
+458
+00:30:52,351 --> 00:30:56,026
+until your force is
+mine to command,
+
+459
+00:30:56,730 --> 00:30:58,573
+you are but words.
+
+460
+00:30:58,731 --> 00:31:02,737
+You will have your
+war, Asgardian.
+
+461
+00:31:04,488 --> 00:31:06,536
+If you fail,
+
+462
+00:31:07,490 --> 00:31:11,961
+if the Tesseract
+is kept from us,
+
+463
+00:31:12,119 --> 00:31:16,500
+there will be no
+realm, no barren moon,
+
+464
+00:31:16,665 --> 00:31:20,010
+no crevice where he
+cannot find you.
+
+465
+00:31:21,546 --> 00:31:24,345
+You think you know pain?
+
+466
+00:31:24,508 --> 00:31:29,934
+He will make you long for
+something sweet as pain.
+
+467
+00:31:59,375 --> 00:32:00,468
+Stow the captain's gear.
+
+468
+00:32:00,544 --> 00:32:01,590
+Yes, sir.
+
+469
+00:32:03,087 --> 00:32:06,261
+Agent Romanoff, Captain Rogers.
+
+470
+00:32:06,424 --> 00:32:07,768
+- Ma'am.
+- Hi.
+
+471
+00:32:07,925 --> 00:32:08,926
+They need you on the bridge.
+
+472
+00:32:09,009 --> 00:32:10,557
+They're starting the face-trace.
+
+473
+00:32:10,720 --> 00:32:11,846
+See you there.
+
+474
+00:32:13,557 --> 00:32:17,436
+It was quite the buzz around
+here, finding you in the ice.
+
+475
+00:32:17,978 --> 00:32:20,605
+I thought Coulson
+was gonna swoon.
+
+476
+00:32:20,771 --> 00:32:23,695
+Did he ask you to sign his Captain
+America trading cards yet?
+
+477
+00:32:23,858 --> 00:32:25,111
+Trading cards?
+
+478
+00:32:25,277 --> 00:32:27,278
+They're vintage.
+He's very proud.
+
+479
+00:32:29,196 --> 00:32:30,539
+Dr. Banner.
+
+480
+00:32:32,200 --> 00:32:33,542
+Yeah, hi.
+
+481
+00:32:34,035 --> 00:32:35,287
+They told me you
+would be coming.
+
+482
+00:32:35,369 --> 00:32:36,712
+Word is, you can find the Cube.
+
+483
+00:32:38,080 --> 00:32:39,673
+Is that the only word on me?
+
+484
+00:32:40,040 --> 00:32:41,258
+Only word I care about.
+
+485
+00:32:44,128 --> 00:32:46,472
+It must be strange for
+you, all of this.
+
+486
+00:32:47,257 --> 00:32:49,976
+Well, this is actually
+kind of familiar.
+
+487
+00:32:50,050 --> 00:32:52,724
+Gentlemen, you might want
+to step inside in a minute.
+
+488
+00:32:53,096 --> 00:32:55,894
+It's going to get a
+little hard to breathe.
+
+489
+00:32:56,849 --> 00:32:58,396
+Flight crew, secure the deck.
+
+490
+00:33:03,147 --> 00:33:04,775
+Is this a submarine?
+
+491
+00:33:05,317 --> 00:33:06,317
+Really?
+
+492
+00:33:06,401 --> 00:33:10,247
+They want me in a submerged,
+pressurized, metal container'?
+
+493
+00:33:36,263 --> 00:33:38,642
+No, no, this is much worse.
+
+494
+00:34:08,797 --> 00:34:11,516
+Hover power check complete.
+Position cyclic.
+
+495
+00:34:11,675 --> 00:34:13,802
+Increase collective to 8.0 %.
+
+496
+00:34:19,181 --> 00:34:21,525
+Preparing for maximum
+performance takeoff.
+
+497
+00:34:21,643 --> 00:34:23,144
+Increase output to capacity.
+
+498
+00:34:23,269 --> 00:34:25,443
+Power plant performing
+at capacity.
+
+499
+00:34:25,605 --> 00:34:27,152
+We are clear.
+
+500
+00:34:27,315 --> 00:34:28,817
+All engines operating.
+
+501
+00:34:28,983 --> 00:34:33,659
+S.H.I.E.L.D. Emergency
+Protocol 193.6 in effect.
+
+502
+00:34:33,862 --> 00:34:36,490
+- We are at level, sir.
+- Good.
+
+503
+00:34:36,824 --> 00:34:37,826
+Let's vanish.
+
+504
+00:34:37,992 --> 00:34:40,166
+Engage retro-reflection panels.
+
+505
+00:34:56,010 --> 00:34:57,228
+Reflection panels engaged.
+
+506
+00:34:57,971 --> 00:34:59,393
+Gentlemen.
+
+507
+00:35:11,358 --> 00:35:12,530
+Doctor, thank you for coming.
+
+508
+00:35:14,862 --> 00:35:16,739
+Thanks for asking nicely.
+
+509
+00:35:16,905 --> 00:35:19,375
+So, how long am I staying?
+
+510
+00:35:19,742 --> 00:35:21,335
+Once we get our hands
+on the Tesseract,
+
+511
+00:35:21,411 --> 00:35:22,663
+you're in the wind.
+
+512
+00:35:22,746 --> 00:35:24,623
+Where are you with that?
+
+513
+00:35:24,706 --> 00:35:26,548
+We're sweeping every
+wirelessly accessible
+
+514
+00:35:26,625 --> 00:35:27,626
+camera on the planet.
+
+515
+00:35:28,335 --> 00:35:30,211
+Cell phones, laptops..
+
+516
+00:35:30,878 --> 00:35:34,052
+If it's connected to a satellite,
+it's eyes and ears for us.
+
+517
+00:35:34,132 --> 00:35:35,429
+That's still not gonna
+find them in time.
+
+518
+00:35:35,507 --> 00:35:36,599
+You have to narrow your field.
+
+519
+00:35:36,717 --> 00:35:38,766
+How many spectrometers
+do you have access to?
+
+520
+00:35:39,219 --> 00:35:40,893
+- How many are there?
+- Call every lab you know.
+
+521
+00:35:41,056 --> 00:35:42,807
+Tell them to put the
+spectrometers on the roof
+
+522
+00:35:42,891 --> 00:35:44,233
+and calibrate them
+for gamma rays.
+
+523
+00:35:44,516 --> 00:35:47,521
+I'll rough out a tracking algorithm,
+basic cluster recognition.
+
+524
+00:35:47,811 --> 00:35:50,280
+At least we could rule
+out a few places.
+
+525
+00:35:50,690 --> 00:35:52,567
+Do you have somewhere
+for me to work?
+
+526
+00:35:52,900 --> 00:35:53,947
+Agent Romanoff,
+
+527
+00:35:54,027 --> 00:35:56,155
+could you show Dr. Banner
+to his laboratory, please?
+
+528
+00:35:57,322 --> 00:35:59,494
+You're gonna love it, Doc.
+We got all the toys.
+
+529
+00:36:00,240 --> 00:36:02,083
+Put it over there.
+
+530
+00:36:03,994 --> 00:36:06,168
+Where did you find
+all these people?
+
+531
+00:36:06,331 --> 00:36:09,175
+S.H.I.E.L.D. has no shortage
+of enemies, Doctor.
+
+532
+00:36:09,751 --> 00:36:10,922
+Is this the stuff you need?
+
+533
+00:36:11,085 --> 00:36:12,086
+Yeah, iridium.
+
+534
+00:36:12,170 --> 00:36:14,844
+It's found in meteorites.
+It forms anti-protons.
+
+535
+00:36:15,005 --> 00:36:16,679
+It's very hard to get hold of.
+
+536
+00:36:16,840 --> 00:36:18,559
+Especially if S.H.I.E.L.D.
+knows you need it.
+
+537
+00:36:18,635 --> 00:36:20,056
+Well, I didn't know.
+
+538
+00:36:20,177 --> 00:36:21,429
+Hey!
+
+539
+00:36:21,596 --> 00:36:23,724
+The Tesseract has
+shown me so much.
+
+540
+00:36:24,349 --> 00:36:26,192
+It's more than knowledge.
+It's truth.
+
+541
+00:36:26,266 --> 00:36:27,268
+I know.
+
+542
+00:36:28,061 --> 00:36:29,903
+What did it show
+you, Agent Barton?
+
+543
+00:36:31,106 --> 00:36:32,449
+My next target.
+
+544
+00:36:32,523 --> 00:36:33,525
+Tell me what you need.
+
+545
+00:36:37,195 --> 00:36:39,072
+I need a distraction.
+
+546
+00:36:39,822 --> 00:36:41,291
+And an eyeball.
+
+547
+00:36:47,871 --> 00:36:50,545
+I mean, if it's not
+too much trouble.
+
+548
+00:36:50,625 --> 00:36:51,717
+No, no. It's fine.
+
+549
+00:36:54,963 --> 00:36:56,635
+It's a vintage set.
+
+550
+00:36:56,797 --> 00:36:59,096
+It took me a couple of
+years to collect them all.
+
+551
+00:37:01,635 --> 00:37:02,728
+Near mint.
+
+552
+00:37:02,887 --> 00:37:04,309
+Slight foxing around
+the edges, but..
+
+553
+00:37:04,472 --> 00:37:06,894
+We got a hit. A 67% match.
+
+554
+00:37:07,266 --> 00:37:08,940
+Wait. Cross match, 79%.
+
+555
+00:37:10,311 --> 00:37:11,311
+Location?
+
+556
+00:37:11,646 --> 00:37:14,489
+Stuttgart, Germany.
+28 Konigstrasse.
+
+557
+00:37:14,648 --> 00:37:15,820
+He's not exactly hiding.
+
+558
+00:37:15,900 --> 00:37:16,992
+Captain,
+
+559
+00:37:17,485 --> 00:37:18,485
+You're up
+
+560
+00:39:54,099 --> 00:39:55,271
+Kneel before me.
+
+561
+00:39:59,688 --> 00:40:01,032
+I said
+
+562
+00:40:03,067 --> 00:40:04,989
+kneel!
+
+563
+00:40:14,536 --> 00:40:17,961
+Is not this simpler?
+
+564
+00:40:19,500 --> 00:40:22,719
+Is this not your natural state?
+
+565
+00:40:25,005 --> 00:40:28,226
+It's the unspoken
+truth of humanity,
+
+566
+00:40:28,384 --> 00:40:30,806
+that you crave subjugation.
+
+567
+00:40:31,346 --> 00:40:35,146
+The bright lure of freedom
+diminishes your life's joy
+
+568
+00:40:35,307 --> 00:40:37,777
+in a mad scramble for power,
+
+569
+00:40:39,728 --> 00:40:41,197
+for identity.
+
+570
+00:40:42,773 --> 00:40:46,199
+You were made to be ruled.
+
+571
+00:40:46,485 --> 00:40:48,112
+In the end,
+
+572
+00:40:48,655 --> 00:40:50,657
+you will always kneel.
+
+573
+00:40:58,331 --> 00:41:00,048
+Not to men like you.
+
+574
+00:41:01,333 --> 00:41:03,007
+There are no men like me.
+
+575
+00:41:04,086 --> 00:41:06,840
+There are always men like you.
+
+576
+00:41:08,257 --> 00:41:09,884
+Look to your elder, people.
+
+577
+00:41:12,302 --> 00:41:13,599
+Let him be an example.
+
+578
+00:41:20,561 --> 00:41:23,155
+You know, the last
+time I was in Germany,
+
+579
+00:41:23,313 --> 00:41:26,568
+and saw a man standing
+above everybody else,
+
+580
+00:41:26,733 --> 00:41:28,235
+we ended up disagreeing.
+
+581
+00:41:28,402 --> 00:41:30,076
+The soldier.
+
+582
+00:41:32,239 --> 00:41:33,536
+The man out of time.
+
+583
+00:41:33,907 --> 00:41:35,251
+I'm not the one
+who's out of time.
+
+584
+00:41:38,954 --> 00:41:41,253
+Loki, drop the weapon
+and stand down.
+
+585
+00:42:01,893 --> 00:42:03,521
+Kneel.
+
+586
+00:42:03,603 --> 00:42:04,820
+Not today!
+
+587
+00:42:06,940 --> 00:42:08,157
+The guy's all over the place.
+
+588
+00:42:11,862 --> 00:42:14,036
+Agent Romanoff. You miss me?
+
+589
+00:42:30,965 --> 00:42:33,092
+Make your move, Reindeer Games.
+
+590
+00:42:41,309 --> 00:42:42,309
+Good move.
+
+591
+00:42:44,019 --> 00:42:45,362
+Mr. Stark.
+
+592
+00:42:45,980 --> 00:42:47,197
+Captain.
+
+593
+00:42:54,362 --> 00:42:56,036
+Is he saying anything?
+
+594
+00:42:56,199 --> 00:42:57,199
+Not a word.
+
+595
+00:42:57,742 --> 00:42:59,585
+Just get him here.
+We're low on time.
+
+596
+00:43:02,579 --> 00:43:03,581
+I don't like it.
+
+597
+00:43:03,998 --> 00:43:06,000
+What, Rock of Ages
+giving up so easily?
+
+598
+00:43:06,125 --> 00:43:07,842
+I don't remember it
+being that easy.
+
+599
+00:43:08,126 --> 00:43:09,594
+This guy packs a wallop.
+
+600
+00:43:09,753 --> 00:43:13,384
+Still, you are pretty
+spry for an older fellow.
+
+601
+00:43:14,382 --> 00:43:15,929
+What's your thing, Pilates?
+
+602
+00:43:16,010 --> 00:43:17,010
+What?
+
+603
+00:43:17,219 --> 00:43:18,266
+It's like calisthenics.
+
+604
+00:43:18,346 --> 00:43:20,347
+You might have missed
+a couple of things
+
+605
+00:43:20,431 --> 00:43:22,103
+doing time as a Capsicle.
+
+606
+00:43:24,226 --> 00:43:25,853
+Fury didn't tell me he
+was calling you in.
+
+607
+00:43:26,019 --> 00:43:28,739
+Yeah, there's a lot of things
+Fury doesn't tell you.
+
+608
+00:43:29,106 --> 00:43:30,733
+Where's this coming from?
+
+609
+00:43:34,612 --> 00:43:37,286
+What's the matter? Are you
+scared of a little lightning?
+
+610
+00:43:37,697 --> 00:43:40,041
+I'm not overly fond
+of what follows.
+
+611
+00:43:57,844 --> 00:43:59,061
+What are you doing?
+
+612
+00:44:12,190 --> 00:44:13,659
+And now there's that guy.
+
+613
+00:44:13,818 --> 00:44:15,615
+Another Asgardian?
+
+614
+00:44:15,777 --> 00:44:17,655
+- That guy's a friendly?
+- Doesn't matter.
+
+615
+00:44:17,822 --> 00:44:20,449
+If he frees Loki or kills
+him, the Tesseract's lost.
+
+616
+00:44:20,615 --> 00:44:22,367
+Stark, we need a plan of attack!
+
+617
+00:44:22,702 --> 00:44:24,829
+I have a plan. Attack.
+
+618
+00:44:30,960 --> 00:44:32,677
+I'd sit this one out, Cap.
+
+619
+00:44:32,961 --> 00:44:34,009
+I don't see how I can.
+
+620
+00:44:34,172 --> 00:44:36,675
+These guys come from legend.
+They're basically gods.
+
+621
+00:44:37,257 --> 00:44:38,601
+There's only one God, ma'am.
+
+622
+00:44:38,675 --> 00:44:41,099
+And I'm pretty sure he
+doesn't dress like that.
+
+623
+00:44:56,527 --> 00:44:57,778
+Where is the Tesseract?
+
+624
+00:44:58,112 --> 00:44:59,454
+I missed you, too.
+
+625
+00:44:59,822 --> 00:45:01,119
+Do I look to be
+in a gaming mood?
+
+626
+00:45:01,740 --> 00:45:03,117
+You should thank me.
+
+627
+00:45:03,826 --> 00:45:05,954
+With the Bifrost gone,
+how much dark energy
+
+628
+00:45:06,119 --> 00:45:08,873
+did the Allfather have to
+muster to conjure you here
+
+629
+00:45:09,039 --> 00:45:10,211
+to your precious Earth?
+
+630
+00:45:14,378 --> 00:45:15,721
+I thought you dead.
+
+631
+00:45:17,297 --> 00:45:18,766
+Did you mourn?
+
+632
+00:45:19,342 --> 00:45:20,969
+We all did. Our father..
+
+633
+00:45:21,469 --> 00:45:24,188
+Your father.
+
+634
+00:45:26,306 --> 00:45:29,186
+He did tell you my true
+parentage, did he not?
+
+635
+00:45:31,686 --> 00:45:33,985
+We were raised together.
+
+636
+00:45:34,148 --> 00:45:36,822
+We played together,
+we fought together.
+
+637
+00:45:37,318 --> 00:45:38,534
+Do you remember none of that?
+
+638
+00:45:38,693 --> 00:45:40,695
+I remember a shadow.
+
+639
+00:45:42,155 --> 00:45:44,875
+Living in the shade
+of your greatness.
+
+640
+00:45:45,909 --> 00:45:48,583
+I remember you tossing
+me into an abyss.
+
+641
+00:45:48,663 --> 00:45:50,710
+I, who was, and should be, king!
+
+642
+00:45:51,164 --> 00:45:53,007
+So you take the world I
+love as a recompense
+
+643
+00:45:53,083 --> 00:45:55,007
+for your imagined slights?
+
+644
+00:45:55,168 --> 00:45:58,264
+No. The Earth is under
+my protection, Loki.
+
+645
+00:45:59,673 --> 00:46:02,974
+And you're doing a
+marvelous job with that.
+
+646
+00:46:03,677 --> 00:46:05,726
+The humans slaughter
+each other in droves
+
+647
+00:46:05,804 --> 00:46:07,648
+while you idly fret.
+
+648
+00:46:07,722 --> 00:46:09,942
+I mean to rule them,
+as why should I not?
+
+649
+00:46:10,101 --> 00:46:11,398
+You think yourself above them?
+
+650
+00:46:12,769 --> 00:46:13,771
+Well, yes.
+
+651
+00:46:13,938 --> 00:46:16,440
+Then you miss the truth
+of ruling, brother.
+
+652
+00:46:16,940 --> 00:46:18,362
+A throne would suit you ill.
+
+653
+00:46:23,864 --> 00:46:26,367
+I've seen worlds you've
+never known about!
+
+654
+00:46:26,701 --> 00:46:30,831
+I have grown,
+Odinson, in my exile.
+
+655
+00:46:31,371 --> 00:46:33,373
+I have seen the true
+power of the Tesseract,
+
+656
+00:46:33,666 --> 00:46:34,632
+and when I wield it..
+
+657
+00:46:34,708 --> 00:46:36,552
+Who showed you this power?
+
+658
+00:46:37,545 --> 00:46:38,967
+Who controls the would-be king?
+
+659
+00:46:39,213 --> 00:46:41,056
+- I am a king!
+- Not here!
+
+660
+00:46:41,215 --> 00:46:42,512
+You give up the Tesseract!
+
+661
+00:46:42,590 --> 00:46:45,219
+You give up this
+poisonous dream!
+
+662
+00:46:47,679 --> 00:46:49,056
+You come home.
+
+663
+00:46:53,978 --> 00:46:55,150
+I don't have it.
+
+664
+00:46:57,188 --> 00:46:59,362
+You need the Cube
+to bring me home.
+
+665
+00:46:59,567 --> 00:47:01,443
+But I've sent it off,
+I know not where.
+
+666
+00:47:02,777 --> 00:47:04,701
+You listen well, brother.
+
+667
+00:47:06,239 --> 00:47:07,536
+I'm listening.
+
+668
+00:47:16,916 --> 00:47:18,385
+Do not touch me again.
+
+669
+00:47:18,585 --> 00:47:20,179
+Then don't take my stuff.
+
+670
+00:47:20,253 --> 00:47:22,597
+You have no idea what
+you're dealing with.
+
+671
+00:47:24,467 --> 00:47:25,467
+Shakespeare in the Park?
+
+672
+00:47:26,927 --> 00:47:30,101
+Doth Mother know you
+wear-eth her drapes?
+
+673
+00:47:30,472 --> 00:47:33,271
+This is beyond you, metal man.
+
+674
+00:47:33,434 --> 00:47:35,231
+Loki will face
+Asgardian justice.
+
+675
+00:47:35,769 --> 00:47:39,148
+He gives up the Cube, he's all yours.
+Until then,
+
+676
+00:47:39,273 --> 00:47:40,525
+stay out of the way.
+
+677
+00:47:42,318 --> 00:47:43,911
+Tourist.
+
+678
+00:47:49,115 --> 00:47:50,208
+Okay.
+
+679
+00:48:20,146 --> 00:48:23,150
+Power at 400% capacity.
+
+680
+00:48:23,317 --> 00:48:24,568
+How about that?
+
+681
+00:49:24,920 --> 00:49:26,217
+Hey!
+
+682
+00:49:28,882 --> 00:49:30,179
+That's enough.
+
+683
+00:49:33,846 --> 00:49:35,518
+Now, I don't know what
+you plan on doing here.
+
+684
+00:49:35,597 --> 00:49:38,146
+I've come here to put an
+end to Loki's schemes.
+
+685
+00:49:38,224 --> 00:49:40,693
+Then prove it. Put
+that hammer down.
+
+686
+00:49:40,768 --> 00:49:41,769
+Yeah.. No.
+
+687
+00:49:42,021 --> 00:49:43,489
+Bad call. He loves his hammer.
+
+688
+00:49:45,398 --> 00:49:47,400
+You want me to put
+the hammer down?
+
+689
+00:50:14,969 --> 00:50:16,688
+Are we done, here?
+
+690
+00:51:04,519 --> 00:51:07,523
+In case it's unclear,
+
+691
+00:51:08,190 --> 00:51:10,032
+if you try to escape,
+
+692
+00:51:11,110 --> 00:51:13,204
+if you so much as
+scratch that glass,
+
+693
+00:51:22,996 --> 00:51:26,717
+it's 30,000 feet straight
+down in a steel trap.
+
+694
+00:51:27,501 --> 00:51:29,673
+You get how that works?
+
+695
+00:51:31,672 --> 00:51:34,346
+Ant, boot.
+
+696
+00:51:37,635 --> 00:51:39,182
+It's an impressive cage.
+
+697
+00:51:40,306 --> 00:51:42,684
+Not built, I think, for me.
+
+698
+00:51:43,266 --> 00:51:45,190
+Built for something a
+lot stronger than you.
+
+699
+00:51:45,893 --> 00:51:47,862
+Oh, I've heard.
+
+700
+00:51:48,521 --> 00:51:49,739
+A mindless beast.
+
+701
+00:51:50,983 --> 00:51:52,360
+Makes play he's still a man.
+
+702
+00:51:53,693 --> 00:51:55,947
+How desperate are you,
+
+703
+00:51:56,112 --> 00:51:59,242
+that you call on such lost
+creatures to defend you?
+
+704
+00:51:59,407 --> 00:52:01,536
+How desperate am I?
+
+705
+00:52:01,952 --> 00:52:03,829
+You threaten my world with war.
+
+706
+00:52:03,996 --> 00:52:06,168
+You steal a force you
+can't hope to control.
+
+707
+00:52:06,331 --> 00:52:10,177
+You talk about peace, and
+you kill because it's fun.
+
+708
+00:52:10,335 --> 00:52:13,385
+You have made me very desperate.
+
+709
+00:52:13,547 --> 00:52:15,298
+You might not be
+glad that you did.
+
+710
+00:52:18,719 --> 00:52:22,063
+It burns you to
+have come so close.
+
+711
+00:52:23,431 --> 00:52:25,900
+To have the Tesseract,
+to have power,
+
+712
+00:52:26,934 --> 00:52:29,233
+unlimited power.
+
+713
+00:52:29,396 --> 00:52:31,398
+And for what?
+
+714
+00:52:32,983 --> 00:52:36,612
+A warm light for all
+mankind to share.
+
+715
+00:52:37,070 --> 00:52:40,199
+And then to be reminded
+what real power is.
+
+716
+00:52:44,411 --> 00:52:48,507
+Well, let me know if "real power"
+wants a magazine or something.
+
+717
+00:52:56,965 --> 00:52:58,467
+He really grows on
+you, doesn't he?
+
+718
+00:52:58,675 --> 00:53:00,599
+Loki's gonna drag this out.
+
+719
+00:53:00,760 --> 00:53:04,264
+So, Thor, what's his play?
+
+720
+00:53:04,431 --> 00:53:07,059
+He has an army
+called the Chitauri.
+
+721
+00:53:07,226 --> 00:53:10,150
+They're not of Asgard,
+nor any world known.
+
+722
+00:53:10,561 --> 00:53:12,690
+He means to lead them
+against your people.
+
+723
+00:53:12,856 --> 00:53:14,483
+They will win him the Earth,
+
+724
+00:53:14,565 --> 00:53:16,409
+in return, I suspect,
+for the Tesseract.
+
+725
+00:53:16,568 --> 00:53:18,320
+An army
+
+726
+00:53:18,487 --> 00:53:20,239
+from outer space.
+
+727
+00:53:20,405 --> 00:53:22,829
+So, he's building
+another portal.
+
+728
+00:53:22,990 --> 00:53:24,288
+That's what he needs
+Erik Selvig for.
+
+729
+00:53:24,367 --> 00:53:25,369
+Selvig?
+
+730
+00:53:25,619 --> 00:53:28,041
+- He's an astrophysicist.
+- He's a friend.
+
+731
+00:53:28,204 --> 00:53:30,378
+Loki has him under
+some kind of spell,
+
+732
+00:53:30,456 --> 00:53:32,003
+along with one of ours.
+
+733
+00:53:32,166 --> 00:53:33,840
+I want to know why
+Loki let us take him.
+
+734
+00:53:33,918 --> 00:53:35,262
+He's not leading
+an army from here.
+
+735
+00:53:35,420 --> 00:53:37,139
+I don't think we should
+be focusing on Loki.
+
+736
+00:53:37,297 --> 00:53:39,173
+That guy's brain is
+a bag full of cats.
+
+737
+00:53:39,257 --> 00:53:40,510
+You could smell crazy on him.
+
+738
+00:53:40,759 --> 00:53:42,431
+Have care how you speak.
+
+739
+00:53:43,052 --> 00:53:44,976
+Loki is beyond reason,
+but he is of Asgard.
+
+740
+00:53:45,472 --> 00:53:46,597
+And he is my brother.
+
+741
+00:53:46,889 --> 00:53:48,688
+He killed 80 people in two days.
+
+742
+00:53:49,643 --> 00:53:50,643
+He's adopted.
+
+743
+00:53:50,853 --> 00:53:53,197
+I think it's about
+the mechanics.
+
+744
+00:53:53,355 --> 00:53:55,356
+Iridium.. What do they
+need the iridium for?
+
+745
+00:53:55,481 --> 00:53:56,483
+It's a stabilizing agent.
+
+746
+00:53:56,692 --> 00:53:58,034
+I'm just saying, pick a weekend.
+
+747
+00:53:58,152 --> 00:53:59,699
+I'll fly you to Portland.
+
+748
+00:53:59,862 --> 00:54:01,489
+Keep love alive.
+
+749
+00:54:01,655 --> 00:54:03,577
+It means the portal won't
+collapse on itself
+
+750
+00:54:03,657 --> 00:54:05,579
+like it did at S.H.I.E.L.D.
+
+751
+00:54:05,742 --> 00:54:09,043
+No hard feelings, Point Break.
+You've got a mean swing.
+
+752
+00:54:09,204 --> 00:54:11,501
+Also, it means the
+portal can open as wide
+
+753
+00:54:11,664 --> 00:54:14,168
+and stay open as
+long, as Loki wants.
+
+754
+00:54:14,835 --> 00:54:16,836
+Raise the mizzenmast.
+Jib the topsails.
+
+755
+00:54:18,547 --> 00:54:19,764
+That man is playing Galaga.
+
+756
+00:54:21,007 --> 00:54:24,387
+He thought we wouldn't
+notice, but we did.
+
+757
+00:54:26,179 --> 00:54:27,556
+How does Fury even see these?
+
+758
+00:54:27,639 --> 00:54:28,686
+He turns.
+
+759
+00:54:29,182 --> 00:54:30,856
+Sounds exhausting.
+
+760
+00:54:31,851 --> 00:54:33,103
+The rest of the raw materials,
+
+761
+00:54:33,269 --> 00:54:36,068
+Agent Barton can get his
+hands on pretty easily.
+
+762
+00:54:36,231 --> 00:54:37,699
+The only major component
+he still needs
+
+763
+00:54:37,858 --> 00:54:41,362
+is a power source of
+high-energy density.
+
+764
+00:54:41,527 --> 00:54:44,657
+Something to
+kick-start the Cube.
+
+765
+00:54:45,032 --> 00:54:47,751
+When did you become an expert
+in thermonuclear astrophysics?
+
+766
+00:54:47,826 --> 00:54:48,918
+Last night.
+
+767
+00:54:49,702 --> 00:54:52,922
+The packet, Selvig's notes,
+the extraction theory papers.
+
+768
+00:54:53,081 --> 00:54:54,128
+Am I the only one who
+did the reading?
+
+769
+00:54:54,291 --> 00:54:57,090
+Does Loki need any particular
+kind of power source?
+
+770
+00:54:57,251 --> 00:55:00,050
+He would have to heat the
+Cube to 120-million Kelvin
+
+771
+00:55:00,213 --> 00:55:01,715
+just to break through
+the Coulomb barrier.
+
+772
+00:55:01,882 --> 00:55:04,135
+Unless Selvig has figured
+out how to stabilize
+
+773
+00:55:04,300 --> 00:55:05,427
+the quantum tunneling effect.
+
+774
+00:55:05,594 --> 00:55:06,811
+Well, if he could do that,
+
+775
+00:55:06,887 --> 00:55:09,356
+he could achieve heavy ion fusion
+at any reactor on the planet.
+
+776
+00:55:09,431 --> 00:55:11,900
+Finally, someone who
+speaks English.
+
+777
+00:55:12,059 --> 00:55:13,936
+Is that what just happened?
+
+778
+00:55:14,228 --> 00:55:16,275
+It's good to meet
+you, Dr. Banner.
+
+779
+00:55:16,438 --> 00:55:19,567
+Your work on anti electron
+collisions is unparalleled.
+
+780
+00:55:19,733 --> 00:55:21,576
+And I'm a huge fan of the
+way you lose control
+
+781
+00:55:21,735 --> 00:55:23,612
+and turn into an enormous
+green rage-monster.
+
+782
+00:55:25,322 --> 00:55:26,414
+Thanks.
+
+783
+00:55:26,572 --> 00:55:29,076
+Dr. Banner is only here
+to track the Cube.
+
+784
+00:55:29,242 --> 00:55:30,585
+I was hoping you might join him.
+
+785
+00:55:30,744 --> 00:55:31,744
+I would start with
+that stick of his.
+
+786
+00:55:32,079 --> 00:55:33,045
+It may be magical,
+
+787
+00:55:33,121 --> 00:55:34,588
+but it works an awful lot
+like a HYDRA weapon.
+
+788
+00:55:34,664 --> 00:55:37,588
+I don't know about that, but
+it is powered by the Cube.
+
+789
+00:55:37,960 --> 00:55:39,711
+And I would like to
+know how Loki used it
+
+790
+00:55:39,920 --> 00:55:41,592
+to turn two of the
+sharpest men I know
+
+791
+00:55:41,672 --> 00:55:43,423
+into his personal
+flying monkeys.
+
+792
+00:55:43,798 --> 00:55:45,300
+Monkeys? I do not understand.
+
+793
+00:55:45,550 --> 00:55:46,393
+I do.
+
+794
+00:55:49,471 --> 00:55:51,097
+I understood that reference.
+
+795
+00:55:52,266 --> 00:55:53,643
+Shall we play, Doctor?
+
+796
+00:55:53,809 --> 00:55:55,436
+This way, sir.
+
+797
+00:56:09,532 --> 00:56:11,126
+The gamma readings are
+definitely consistent
+
+798
+00:56:11,284 --> 00:56:13,083
+with Selvig's reports
+of the Tesseract.
+
+799
+00:56:13,704 --> 00:56:15,376
+But it's going to take
+weeks to process.
+
+800
+00:56:15,539 --> 00:56:16,791
+If we bypass their mainframe
+
+801
+00:56:16,873 --> 00:56:18,170
+and direct route to
+the Homer cluster,
+
+802
+00:56:18,333 --> 00:56:21,461
+we can clock this at
+around 600 teraflops.
+
+803
+00:56:22,628 --> 00:56:24,630
+All I packed was a toothbrush.
+
+804
+00:56:25,632 --> 00:56:27,304
+You know, you should come
+by Stark Tower sometime.
+
+805
+00:56:27,467 --> 00:56:29,469
+Top ten floors, all R&D.
+
+806
+00:56:29,802 --> 00:56:31,304
+You'd love it. It's Candy Land.
+
+807
+00:56:31,471 --> 00:56:34,065
+Thanks, but the last
+time I was in New York,
+
+808
+00:56:34,224 --> 00:56:36,818
+I kind of broke Harlem.
+
+809
+00:56:36,976 --> 00:56:38,820
+Well, I promise a
+stress-free environment.
+
+810
+00:56:38,978 --> 00:56:40,822
+No tension, no surprises.
+
+811
+00:56:42,315 --> 00:56:43,737
+- Hey!
+- Nothing?
+
+812
+00:56:43,858 --> 00:56:44,905
+Are you nuts?
+
+813
+00:56:44,985 --> 00:56:45,985
+Jury's out.
+
+814
+00:56:46,193 --> 00:56:47,411
+You really have got a
+lid on it, haven't you?
+
+815
+00:56:47,487 --> 00:56:48,487
+What's your secret?
+
+816
+00:56:48,614 --> 00:56:50,081
+Mellow jazz, bongo
+drums, huge bag of weed?
+
+817
+00:56:50,157 --> 00:56:51,157
+Is everything a joke to you?
+
+818
+00:56:51,617 --> 00:56:52,617
+Funny things are.
+
+819
+00:56:52,826 --> 00:56:54,577
+Threatening the safety
+of everyone on this ship
+
+820
+00:56:54,661 --> 00:56:55,958
+isn't funny.
+
+821
+00:56:56,038 --> 00:56:57,039
+No of fence, Doc.
+
+822
+00:56:57,121 --> 00:56:58,748
+It's all right, I
+wouldn't have come aboard
+
+823
+00:56:58,831 --> 00:57:01,710
+if I couldn't handle
+pointy things.
+
+824
+00:57:01,793 --> 00:57:04,170
+You're tip-toeing, big man.
+You need to strut.
+
+825
+00:57:04,503 --> 00:57:06,222
+And you need to focus on
+the problem, Mr. Stark.
+
+826
+00:57:06,297 --> 00:57:07,675
+Do you think I'm not?
+
+827
+00:57:07,925 --> 00:57:10,768
+Why did Fury call us in? Why now?
+Why not before?
+
+828
+00:57:10,844 --> 00:57:12,561
+What isn't he telling us?
+
+829
+00:57:12,637 --> 00:57:14,184
+I can't do the equation unless
+I have all the variables.
+
+830
+00:57:14,806 --> 00:57:16,148
+You think Fury's
+hiding something?
+
+831
+00:57:16,474 --> 00:57:19,648
+He's a spy. Captain,
+he's "the" spy.
+
+832
+00:57:19,728 --> 00:57:21,570
+His secrets have secrets.
+
+833
+00:57:21,646 --> 00:57:23,193
+It's bugging him, too. Isn't it?
+
+834
+00:57:25,358 --> 00:57:26,860
+I just want to finish
+my work here, and..
+
+835
+00:57:27,527 --> 00:57:28,527
+Doctor?
+
+836
+00:57:34,034 --> 00:57:36,456
+"A warm light for all mankind."
+
+837
+00:57:36,536 --> 00:57:38,538
+Loki's jab at Fury
+about the Cube.
+
+838
+00:57:38,746 --> 00:57:39,998
+I heard it.
+
+839
+00:57:40,081 --> 00:57:42,425
+I think that was meant for you.
+
+840
+00:57:43,335 --> 00:57:46,338
+Even if Barton didn't tell
+Loki about the tower,
+
+841
+00:57:46,420 --> 00:57:47,467
+it was still all over the news.
+
+842
+00:57:47,672 --> 00:57:49,641
+The Stark Tower? That big, ugly
+
+843
+00:57:50,884 --> 00:57:52,101
+building in New York?
+
+844
+00:57:52,427 --> 00:57:56,181
+It's powered by an arc reactor, a
+self-sustaining energy source.
+
+845
+00:57:56,264 --> 00:57:58,766
+That building will run
+itself for, what, a year?
+
+846
+00:57:58,849 --> 00:58:00,693
+It's just the prototype.
+
+847
+00:58:00,768 --> 00:58:02,646
+I'm kind of the only name
+in clean energy right now.
+
+848
+00:58:03,063 --> 00:58:04,485
+That's what he's getting at.
+
+849
+00:58:04,563 --> 00:58:07,237
+So, why didn't S.H.I.E.L.D. bring
+him in on the Tesseract project?
+
+850
+00:58:07,400 --> 00:58:09,199
+What are they doing in
+the energy business
+
+851
+00:58:09,277 --> 00:58:10,574
+in the first place?
+
+852
+00:58:10,737 --> 00:58:13,740
+I should probably look into that
+once my decryption programme
+
+853
+00:58:13,864 --> 00:58:15,833
+finishes breaking into all of
+S.H.I.E.L.D.'s secure files.
+
+854
+00:58:15,909 --> 00:58:16,876
+I'm sorry. Did you say..
+
+855
+00:58:16,952 --> 00:58:19,079
+Jarvis has been running it
+since I hit the bridge.
+
+856
+00:58:19,413 --> 00:58:21,005
+In a few hours, I'll
+know every dirty secret
+
+857
+00:58:21,081 --> 00:58:22,333
+S.H.I.E.L.D. has
+ever tried to hide.
+
+858
+00:58:22,416 --> 00:58:23,382
+Blueberry?
+
+859
+00:58:23,458 --> 00:58:25,210
+Yet you're confused about why
+they didn't want you around.
+
+860
+00:58:25,543 --> 00:58:28,172
+An intelligence organization
+that fears intelligence'?
+
+861
+00:58:28,505 --> 00:58:30,132
+Historically, not awesome.
+
+862
+00:58:30,215 --> 00:58:32,512
+I think Loki's trying
+to wind us up.
+
+863
+00:58:32,592 --> 00:58:34,219
+This is a man who
+means to start a war
+
+864
+00:58:34,302 --> 00:58:35,769
+and if we don't stay
+focused, he'll succeed.
+
+865
+00:58:37,054 --> 00:58:39,557
+We have orders. We
+should follow them.
+
+866
+00:58:40,099 --> 00:58:41,943
+Following's not really my style.
+
+867
+00:58:43,311 --> 00:58:45,733
+And you're all about
+style, aren't you?
+
+868
+00:58:45,813 --> 00:58:46,905
+Of the people in this room,
+
+869
+00:58:46,981 --> 00:58:48,655
+which one is, A, wearing
+a spangly outfit,
+
+870
+00:58:48,733 --> 00:58:49,905
+and, B, not of use?
+
+871
+00:58:50,152 --> 00:58:54,282
+Steve, tell me none of this
+smells a little funky to you.
+
+872
+00:58:56,992 --> 00:58:58,083
+Just find the Cube.
+
+873
+00:59:10,963 --> 00:59:12,965
+That's the guy my dad
+never shut up about?
+
+874
+00:59:13,592 --> 00:59:16,436
+I'm wondering if they shouldn't
+have kept him on ice.
+
+875
+00:59:17,179 --> 00:59:18,931
+The guy's not wrong about Loki.
+
+876
+00:59:19,014 --> 00:59:20,856
+He does have the jump on us.
+
+877
+00:59:20,931 --> 00:59:23,684
+What he's got is an
+Acme dynamite kit.
+
+878
+00:59:23,768 --> 00:59:25,612
+It's going to blow
+up in his face.
+
+879
+00:59:25,686 --> 00:59:27,815
+And I'm going to be
+there when it does.
+
+880
+00:59:28,315 --> 00:59:30,487
+Yeah. I'll read all about it.
+
+881
+00:59:32,402 --> 00:59:33,744
+Or you'll be suiting up
+with the rest of us.
+
+882
+00:59:35,489 --> 00:59:39,083
+You see, I don't get
+a suit of armour.
+
+883
+00:59:39,159 --> 00:59:42,583
+I'm exposed. Like a nerve.
+
+884
+00:59:42,661 --> 00:59:44,164
+It's a nightmare.
+
+885
+00:59:44,498 --> 00:59:47,376
+I've got a cluster of
+shrapnel trying every second
+
+886
+00:59:47,458 --> 00:59:49,507
+to crawl its way into my heart.
+
+887
+00:59:49,585 --> 00:59:51,679
+This stops it.
+
+888
+00:59:51,755 --> 00:59:53,927
+This little circle of
+light, it's part of me now,
+
+889
+00:59:55,300 --> 00:59:56,847
+not just armour.
+
+890
+00:59:57,635 --> 00:59:59,934
+It's a terrible privilege.
+
+891
+01:00:00,429 --> 01:00:02,682
+- But you can control it.
+- Because I learned how.
+
+892
+01:00:02,766 --> 01:00:03,766
+It's different.
+
+893
+01:00:04,266 --> 01:00:07,612
+Hey, I read all about
+your accident.
+
+894
+01:00:07,686 --> 01:00:10,907
+That much gamma exposure
+should have killed you.
+
+895
+01:00:11,190 --> 01:00:13,693
+So you're saying
+that the Hulk..
+
+896
+01:00:15,112 --> 01:00:17,284
+The other guy saved my life?
+
+897
+01:00:17,780 --> 01:00:18,952
+That's nice.
+
+898
+01:00:19,990 --> 01:00:23,711
+It's a nice sentiment.
+Saved it for what?
+
+899
+01:00:25,038 --> 01:00:26,880
+I guess we'll find out.
+
+900
+01:00:28,708 --> 01:00:30,425
+You may not enjoy that.
+
+901
+01:00:30,501 --> 01:00:32,503
+And you just might.
+
+902
+01:01:31,688 --> 01:01:33,110
+As soon as Loki took the doctor,
+
+903
+01:01:33,440 --> 01:01:34,987
+we moved Jane Foster.
+
+904
+01:01:35,065 --> 01:01:37,489
+They've got an excellent
+observatory in Tromso.
+
+905
+01:01:37,568 --> 01:01:41,164
+She was asked to consult there
+very suddenly yesterday.
+
+906
+01:01:41,239 --> 01:01:45,085
+Handsome fee, private
+plane, very remote.
+
+907
+01:01:45,784 --> 01:01:46,876
+She'll be safe.
+
+908
+01:01:47,077 --> 01:01:48,454
+Thank you.
+
+909
+01:01:50,248 --> 01:01:52,090
+It's no accident, Loki
+taking Erik Selvig.
+
+910
+01:01:53,293 --> 01:01:55,715
+I dread what he plans
+for him once he's done.
+
+911
+01:01:55,795 --> 01:01:56,967
+Erik is a good man.
+
+912
+01:01:57,047 --> 01:01:58,094
+He talks about you a lot.
+
+913
+01:02:00,132 --> 01:02:02,135
+You changed his life.
+
+914
+01:02:03,802 --> 01:02:05,726
+You changed everything
+around here.
+
+915
+01:02:05,804 --> 01:02:07,978
+They were better as they were.
+
+916
+01:02:08,557 --> 01:02:10,686
+We pretend on Asgard
+that we're more advanced
+
+917
+01:02:10,768 --> 01:02:14,523
+but we come here, battling
+like bilge snipe.
+
+918
+01:02:14,606 --> 01:02:16,483
+- Like what?
+- Bilge snipe.
+
+919
+01:02:16,565 --> 01:02:19,318
+You know, huge,
+scaly, big antlers.
+
+920
+01:02:20,402 --> 01:02:22,246
+- You don't have those?
+- I don't think so.
+
+921
+01:02:22,322 --> 01:02:24,244
+Well, they are repulsive.
+
+922
+01:02:25,492 --> 01:02:27,835
+And they trample
+everything in their path.
+
+923
+01:02:35,460 --> 01:02:38,760
+When I first came to Earth,
+Loki's rage followed me here,
+
+924
+01:02:38,922 --> 01:02:41,094
+and your people paid the price.
+
+925
+01:02:41,340 --> 01:02:43,184
+And now, again.
+
+926
+01:02:45,679 --> 01:02:48,181
+In my youth, I courted war.
+
+927
+01:02:49,932 --> 01:02:51,981
+War hasn't started yet.
+
+928
+01:02:53,061 --> 01:02:54,903
+You think you could
+make Loki tell us
+
+929
+01:02:54,980 --> 01:02:56,277
+where the Tesseract is?
+
+930
+01:02:56,356 --> 01:02:59,701
+I do not know. Loki's
+mind is far afield.
+
+931
+01:02:59,775 --> 01:03:04,532
+It's not just power he craves,
+it's vengeance, upon me.
+
+932
+01:03:04,614 --> 01:03:06,456
+There's no pain would
+prise his need from him.
+
+933
+01:03:07,826 --> 01:03:10,079
+A lot of guys think that
+
+934
+01:03:10,161 --> 01:03:11,413
+until the pain starts.
+
+935
+01:03:13,956 --> 01:03:15,458
+What are you asking me to do?
+
+936
+01:03:15,541 --> 01:03:19,045
+I'm asking, what are
+you prepared to do?
+
+937
+01:03:19,211 --> 01:03:20,213
+Loki is a prisoner.
+
+938
+01:03:20,463 --> 01:03:22,806
+Then why do I feel like he's
+the only person on this boat
+
+939
+01:03:22,882 --> 01:03:24,259
+that wants to be here?
+
+940
+01:03:37,063 --> 01:03:40,237
+There's not many people
+who can sneak up on me.
+
+941
+01:03:40,317 --> 01:03:41,909
+But you figured I'd come.
+
+942
+01:03:42,652 --> 01:03:44,074
+After.
+
+943
+01:03:45,070 --> 01:03:48,574
+After whatever tortures
+Fury can concoct,
+
+944
+01:03:48,657 --> 01:03:52,378
+you would appear as a
+friend, as a balm.
+
+945
+01:03:53,246 --> 01:03:54,838
+And I would cooperate.
+
+946
+01:03:55,081 --> 01:03:56,958
+I want to know what you've
+done to Agent Barton.
+
+947
+01:03:57,208 --> 01:03:59,050
+I would say I've
+expanded his mind.
+
+948
+01:04:01,755 --> 01:04:03,757
+And once you've won,
+
+949
+01:04:04,257 --> 01:04:05,599
+once you're king
+of the mountain,
+
+950
+01:04:08,010 --> 01:04:10,559
+what happens to his mind?
+
+951
+01:04:11,764 --> 01:04:13,391
+Is this love, Agent Romanoff?
+
+952
+01:04:13,682 --> 01:04:16,311
+Love is for children.
+I owe him a debt.
+
+953
+01:04:20,398 --> 01:04:22,115
+Tell me.
+
+954
+01:04:26,612 --> 01:04:29,913
+Before I worked for S.H.I.E.L.D..
+I..
+
+955
+01:04:32,284 --> 01:04:36,210
+Well, I made a name for myself.
+
+956
+01:04:36,289 --> 01:04:39,384
+I have a very
+specific skill set.
+
+957
+01:04:39,458 --> 01:04:42,884
+I didn't care who I
+used it for, or on.
+
+958
+01:04:44,130 --> 01:04:47,429
+I got on S.H.I.E.L.D.'s
+radar in a bad way.
+
+959
+01:04:48,802 --> 01:04:51,771
+Agent Barton was
+sent to kill me.
+
+960
+01:04:52,764 --> 01:04:54,141
+He made a different call.
+
+961
+01:04:56,266 --> 01:04:59,146
+And what will you do
+if I vow to spare him?
+
+962
+01:04:59,561 --> 01:05:00,983
+Not let you out.
+
+963
+01:05:01,063 --> 01:05:02,987
+No, but I like this.
+
+964
+01:05:03,942 --> 01:05:07,195
+Your world in the balance,
+and you bargain for one man.
+
+965
+01:05:07,487 --> 01:05:09,581
+Regimes fall every day.
+
+966
+01:05:09,655 --> 01:05:12,034
+I tend not to weep over that.
+I'm Russian.
+
+967
+01:05:12,117 --> 01:05:13,164
+Or I was.
+
+968
+01:05:14,661 --> 01:05:16,163
+And what are you now?
+
+969
+01:05:16,788 --> 01:05:19,791
+It's really not
+that complicated.
+
+970
+01:05:19,873 --> 01:05:24,003
+I got red in my ledger,
+I'd like to wipe it out.
+
+971
+01:05:24,963 --> 01:05:26,340
+Can you?
+
+972
+01:05:27,840 --> 01:05:31,686
+Can you wipe out that much red?
+
+973
+01:05:32,804 --> 01:05:34,351
+Dreykov's daughter,
+
+974
+01:05:36,014 --> 01:05:37,891
+Sao Paulo,
+
+975
+01:05:38,893 --> 01:05:41,237
+the hospital fire?
+
+976
+01:05:42,230 --> 01:05:44,608
+Barton told me everything.
+
+977
+01:05:44,690 --> 01:05:47,570
+Your ledger is dripping.
+It's gushing red
+
+978
+01:05:47,818 --> 01:05:50,492
+and you think saving a man no
+more virtuous than yourself
+
+979
+01:05:50,572 --> 01:05:51,949
+will change anything?
+
+980
+01:05:52,030 --> 01:05:54,784
+This is the basest
+sentimentality.
+
+981
+01:05:54,867 --> 01:05:57,121
+This is a child at prayer.
+
+982
+01:05:57,202 --> 01:05:58,375
+Pathetic!
+
+983
+01:05:59,329 --> 01:06:01,958
+You lie and kill
+
+984
+01:06:02,041 --> 01:06:05,135
+in the service of
+liars and killers.
+
+985
+01:06:08,172 --> 01:06:11,222
+You pretend to be separate,
+to have your own code,
+
+986
+01:06:11,467 --> 01:06:14,221
+something that makes
+up for the horrors.
+
+987
+01:06:15,346 --> 01:06:17,815
+But they are part of you.
+
+988
+01:06:17,891 --> 01:06:21,485
+And they will never go away.
+
+989
+01:06:22,269 --> 01:06:25,820
+I won't touch Barton, not
+until I make him kill you.
+
+990
+01:06:25,898 --> 01:06:28,152
+Slowly, intimately,
+
+991
+01:06:28,233 --> 01:06:30,702
+in every way he knows you fear.
+
+992
+01:06:30,777 --> 01:06:33,621
+And then he'll wake just long
+enough to see his good work
+
+993
+01:06:33,989 --> 01:06:37,494
+and when he screams,
+I'll split his skull.
+
+994
+01:06:37,659 --> 01:06:40,413
+This is my bargain,
+you mewling quim.
+
+995
+01:06:42,248 --> 01:06:43,920
+You're a monster.
+
+996
+01:06:46,085 --> 01:06:47,586
+Oh, no.
+
+997
+01:06:48,463 --> 01:06:49,760
+You brought the monster.
+
+998
+01:06:53,050 --> 01:06:54,427
+So, Banner.
+
+999
+01:06:55,427 --> 01:06:56,599
+That's your play.
+
+1000
+01:06:56,846 --> 01:06:57,847
+What?
+
+1001
+01:06:58,847 --> 01:07:00,474
+Loki means to unleash the Hulk.
+
+1002
+01:07:00,557 --> 01:07:02,105
+Keep Banner in the lab.
+I'm on my way.
+
+1003
+01:07:02,184 --> 01:07:03,277
+Send Thor as well.
+
+1004
+01:07:05,313 --> 01:07:06,313
+Thank you
+
+1005
+01:07:06,563 --> 01:07:08,782
+for your cooperation.
+
+1006
+01:07:16,240 --> 01:07:17,708
+What are you doing, Mr. Stark?
+
+1007
+01:07:17,784 --> 01:07:20,378
+Kind of been wondering the
+same thing about you.
+
+1008
+01:07:20,786 --> 01:07:22,380
+You're supposed to be
+locating the Tesseract.
+
+1009
+01:07:22,454 --> 01:07:23,751
+We are. The model's locked
+
+1010
+01:07:23,956 --> 01:07:25,503
+and we're sweeping for
+the signature now.
+
+1011
+01:07:25,583 --> 01:07:26,880
+When we get a hit,
+
+1012
+01:07:26,960 --> 01:07:28,461
+we'll have the location
+within half a mile.
+
+1013
+01:07:28,795 --> 01:07:33,050
+Yeah, then you get your Cube back.
+No muss, no fuss.
+
+1014
+01:07:33,132 --> 01:07:34,179
+What is "Phase 2"?
+
+1015
+01:07:36,510 --> 01:07:39,389
+Phase 2 is S.H.I.E.L.D. uses
+the Cube to make weapons.
+
+1016
+01:07:39,472 --> 01:07:41,269
+Sorry, computer was moving
+a little slow for me.
+
+1017
+01:07:41,641 --> 01:07:44,063
+Rogers, we gathered everything
+related to the Tesseract.
+
+1018
+01:07:44,143 --> 01:07:45,440
+This does not mean
+that we're making..
+
+1019
+01:07:45,519 --> 01:07:46,521
+I'm sorry, Nick.
+
+1020
+01:07:46,603 --> 01:07:48,981
+What were you lying?
+
+1021
+01:07:49,065 --> 01:07:50,362
+I was wrong, Director.
+
+1022
+01:07:50,483 --> 01:07:51,574
+The world hasn't changed a bit.
+
+1023
+01:07:51,650 --> 01:07:52,652
+Did you know about this?
+
+1024
+01:07:52,985 --> 01:07:54,659
+You want to think about
+removing yourself
+
+1025
+01:07:54,737 --> 01:07:55,862
+from this environment, Doctor?
+
+1026
+01:07:55,947 --> 01:07:57,824
+I was in Calcutta. I was
+pretty well removed.
+
+1027
+01:07:58,115 --> 01:07:59,458
+Loki is manipulating you.
+
+1028
+01:07:59,659 --> 01:08:01,036
+And you've been doing
+what, exactly?
+
+1029
+01:08:01,119 --> 01:08:02,666
+You didn't come here because
+I bat my eyelashes at you.
+
+1030
+01:08:02,744 --> 01:08:03,996
+Yes, and I'm not leaving
+
+1031
+01:08:04,079 --> 01:08:05,456
+because suddenly you
+get a little twitchy.
+
+1032
+01:08:05,706 --> 01:08:07,380
+I'd like to know
+why S.H.I.E.L.D.
+
+1033
+01:08:07,458 --> 01:08:11,088
+is using the Tesseract to build
+weapons of mass destruction.
+
+1034
+01:08:11,795 --> 01:08:12,967
+Because of him.
+
+1035
+01:08:13,840 --> 01:08:14,840
+Me?
+
+1036
+01:08:16,175 --> 01:08:18,597
+Last year, Earth had a
+visitor from another planet
+
+1037
+01:08:18,677 --> 01:08:21,898
+who had a grudge match
+that leveled a small town.
+
+1038
+01:08:21,972 --> 01:08:24,100
+We learned that not
+only are we not alone
+
+1039
+01:08:24,309 --> 01:08:27,939
+but we are hopelessly,
+hilariously, outgunned.
+
+1040
+01:08:28,020 --> 01:08:30,149
+My people want nothing but
+peace with your planet.
+
+1041
+01:08:30,355 --> 01:08:32,404
+But you're not the only
+people out there, are you'?
+
+1042
+01:08:32,483 --> 01:08:34,359
+And you're not the only threat.
+
+1043
+01:08:34,527 --> 01:08:37,530
+The world's filling up with
+people who can't be matched,
+
+1044
+01:08:38,197 --> 01:08:39,539
+that can't be controlled.
+
+1045
+01:08:39,740 --> 01:08:40,912
+Like you controlled the Cube?
+
+1046
+01:08:40,992 --> 01:08:42,288
+Your work with the Tesseract
+
+1047
+01:08:42,368 --> 01:08:44,962
+is what drew Loki to
+it, and his allies.
+
+1048
+01:08:45,037 --> 01:08:46,506
+It is a signal to all the realms
+
+1049
+01:08:46,581 --> 01:08:49,300
+that the Earth is ready
+for a higher form of war.
+
+1050
+01:08:49,375 --> 01:08:50,466
+A higher form?
+
+1051
+01:08:50,542 --> 01:08:51,668
+You forced our hand.
+
+1052
+01:08:51,752 --> 01:08:52,753
+We had to come up
+with something.
+
+1053
+01:08:52,837 --> 01:08:53,837
+A nuclear deterrent.
+
+1054
+01:08:53,921 --> 01:08:56,015
+Because that always calms
+everything right down.
+
+1055
+01:08:56,090 --> 01:08:58,512
+Remind me again how you
+made your fortune, Stark.
+
+1056
+01:08:58,592 --> 01:09:00,765
+I'm sure if he still made weapons,
+Stark would be neck-deep..
+
+1057
+01:09:01,054 --> 01:09:02,771
+Hold on. How is
+this now about me?
+
+1058
+01:09:02,846 --> 01:09:03,972
+I'm sorry, isn't everything?
+
+1059
+01:09:04,056 --> 01:09:06,024
+I thought humans were
+more evolved than this.
+
+1060
+01:09:06,100 --> 01:09:09,024
+Excuse me, did we come to your
+planet and blow stuff up?
+
+1061
+01:09:09,103 --> 01:09:10,979
+You treat your champions
+with such mistrust.
+
+1062
+01:09:11,064 --> 01:09:12,610
+Are you boys really that naive?
+
+1063
+01:09:12,689 --> 01:09:14,613
+S.H.I.E.L.D. monitors
+potential threats.
+
+1064
+01:09:14,692 --> 01:09:16,034
+Captain America's
+on threat watch?
+
+1065
+01:09:16,109 --> 01:09:17,110
+We all are.
+
+1066
+01:09:17,194 --> 01:09:18,697
+Wait, you're on that list?
+
+1067
+01:09:18,779 --> 01:09:20,372
+Are you above or
+below angry bees?
+
+1068
+01:09:20,448 --> 01:09:22,621
+Stark, so help me God, if you
+make one more wisecrack..
+
+1069
+01:09:22,699 --> 01:09:23,997
+Threat! Verbal threat.
+I feel threatened.
+
+1070
+01:09:24,077 --> 01:09:26,579
+- Show some respect.
+- Respect what?
+
+1071
+01:09:33,920 --> 01:09:36,890
+Transport Six-Six-Bravo,
+please relay confirm codes.
+
+1072
+01:09:36,963 --> 01:09:39,182
+I've got you on the computer,
+but not on the day log.
+
+1073
+01:09:39,257 --> 01:09:41,351
+What is your haul? Over.
+
+1074
+01:09:41,426 --> 01:09:43,850
+Arms and ammunition. Over.
+
+1075
+01:09:52,438 --> 01:09:54,690
+You speak of control,
+yet you court chaos.
+
+1076
+01:09:54,774 --> 01:09:56,367
+That's his M.O., isn't it?
+
+1077
+01:09:56,609 --> 01:09:57,860
+I mean, what are we, a team?
+
+1078
+01:09:57,944 --> 01:10:00,993
+No, we're a chemical
+mixture that makes chaos.
+
+1079
+01:10:01,072 --> 01:10:02,789
+We're a time bomb.
+
+1080
+01:10:03,115 --> 01:10:05,038
+You need to step away.
+
+1081
+01:10:05,118 --> 01:10:06,994
+Why shouldn't the guy
+let off a little steam?
+
+1082
+01:10:07,078 --> 01:10:09,206
+You know damn well why.
+Back off!
+
+1083
+01:10:09,287 --> 01:10:11,541
+I'm starting to want
+you to make me.
+
+1084
+01:10:11,623 --> 01:10:15,253
+Yeah. Big man in a
+suit of armour.
+
+1085
+01:10:15,420 --> 01:10:16,671
+Take that off, what are you?
+
+1086
+01:10:16,962 --> 01:10:19,261
+Genius, billionaire,
+playboy, philanthropist.
+
+1087
+01:10:20,216 --> 01:10:23,220
+I know guys with none of
+that worth ten of you.
+
+1088
+01:10:23,301 --> 01:10:24,394
+I've seen the footage.
+
+1089
+01:10:24,636 --> 01:10:26,639
+The only thing you really
+fight for is yourself.
+
+1090
+01:10:28,265 --> 01:10:30,234
+You're not the guy to
+make the sacrifice play,
+
+1091
+01:10:30,393 --> 01:10:32,737
+to lay down on a wire and let
+the other guy crawl over you.
+
+1092
+01:10:32,979 --> 01:10:34,902
+I think I would
+just cut the wire.
+
+1093
+01:10:37,774 --> 01:10:40,028
+Always a way out.
+
+1094
+01:10:40,110 --> 01:10:41,408
+You may not be a threat
+
+1095
+01:10:41,487 --> 01:10:43,329
+but you better stop
+pretending to be a hero.
+
+1096
+01:10:43,488 --> 01:10:46,037
+A hero? Like you?
+
+1097
+01:10:46,117 --> 01:10:48,211
+You're a laboratory
+experiment, Rogers.
+
+1098
+01:10:48,286 --> 01:10:51,711
+Everything special about
+you came out of a bottle.
+
+1099
+01:11:17,189 --> 01:11:19,783
+Put on the suit. Let's
+go a few rounds.
+
+1100
+01:11:21,027 --> 01:11:24,530
+You people are so
+petty and tiny.
+
+1101
+01:11:24,822 --> 01:11:25,663
+Yeah, this is a team.
+
+1102
+01:11:25,739 --> 01:11:26,865
+Agent Romanoff, would you escort
+
+1103
+01:11:26,948 --> 01:11:27,996
+Dr. Banner back to his..
+
+1104
+01:11:28,158 --> 01:11:29,832
+Where? You rented my room.
+
+1105
+01:11:30,161 --> 01:11:31,787
+The cell was just in case..
+
+1106
+01:11:32,037 --> 01:11:33,289
+In case you needed to kill me.
+
+1107
+01:11:33,372 --> 01:11:36,046
+But you can't. I know, I tried.
+
+1108
+01:11:39,045 --> 01:11:41,969
+I got low. I didn't see an end.
+
+1109
+01:11:42,047 --> 01:11:46,427
+So, I put a bullet in my mouth,
+and the other guy spit it out.
+
+1110
+01:11:47,136 --> 01:11:48,387
+So I moved on.
+
+1111
+01:11:48,470 --> 01:11:51,064
+I focused on helping other people.
+I was good.
+
+1112
+01:11:51,390 --> 01:11:53,563
+Until you dragged me back
+into this freak show
+
+1113
+01:11:53,725 --> 01:11:54,898
+and put everyone here at risk.
+
+1114
+01:11:55,269 --> 01:11:57,396
+You want to know my
+secret, Agent Romanoff?
+
+1115
+01:11:57,479 --> 01:11:59,073
+You want to know
+how I stay calm?
+
+1116
+01:12:02,109 --> 01:12:04,077
+Dr. Banner,
+
+1117
+01:12:04,945 --> 01:12:06,323
+put down the scepter.
+
+1118
+01:12:15,163 --> 01:12:16,381
+Got it.
+
+1119
+01:12:16,916 --> 01:12:17,962
+Sorry, kids,
+
+1120
+01:12:18,083 --> 01:12:19,926
+you don't get to see my
+party trick after all.
+
+1121
+01:12:20,043 --> 01:12:21,091
+You located the Tesseract?
+
+1122
+01:12:21,212 --> 01:12:22,212
+I could get there fastest.
+
+1123
+01:12:22,380 --> 01:12:24,474
+The Tesseract belongs on Asgard.
+No human is a match for it.
+
+1124
+01:12:24,673 --> 01:12:25,890
+- You're not going alone.
+- You're gonna stop me?
+
+1125
+01:12:26,007 --> 01:12:27,055
+Put on the suit, let's find out.
+
+1126
+01:12:27,217 --> 01:12:28,435
+I'm not afraid to
+hit an old man.
+
+1127
+01:12:28,511 --> 01:12:29,511
+Put on the suit.
+
+1128
+01:12:32,556 --> 01:12:33,934
+Oh, my God.
+
+1129
+01:12:49,698 --> 01:12:50,699
+Put on the suit.
+
+1130
+01:12:50,783 --> 01:12:52,126
+Yeah.
+
+1131
+01:12:54,871 --> 01:12:56,622
+All hands to stations.
+
+1132
+01:13:00,751 --> 01:13:02,469
+- Hill!
+- External detonation.
+
+1133
+01:13:02,670 --> 01:13:03,966
+Number three engine is down.
+
+1134
+01:13:04,046 --> 01:13:05,046
+We've been hit.
+
+1135
+01:13:05,131 --> 01:13:06,382
+- Can they get it running?
+- Fire in engine three!
+
+1136
+01:13:06,465 --> 01:13:07,466
+Talk to me.
+
+1137
+01:13:07,550 --> 01:13:09,268
+Turbine looks mostly intact
+
+1138
+01:13:09,342 --> 01:13:11,265
+but it's impossible to get
+out there to make repairs
+
+1139
+01:13:11,345 --> 01:13:12,813
+while we're in the air.
+
+1140
+01:13:12,889 --> 01:13:15,483
+If we lose one more
+engine, we won't be.
+
+1141
+01:13:15,557 --> 01:13:17,605
+Somebody's got to get outside
+and patch that engine.
+
+1142
+01:13:17,685 --> 01:13:19,153
+- Stark, you copy that?
+- I'm on it.
+
+1143
+01:13:19,520 --> 01:13:22,649
+Coulson, initiate defensive
+lockdown in the detention section
+
+1144
+01:13:22,731 --> 01:13:23,823
+then get to the armory.
+
+1145
+01:13:23,940 --> 01:13:24,988
+Romanoff?
+
+1146
+01:13:28,820 --> 01:13:29,993
+We're okay.
+
+1147
+01:13:32,617 --> 01:13:33,913
+We're okay, right?
+
+1148
+01:13:46,713 --> 01:13:47,966
+- Keep that engine down!
+- Yes, sir.
+
+1149
+01:13:48,048 --> 01:13:49,766
+Detention, wait for
+cameras to go dark.
+
+1150
+01:13:49,841 --> 01:13:51,719
+- Got it.
+- Stay close.
+
+1151
+01:13:53,429 --> 01:13:54,975
+Let's go, Level 4.
+
+1152
+01:13:55,847 --> 01:13:58,475
+Engine three. I'll
+meet you there.
+
+1153
+01:14:06,859 --> 01:14:08,076
+Doctor?
+
+1154
+01:14:10,029 --> 01:14:11,029
+Bruce?
+
+1155
+01:14:11,697 --> 01:14:15,122
+You got to fight it. This
+is just what Loki wants.
+
+1156
+01:14:16,452 --> 01:14:17,623
+We're going to be okay.
+Listen to me.
+
+1157
+01:14:17,703 --> 01:14:18,703
+Are you hurt?
+
+1158
+01:14:22,207 --> 01:14:24,176
+We're going to be okay.
+All right?
+
+1159
+01:14:24,542 --> 01:14:27,386
+I swear on my life, I
+will get you out of this.
+
+1160
+01:14:27,671 --> 01:14:28,844
+You will walk away
+and never ever..
+
+1161
+01:14:28,922 --> 01:14:30,765
+Your life?
+
+1162
+01:14:47,233 --> 01:14:48,234
+Bruce
+
+1163
+01:15:25,395 --> 01:15:28,615
+Bring the carrier about to
+a 1-8-0, heading south!
+
+1164
+01:15:28,690 --> 01:15:30,533
+- Take us to the water!
+- We're flying blind.
+
+1165
+01:15:30,693 --> 01:15:32,615
+Navigation's recalibrating
+after the engine failure.
+
+1166
+01:15:32,778 --> 01:15:34,279
+Is the sun coming up?
+
+1167
+01:15:35,322 --> 01:15:37,289
+- Yes, sir.
+- Then put it on the left.
+
+1168
+01:15:37,615 --> 01:15:39,118
+Get us over water.
+
+1169
+01:15:39,452 --> 01:15:41,250
+One more turbine goes
+down, and we drop.
+
+1170
+01:15:43,788 --> 01:15:45,131
+Thanks.
+
+1171
+01:15:48,418 --> 01:15:49,636
+Stark!
+
+1172
+01:15:52,297 --> 01:15:54,015
+Stark, I'm here!
+
+1173
+01:15:54,091 --> 01:15:55,307
+Good.
+
+1174
+01:15:56,801 --> 01:15:58,850
+Let's see what we've got.
+
+1175
+01:15:58,929 --> 01:16:00,555
+I got to get this
+superconducting coolant system
+
+1176
+01:16:00,722 --> 01:16:01,724
+back online
+
+1177
+01:16:01,806 --> 01:16:03,354
+before I can access the rotors,
+
+1178
+01:16:03,434 --> 01:16:05,027
+work on dislodging the debris.
+
+1179
+01:16:07,520 --> 01:16:09,148
+I need you to get to that
+engine control panel
+
+1180
+01:16:09,314 --> 01:16:12,944
+and tell me which relays
+are in overload position.
+
+1181
+01:16:25,456 --> 01:16:26,832
+What does it look like in there?
+
+1182
+01:16:27,707 --> 01:16:30,051
+It seems to run on some
+form of electricity.
+
+1183
+01:16:30,336 --> 01:16:31,929
+Well, you're not wrong.
+
+1184
+01:17:35,943 --> 01:17:38,662
+We are not your enemies, Banner.
+
+1185
+01:17:38,737 --> 01:17:39,783
+Try to think!
+
+1186
+01:17:50,039 --> 01:17:51,792
+Okay, the relays are intact.
+
+1187
+01:17:52,042 --> 01:17:53,259
+What's our next move?
+
+1188
+01:17:53,586 --> 01:17:54,632
+Even if I clear the rotors,
+
+1189
+01:17:54,712 --> 01:17:56,885
+this thing won't re-engage
+without a jump.
+
+1190
+01:17:57,088 --> 01:17:58,261
+I'm going to have to
+get in there and push.
+
+1191
+01:17:58,591 --> 01:18:00,184
+If that thing gets up to
+speed, you'll get shredded.
+
+1192
+01:18:00,466 --> 01:18:02,515
+That stator control unit
+can reverse the polarity
+
+1193
+01:18:02,595 --> 01:18:03,938
+long enough to disengage
+maglev and that could..
+
+1194
+01:18:04,095 --> 01:18:05,268
+Speak English!
+
+1195
+01:18:06,640 --> 01:18:07,811
+You see that red lever?
+
+1196
+01:18:09,225 --> 01:18:11,194
+It will slow the rotors down
+long enough for me to get out.
+
+1197
+01:18:11,436 --> 01:18:13,109
+Stand by it. Wait for my word.
+
+1198
+01:19:05,865 --> 01:19:07,412
+We need full evac on
+the lower hangar bay.
+
+1199
+01:19:10,871 --> 01:19:11,962
+Grenade!
+
+1200
+01:19:27,011 --> 01:19:28,434
+We've got a perimeter breach!
+
+1201
+01:19:28,514 --> 01:19:30,608
+Hostiles are in S.H.I.E.L.D.
+gear.
+
+1202
+01:19:30,682 --> 01:19:32,810
+Call-outs at every junction.
+
+1203
+01:19:40,024 --> 01:19:42,278
+We have the Hulk and Thor
+on Research Level 4.
+
+1204
+01:19:42,360 --> 01:19:43,863
+Levels 2 and 3 are dark.
+
+1205
+01:19:44,070 --> 01:19:46,038
+Sir, the Hulk will
+tear this place apart!
+
+1206
+01:19:47,157 --> 01:19:48,203
+Get his attention.
+
+1207
+01:19:48,533 --> 01:19:52,755
+Escort 6-0, proceed to
+Wishbone and engage hostile.
+
+1208
+01:19:52,829 --> 01:19:54,172
+Don't get too close.
+
+1209
+01:19:54,247 --> 01:19:55,373
+Copy
+
+1210
+01:20:07,552 --> 01:20:08,850
+Target acquired.
+
+1211
+01:20:13,141 --> 01:20:14,064
+Target engaged.
+
+1212
+01:20:25,654 --> 01:20:27,247
+Target angry, target angry!
+
+1213
+01:21:35,807 --> 01:21:37,902
+They're not getting through
+here, so what the hell..
+
+1214
+01:21:56,412 --> 01:21:58,710
+Engine one is now in shut-down.
+
+1215
+01:22:07,088 --> 01:22:09,307
+We are in an
+uncontrolled descent.
+
+1216
+01:22:09,382 --> 01:22:11,100
+Sir, we've lost all
+power in engine one.
+
+1217
+01:22:11,801 --> 01:22:13,679
+It's Barton. He took
+out our systems.
+
+1218
+01:22:13,761 --> 01:22:16,265
+He's headed for the
+detention level.
+
+1219
+01:22:16,347 --> 01:22:18,350
+Does anybody copy?
+
+1220
+01:22:19,518 --> 01:22:21,690
+This is Agent Romanoff.
+
+1221
+01:22:21,770 --> 01:22:23,271
+I copy
+
+1222
+01:22:27,568 --> 01:22:28,659
+Stark, we're losing altitude.
+
+1223
+01:22:28,985 --> 01:22:30,238
+Yeah, I noticed.
+
+1224
+01:22:59,349 --> 01:23:00,350
+No!
+
+1225
+01:23:08,108 --> 01:23:10,530
+Are you ever not going
+to fall for that?
+
+1226
+01:23:53,779 --> 01:23:56,122
+The humans think us immortal.
+
+1227
+01:23:57,157 --> 01:23:58,750
+Should we test that?
+
+1228
+01:24:01,369 --> 01:24:02,462
+Move away, please.
+
+1229
+01:24:07,125 --> 01:24:08,467
+You like this?
+
+1230
+01:24:09,627 --> 01:24:12,631
+We started working on the prototype
+after you sent the Destroyer.
+
+1231
+01:24:14,091 --> 01:24:16,139
+Even I don't know what it does.
+
+1232
+01:24:17,135 --> 01:24:18,431
+Do you want to find out?
+
+1233
+01:24:20,389 --> 01:24:21,640
+No!
+
+1234
+01:25:31,376 --> 01:25:32,844
+Natasha?
+
+1235
+01:26:04,368 --> 01:26:06,166
+You're going to lose.
+
+1236
+01:26:08,162 --> 01:26:09,255
+Am I?
+
+1237
+01:26:10,666 --> 01:26:13,215
+It's in your nature.
+
+1238
+01:26:15,337 --> 01:26:17,715
+Your heroes are scattered.
+
+1239
+01:26:17,797 --> 01:26:21,552
+Your floating fortress
+falls from the sky.
+
+1240
+01:26:21,635 --> 01:26:22,931
+Where is my disadvantage?
+
+1241
+01:26:23,929 --> 01:26:25,771
+You lack conviction.
+
+1242
+01:26:26,722 --> 01:26:27,770
+I don't think I'm..
+
+1243
+01:26:34,689 --> 01:26:36,283
+So, that's what it does.
+
+1244
+01:26:38,443 --> 01:26:40,115
+All hands to crash
+stations immediately.
+
+1245
+01:27:08,931 --> 01:27:09,932
+Captain, hit the lever.
+
+1246
+01:27:10,600 --> 01:27:12,944
+I need a minute here!
+
+1247
+01:27:13,270 --> 01:27:14,395
+Lever
+
+1248
+01:27:14,479 --> 01:27:15,479
+Now!
+
+1249
+01:27:27,617 --> 01:27:28,788
+Help!
+
+1250
+01:28:04,362 --> 01:28:05,783
+Sorry, boss.
+
+1251
+01:28:05,863 --> 01:28:07,411
+The god rabbited.
+
+1252
+01:28:07,698 --> 01:28:09,201
+Just stay awake.
+
+1253
+01:28:09,283 --> 01:28:10,752
+Eyes on me.
+
+1254
+01:28:11,036 --> 01:28:12,412
+No, I'm clocking out here.
+
+1255
+01:28:12,703 --> 01:28:13,876
+Not an option.
+
+1256
+01:28:15,207 --> 01:28:17,208
+It's okay, boss.
+
+1257
+01:28:19,085 --> 01:28:21,179
+This was never gonna work
+
+1258
+01:28:21,253 --> 01:28:22,426
+if they didn't have something
+
+1259
+01:28:23,881 --> 01:28:25,350
+to..
+
+1260
+01:28:54,537 --> 01:28:56,414
+Agent Coulson is down.
+
+1261
+01:28:57,748 --> 01:28:59,501
+A medical team is on its
+way to your location.
+
+1262
+01:28:59,583 --> 01:29:01,086
+They're here.
+
+1263
+01:29:04,256 --> 01:29:05,929
+They called it.
+
+1264
+01:29:22,148 --> 01:29:23,820
+These were in Phil
+Coulson's jacket.
+
+1265
+01:29:27,153 --> 01:29:29,326
+I guess he never did
+get you to sign them.
+
+1266
+01:29:32,951 --> 01:29:34,668
+We're dead in the air up here.
+
+1267
+01:29:34,743 --> 01:29:37,872
+Our communications, the
+location of the Cube,
+
+1268
+01:29:38,247 --> 01:29:40,421
+Banner, Thor..
+
+1269
+01:29:41,877 --> 01:29:43,628
+I got nothing for you.
+
+1270
+01:29:43,712 --> 01:29:46,636
+I lost my one good eye.
+
+1271
+01:29:49,634 --> 01:29:52,604
+Maybe I had that coming.
+
+1272
+01:29:56,891 --> 01:29:58,234
+Yes.
+
+1273
+01:29:59,310 --> 01:30:02,735
+We were going to build an
+arsenal with the Tesseract.
+
+1274
+01:30:04,149 --> 01:30:06,072
+I never put all my chips
+on that number, though
+
+1275
+01:30:06,150 --> 01:30:09,279
+because I was playing
+something even riskier.
+
+1276
+01:30:13,158 --> 01:30:17,333
+There was an idea,
+Stark knows this,
+
+1277
+01:30:19,163 --> 01:30:22,588
+called the Avengers Initiative.
+
+1278
+01:30:23,752 --> 01:30:25,925
+The idea was to bring
+together a group
+
+1279
+01:30:26,003 --> 01:30:28,597
+of remarkable people
+
+1280
+01:30:29,341 --> 01:30:32,185
+to see if they could
+become something more.
+
+1281
+01:30:33,511 --> 01:30:37,515
+To see if they could work
+together when we needed them to,
+
+1282
+01:30:37,681 --> 01:30:40,981
+to fight the battles
+that we never could.
+
+1283
+01:30:43,939 --> 01:30:48,865
+Phil Coulson died still
+believing in that idea.
+
+1284
+01:30:51,154 --> 01:30:52,872
+In heroes.
+
+1285
+01:31:00,872 --> 01:31:02,498
+Well,
+
+1286
+01:31:03,332 --> 01:31:06,051
+It's an old-fashioned notion.
+
+1287
+01:31:26,271 --> 01:31:28,615
+You fell out of the sky.
+
+1288
+01:31:42,831 --> 01:31:44,082
+Did I hurt anybody?
+
+1289
+01:31:44,416 --> 01:31:47,511
+There's nobody around
+here to get hurt.
+
+1290
+01:31:47,585 --> 01:31:50,930
+You did scare the hell out
+of some pigeons, though.
+
+1291
+01:31:51,756 --> 01:31:52,847
+Lucky.
+
+1292
+01:31:52,923 --> 01:31:54,266
+Or just good aim.
+
+1293
+01:31:54,676 --> 01:31:55,972
+You were awake when you fell.
+
+1294
+01:31:58,304 --> 01:32:00,101
+- You saw?
+- The whole thing.
+
+1295
+01:32:00,265 --> 01:32:01,938
+Right through the ceiling.
+
+1296
+01:32:02,266 --> 01:32:06,238
+Big and green and buck-ass nude.
+
+1297
+01:32:06,311 --> 01:32:07,484
+Here.
+
+1298
+01:32:08,814 --> 01:32:11,033
+Didn't think those would fit
+you until you shrunk down
+
+1299
+01:32:11,109 --> 01:32:13,612
+to a regular-size feller.
+
+1300
+01:32:15,904 --> 01:32:17,247
+Thank you.
+
+1301
+01:32:17,990 --> 01:32:19,162
+Are you an alien?
+
+1302
+01:32:19,783 --> 01:32:21,001
+What?
+
+1303
+01:32:21,286 --> 01:32:22,662
+From outer space, an alien.
+
+1304
+01:32:23,203 --> 01:32:24,251
+No.
+
+1305
+01:32:24,872 --> 01:32:27,796
+Well, then, son, you've
+got a condition.
+
+1306
+01:32:38,595 --> 01:32:40,972
+Clint. You're going
+to be all right.
+
+1307
+01:32:44,475 --> 01:32:46,649
+You know that?
+
+1308
+01:32:47,436 --> 01:32:49,314
+Is that what you know?
+
+1309
+01:32:51,774 --> 01:32:54,654
+I've got no window.
+
+1310
+01:32:55,235 --> 01:32:56,658
+I have to flush him out.
+
+1311
+01:32:57,697 --> 01:32:59,573
+You got to level out.
+It's going to take time.
+
+1312
+01:32:59,657 --> 01:33:01,078
+You don't understand.
+
+1313
+01:33:03,161 --> 01:33:06,164
+Have you ever had someone
+take your brain and play?
+
+1314
+01:33:07,207 --> 01:33:11,462
+Pull you out and stuff
+something else in?
+
+1315
+01:33:14,546 --> 01:33:16,720
+Do you know what it's
+like to be unmade?
+
+1316
+01:33:18,510 --> 01:33:20,682
+You know that I do.
+
+1317
+01:33:28,185 --> 01:33:29,233
+Why am I back?
+
+1318
+01:33:30,646 --> 01:33:32,069
+How did you get him out?
+
+1319
+01:33:32,148 --> 01:33:34,867
+Cognitive recalibration.
+
+1320
+01:33:35,109 --> 01:33:37,658
+I hit you really
+hard on the head.
+
+1321
+01:33:37,737 --> 01:33:38,863
+Thanks.
+
+1322
+01:33:43,326 --> 01:33:44,872
+Natasha..
+
+1323
+01:33:45,537 --> 01:33:46,662
+How many agents did I..
+
+1324
+01:33:46,746 --> 01:33:48,292
+Don't.
+
+1325
+01:33:48,539 --> 01:33:50,634
+Don't do that to
+yourself, Clint.
+
+1326
+01:33:51,333 --> 01:33:53,086
+This is Loki.
+
+1327
+01:33:53,418 --> 01:33:55,796
+This is monsters and magic,
+
+1328
+01:33:55,880 --> 01:33:57,256
+and nothing we were
+ever trained for.
+
+1329
+01:33:57,422 --> 01:33:58,970
+Loki, did he get away?
+
+1330
+01:33:59,050 --> 01:34:00,051
+Yeah.
+
+1331
+01:34:00,676 --> 01:34:02,770
+I don't suppose you know where.
+
+1332
+01:34:03,054 --> 01:34:04,896
+I didn't need to know.
+
+1333
+01:34:04,972 --> 01:34:06,725
+I didn't ask.
+
+1334
+01:34:09,978 --> 01:34:12,230
+He's going to make his
+play soon, though.
+
+1335
+01:34:12,604 --> 01:34:13,652
+Today.
+
+1336
+01:34:13,898 --> 01:34:15,024
+We got to stop him.
+
+1337
+01:34:15,649 --> 01:34:16,993
+Yeah? Who's "we"?
+
+1338
+01:34:17,193 --> 01:34:19,036
+I don't know. Whoever's left.
+
+1339
+01:34:20,529 --> 01:34:21,907
+Well,
+
+1340
+01:34:23,574 --> 01:34:25,747
+if I put an arrow through
+Loki's eye socket,
+
+1341
+01:34:25,868 --> 01:34:28,587
+I would sleep better, I suppose.
+
+1342
+01:34:31,248 --> 01:34:32,751
+Now you sound like you.
+
+1343
+01:34:33,417 --> 01:34:34,920
+But you don't.
+
+1344
+01:34:37,087 --> 01:34:39,966
+You're a spy, not a soldier.
+
+1345
+01:34:40,048 --> 01:34:44,805
+Now you want to wade into a war.
+Why?
+
+1346
+01:34:46,555 --> 01:34:48,557
+What did Loki do to you?
+
+1347
+01:34:49,266 --> 01:34:51,735
+He didn't. I just..
+
+1348
+01:34:55,439 --> 01:34:56,987
+Natasha.
+
+1349
+01:34:59,068 --> 01:35:01,115
+I've been compromised.
+
+1350
+01:35:04,114 --> 01:35:06,037
+I got red in my ledger.
+
+1351
+01:35:08,368 --> 01:35:10,497
+I would like to wipe it out.
+
+1352
+01:35:26,470 --> 01:35:28,064
+Was he married?
+
+1353
+01:35:28,139 --> 01:35:29,560
+No.
+
+1354
+01:35:29,640 --> 01:35:33,942
+There was a cellist, I think.
+
+1355
+01:35:35,479 --> 01:35:36,948
+I'm sorry.
+
+1356
+01:35:37,606 --> 01:35:39,029
+He seemed like a good man.
+
+1357
+01:35:40,525 --> 01:35:41,698
+He was an idiot.
+
+1358
+01:35:41,778 --> 01:35:43,872
+Why? For believing?
+
+1359
+01:35:44,154 --> 01:35:45,577
+For taking on Loki alone.
+
+1360
+01:35:45,657 --> 01:35:47,408
+He was doing his job.
+
+1361
+01:35:47,492 --> 01:35:49,836
+He was out of his league.
+He should have waited.
+
+1362
+01:35:49,911 --> 01:35:51,002
+He should have..
+
+1363
+01:35:51,328 --> 01:35:52,831
+Sometimes there isn't
+a way out, Tony.
+
+1364
+01:35:53,038 --> 01:35:55,257
+Right, I've heard that before.
+
+1365
+01:35:55,332 --> 01:35:56,505
+Is this the first time
+you lost a soldier?
+
+1366
+01:35:56,833 --> 01:35:58,461
+We are not soldiers.
+
+1367
+01:36:03,173 --> 01:36:04,766
+I'm not marching to Fury's fife.
+
+1368
+01:36:05,051 --> 01:36:06,268
+Neither am I.
+
+1369
+01:36:06,344 --> 01:36:08,596
+He's got the same blood on
+his hands that Loki does.
+
+1370
+01:36:08,680 --> 01:36:10,101
+But right now, we got
+to put that behind us
+
+1371
+01:36:10,180 --> 01:36:12,182
+and get this done.
+
+1372
+01:36:12,391 --> 01:36:13,393
+Loki needs a power source.
+
+1373
+01:36:13,475 --> 01:36:14,443
+If we can put together a list..
+
+1374
+01:36:14,519 --> 01:36:15,520
+He made it personal.
+
+1375
+01:36:15,853 --> 01:36:16,854
+That's not the point.
+
+1376
+01:36:17,020 --> 01:36:19,444
+That is the point.
+That's Loki's point.
+
+1377
+01:36:19,649 --> 01:36:21,322
+He hit us all right where we live.
+Why?
+
+1378
+01:36:21,693 --> 01:36:22,739
+To tear us apart.
+
+1379
+01:36:23,194 --> 01:36:24,695
+Yeah, divide and
+conquer is great
+
+1380
+01:36:24,779 --> 01:36:27,282
+but he knows he has to
+take us out to win, right?
+
+1381
+01:36:27,364 --> 01:36:28,957
+That's what he wants.
+
+1382
+01:36:29,033 --> 01:36:31,286
+He wants to beat us, he
+wants to be seen doing it.
+
+1383
+01:36:31,452 --> 01:36:32,543
+He wants an audience.
+
+1384
+01:36:33,537 --> 01:36:35,211
+Right. I caught his
+act in Stuttgart.
+
+1385
+01:36:35,289 --> 01:36:38,293
+Yeah, that was just previews.
+This is opening night.
+
+1386
+01:36:38,376 --> 01:36:40,970
+And Loki, he's a
+full-tilt diva, right?
+
+1387
+01:36:41,045 --> 01:36:42,637
+He wants flowers,
+he wants parades.
+
+1388
+01:36:42,713 --> 01:36:46,217
+He wants a monument built to the
+skies with his name plastered..
+
+1389
+01:36:48,261 --> 01:36:49,557
+Son of a bitch.
+
+1390
+01:37:00,398 --> 01:37:01,524
+Time to go.
+
+1391
+01:37:01,983 --> 01:37:03,484
+- Go where?
+- I'll tell you on the way.
+
+1392
+01:37:03,734 --> 01:37:04,702
+Can you fly one of those jets?
+
+1393
+01:37:06,529 --> 01:37:07,529
+I can.
+
+1394
+01:37:11,283 --> 01:37:12,409
+You got a suit?
+
+1395
+01:37:12,618 --> 01:37:13,618
+Yeah.
+
+1396
+01:37:13,911 --> 01:37:15,162
+Then suit up.
+
+1397
+01:37:42,774 --> 01:37:44,150
+Hey, you guys aren't
+authorized to be in here.
+
+1398
+01:37:44,274 --> 01:37:46,448
+Son, just don't.
+
+1399
+01:37:48,945 --> 01:37:49,912
+Sir.
+
+1400
+01:37:49,988 --> 01:37:50,989
+Agent Hill.
+
+1401
+01:37:51,740 --> 01:37:53,333
+Those cards,
+
+1402
+01:37:55,453 --> 01:37:59,457
+they were in Coulson's
+locker not in his jacket.
+
+1403
+01:38:03,961 --> 01:38:05,587
+They needed the push.
+
+1404
+01:38:08,966 --> 01:38:11,139
+We have an unauthorized
+departure from Bay 6.
+
+1405
+01:38:11,886 --> 01:38:13,262
+They found him.
+
+1406
+01:38:14,305 --> 01:38:18,060
+Get our communications back
+up, whatever you have to do.
+
+1407
+01:38:18,141 --> 01:38:20,270
+- I want eyes on everything.
+- Yes, sir.
+
+1408
+01:38:33,990 --> 01:38:35,743
+Sir, I've turned off
+the arc reactor
+
+1409
+01:38:35,827 --> 01:38:39,707
+but the device is already
+self-sustaining.
+
+1410
+01:38:39,788 --> 01:38:42,007
+Shut it down, Dr. Selvig.
+
+1411
+01:38:42,291 --> 01:38:43,587
+It's too late!
+
+1412
+01:38:45,711 --> 01:38:47,212
+She can't stop now.
+
+1413
+01:38:48,506 --> 01:38:50,600
+She wants to show us something!
+
+1414
+01:38:50,841 --> 01:38:52,970
+A new universe.
+
+1415
+01:38:53,219 --> 01:38:54,390
+Okay.
+
+1416
+01:39:01,810 --> 01:39:03,779
+The barrier is pure energy.
+
+1417
+01:39:03,854 --> 01:39:05,481
+It's unbreachable.
+
+1418
+01:39:05,814 --> 01:39:07,658
+Yeah, I got that.
+
+1419
+01:39:08,525 --> 01:39:09,573
+Plan B
+
+1420
+01:39:10,987 --> 01:39:13,114
+Sir, the Mark 7 is not
+ready for deployment.
+
+1421
+01:39:13,197 --> 01:39:15,291
+Then skip the spinning rims.
+We're on the clock.
+
+1422
+01:39:35,219 --> 01:39:37,938
+Please tell me you're going
+to appeal to my humanity.
+
+1423
+01:39:39,222 --> 01:39:41,520
+Actually, I'm planning
+to threaten you.
+
+1424
+01:39:41,684 --> 01:39:43,152
+You should have left
+your armour on for that.
+
+1425
+01:39:43,435 --> 01:39:44,904
+Yeah.
+
+1426
+01:39:44,979 --> 01:39:46,150
+It's seen a bit of mileage,
+
+1427
+01:39:46,229 --> 01:39:48,448
+and you've got the
+glow stick of destiny.
+
+1428
+01:39:49,609 --> 01:39:51,737
+Would you like a drink?
+
+1429
+01:39:51,819 --> 01:39:53,036
+Stalling me won't
+change anything.
+
+1430
+01:39:53,279 --> 01:39:55,497
+No, no. Threatening.
+
+1431
+01:39:55,573 --> 01:39:56,664
+No drink? Are you sure?
+
+1432
+01:39:57,073 --> 01:39:58,621
+I'm having one.
+
+1433
+01:39:59,618 --> 01:40:03,590
+The Chitauri are coming.
+Nothing will change that.
+
+1434
+01:40:04,414 --> 01:40:05,541
+What have I to fear?
+
+1435
+01:40:05,957 --> 01:40:07,426
+The Avengers.
+
+1436
+01:40:09,753 --> 01:40:12,131
+That's what we call ourselves.
+We're sort of like a team.
+
+1437
+01:40:12,215 --> 01:40:13,887
+"Earth's mightiest
+heroes" type thing.
+
+1438
+01:40:13,966 --> 01:40:15,559
+Yes, I've met them.
+
+1439
+01:40:15,760 --> 01:40:16,851
+Yeah.
+
+1440
+01:40:17,136 --> 01:40:18,353
+It takes us a while
+to get any traction,
+
+1441
+01:40:18,429 --> 01:40:19,520
+I'll give you that one.
+
+1442
+01:40:19,596 --> 01:40:21,815
+But let's do a head count, here.
+
+1443
+01:40:21,890 --> 01:40:24,439
+Your brother, the demigod,
+
+1444
+01:40:26,103 --> 01:40:29,528
+a super soldier, a living legend who
+kind of lives up to the legend.
+
+1445
+01:40:29,814 --> 01:40:33,034
+A man with breathtaking
+anger-management issues,
+
+1446
+01:40:33,109 --> 01:40:36,033
+a couple of master assassins,
+and you, big fella,
+
+1447
+01:40:36,822 --> 01:40:39,496
+you've managed to piss off
+every single one of them.
+
+1448
+01:40:39,574 --> 01:40:40,622
+That was the plan.
+
+1449
+01:40:41,034 --> 01:40:43,082
+Not a great plan.
+
+1450
+01:40:43,162 --> 01:40:45,256
+When they come,
+
+1451
+01:40:45,331 --> 01:40:46,832
+and they will,
+
+1452
+01:40:46,916 --> 01:40:48,042
+they'll come for you.
+
+1453
+01:40:48,125 --> 01:40:49,171
+I have an army.
+
+1454
+01:40:49,252 --> 01:40:50,344
+We have a Hulk.
+
+1455
+01:40:51,087 --> 01:40:52,509
+I thought the beast
+had wandered off.
+
+1456
+01:40:52,587 --> 01:40:54,555
+You're missing the point.
+There is no throne.
+
+1457
+01:40:54,631 --> 01:40:58,431
+There is no version of this
+where you come out on top.
+
+1458
+01:40:58,802 --> 01:41:00,770
+Maybe your army comes and
+maybe it's too much for us,
+
+1459
+01:41:00,971 --> 01:41:02,974
+but it's all on you.
+
+1460
+01:41:04,015 --> 01:41:05,141
+Because if we can't
+protect the Earth,
+
+1461
+01:41:05,268 --> 01:41:08,238
+you can be damn well
+sure we'll avenge it.
+
+1462
+01:41:10,480 --> 01:41:13,529
+How will your friends
+have time for me
+
+1463
+01:41:13,609 --> 01:41:15,202
+when they are so
+busy fighting you?
+
+1464
+01:41:22,618 --> 01:41:23,664
+This usually works.
+
+1465
+01:41:23,786 --> 01:41:26,630
+Well, performance issues,
+it's not uncommon.
+
+1466
+01:41:26,956 --> 01:41:28,628
+One out of five..
+
+1467
+01:41:30,333 --> 01:41:33,337
+Jarvis, anytime now.
+
+1468
+01:41:35,006 --> 01:41:37,805
+You will all fall before me.
+
+1469
+01:41:37,882 --> 01:41:39,135
+Deploy!
+
+1470
+01:41:39,385 --> 01:41:40,511
+Deploy!
+
+1471
+01:42:08,038 --> 01:42:11,042
+And there's one other
+person you pissed off.
+
+1472
+01:42:11,876 --> 01:42:13,219
+His name was Phil.
+
+1473
+01:42:37,109 --> 01:42:38,655
+Right.
+
+1474
+01:42:38,735 --> 01:42:39,737
+Army
+
+1475
+01:43:52,350 --> 01:43:53,728
+Loki!
+
+1476
+01:43:53,810 --> 01:43:55,563
+Turn off the Tesseract,
+or I'll destroy it.
+
+1477
+01:43:55,645 --> 01:43:56,771
+You can't.
+
+1478
+01:43:56,896 --> 01:43:58,819
+There is no stopping it.
+
+1479
+01:43:59,108 --> 01:44:00,654
+There is only
+
+1480
+01:44:00,818 --> 01:44:01,989
+the war.
+
+1481
+01:44:02,153 --> 01:44:03,279
+So be it.
+
+1482
+01:44:25,176 --> 01:44:26,927
+Stark, we're on your
+three, headed northeast.
+
+1483
+01:44:27,177 --> 01:44:29,180
+What? Did you stop
+for drive-through?
+
+1484
+01:44:29,262 --> 01:44:31,015
+Swing up Park. I'm going
+to lay them out for you.
+
+1485
+01:44:49,408 --> 01:44:50,784
+Sir, we have more incoming.
+
+1486
+01:44:50,868 --> 01:44:52,369
+Fine. Let's keep them occupied.
+
+1487
+01:44:59,502 --> 01:45:01,048
+- Nat?
+- I see him.
+
+1488
+01:45:45,756 --> 01:45:47,975
+We got to get back up there.
+
+1489
+01:46:39,310 --> 01:46:40,731
+Stark, are you seeing this?
+
+1490
+01:46:41,686 --> 01:46:43,859
+Seeing. Still working
+on believing.
+
+1491
+01:46:44,148 --> 01:46:45,524
+Where's Banner? Has
+he shown up yet?
+
+1492
+01:46:45,649 --> 01:46:46,740
+Banner?
+
+1493
+01:46:46,817 --> 01:46:47,818
+Just keep me posted.
+
+1494
+01:46:48,359 --> 01:46:50,578
+Jarvis, find me a soft spot.
+
+1495
+01:46:53,157 --> 01:46:54,750
+Look at this!
+
+1496
+01:46:54,824 --> 01:46:55,826
+Look around you!
+
+1497
+01:46:57,161 --> 01:47:00,664
+You think this madness
+will end with your rule?
+
+1498
+01:47:01,164 --> 01:47:02,667
+It's too late.
+
+1499
+01:47:04,167 --> 01:47:05,420
+It's too late to stop it.
+
+1500
+01:47:05,502 --> 01:47:09,051
+No. We can, together.
+
+1501
+01:47:16,012 --> 01:47:17,765
+Sentiment.
+
+1502
+01:47:46,001 --> 01:47:48,253
+We've got civilians
+still trapped up here.
+
+1503
+01:47:49,253 --> 01:47:50,255
+Loki.
+
+1504
+01:48:01,850 --> 01:48:03,648
+They're fish in a
+barrel down there.
+
+1505
+01:48:09,274 --> 01:48:11,275
+We got this. It's good. Go.
+
+1506
+01:48:11,359 --> 01:48:12,577
+Do you think you
+can hold them off?
+
+1507
+01:48:12,653 --> 01:48:13,699
+Captain,
+
+1508
+01:48:15,863 --> 01:48:18,537
+it would be my genuine pleasure.
+
+1509
+01:48:45,560 --> 01:48:47,029
+Just like Budapest
+all over again.
+
+1510
+01:48:47,895 --> 01:48:50,114
+You and I remember
+Budapest very differently.
+
+1511
+01:49:06,582 --> 01:49:07,582
+It's going to be an hour
+
+1512
+01:49:07,666 --> 01:49:09,042
+before they can scramble
+the National Guard.
+
+1513
+01:49:09,126 --> 01:49:10,969
+National Guard?
+
+1514
+01:49:11,837 --> 01:49:13,180
+Does the army know
+what's happening here?
+
+1515
+01:49:13,255 --> 01:49:14,256
+Do we?
+
+1516
+01:49:15,798 --> 01:49:17,051
+You need men in these buildings.
+
+1517
+01:49:17,134 --> 01:49:18,680
+There are people inside and
+they're going to be running
+
+1518
+01:49:18,761 --> 01:49:20,012
+right into the line of fire.
+
+1519
+01:49:20,136 --> 01:49:22,060
+You take them to the basements
+or through the subway.
+
+1520
+01:49:22,139 --> 01:49:23,765
+You keep them off the streets.
+
+1521
+01:49:23,849 --> 01:49:26,146
+I need a perimeter
+as far back as 39th.
+
+1522
+01:49:26,601 --> 01:49:27,979
+Why the hell should I
+take orders from you?
+
+1523
+01:49:42,326 --> 01:49:43,542
+I need men in those buildings.
+
+1524
+01:49:43,618 --> 01:49:45,747
+Lead the people down and
+away from the streets.
+
+1525
+01:49:45,828 --> 01:49:48,172
+We're going to set up a perimeter
+all the way down to 39th Street.
+
+1526
+01:49:58,801 --> 01:50:00,177
+Well, we got its attention.
+
+1527
+01:50:00,511 --> 01:50:02,434
+What the hell was step two?
+
+1528
+01:50:31,917 --> 01:50:32,963
+What's the story upstairs?
+
+1529
+01:50:33,042 --> 01:50:35,011
+The power surrounding the
+Cube is impenetrable.
+
+1530
+01:50:35,087 --> 01:50:37,761
+Thor's right. We got to
+deal with these guys.
+
+1531
+01:50:37,840 --> 01:50:39,512
+- How do we do this?
+- As a team.
+
+1532
+01:50:39,591 --> 01:50:40,716
+I have unfinished
+business with Loki.
+
+1533
+01:50:41,135 --> 01:50:42,181
+Yeah? Well, get in line.
+
+1534
+01:50:42,261 --> 01:50:43,261
+Save it.
+
+1535
+01:50:43,679 --> 01:50:45,146
+Loki's going to keep this
+fight focused on us,
+
+1536
+01:50:45,221 --> 01:50:46,269
+and that's what we need.
+
+1537
+01:50:46,347 --> 01:50:48,065
+Without him, these
+things could run wild.
+
+1538
+01:50:48,141 --> 01:50:50,735
+We got Stark up top. He's
+going to need us to..
+
+1539
+01:50:58,443 --> 01:51:02,037
+So, this all seems horrible.
+
+1540
+01:51:02,530 --> 01:51:03,657
+I've seen worse.
+
+1541
+01:51:04,073 --> 01:51:05,166
+Sorry.
+
+1542
+01:51:05,367 --> 01:51:07,869
+No, we could use a little worse.
+
+1543
+01:51:08,287 --> 01:51:10,414
+- Stark, we got him.
+- Banner?
+
+1544
+01:51:10,622 --> 01:51:11,918
+Just like you said.
+
+1545
+01:51:12,248 --> 01:51:14,842
+Then tell him to suit up. I'm
+bringing the party to you.
+
+1546
+01:51:21,425 --> 01:51:23,176
+I don't see how that's a party.
+
+1547
+01:51:31,059 --> 01:51:32,060
+Dr. Banner.
+
+1548
+01:51:33,895 --> 01:51:35,738
+Now might be a really good
+time for you to get angry.
+
+1549
+01:51:36,564 --> 01:51:39,113
+That's my secret, Captain.
+
+1550
+01:51:40,777 --> 01:51:42,119
+I'm always angry.
+
+1551
+01:51:53,789 --> 01:51:55,212
+Hold on!
+
+1552
+01:52:25,322 --> 01:52:26,698
+Send the rest.
+
+1553
+01:52:33,454 --> 01:52:34,752
+Guys.
+
+1554
+01:52:34,997 --> 01:52:36,250
+Call it, Captain.
+
+1555
+01:52:36,332 --> 01:52:37,585
+All right, listen up.
+
+1556
+01:52:37,667 --> 01:52:40,171
+Until we can close that portal,
+our priority is containment.
+
+1557
+01:52:40,545 --> 01:52:41,921
+Barton, I want you on that roof.
+
+1558
+01:52:42,005 --> 01:52:43,927
+Eyes on everything. Call
+out patterns and strays.
+
+1559
+01:52:44,006 --> 01:52:45,099
+Stark, you got the perimeter.
+
+1560
+01:52:45,175 --> 01:52:46,426
+Anything gets more
+than three blocks out,
+
+1561
+01:52:46,551 --> 01:52:48,177
+you turn it back or
+you turn it to ash.
+
+1562
+01:52:48,511 --> 01:52:49,559
+- Can you give me a lift?
+- Right.
+
+1563
+01:52:49,637 --> 01:52:50,764
+Better clench up, Legolas.
+
+1564
+01:52:54,518 --> 01:52:56,520
+Thor, you got to try and
+bottleneck that portal.
+
+1565
+01:52:56,853 --> 01:52:57,979
+Slow them down.
+
+1566
+01:52:58,271 --> 01:53:00,149
+You got the lightning.
+Light the bastards up.
+
+1567
+01:53:02,734 --> 01:53:04,030
+You and me, we stay
+here on the ground.
+
+1568
+01:53:04,110 --> 01:53:05,283
+We keep the fighting here.
+
+1569
+01:53:05,362 --> 01:53:06,363
+And Hulk..
+
+1570
+01:53:09,032 --> 01:53:10,158
+Smash.
+
+1571
+01:54:04,087 --> 01:54:05,212
+Sir.
+
+1572
+01:54:05,963 --> 01:54:06,965
+The Council is on.
+
+1573
+01:54:12,095 --> 01:54:15,144
+Stark, you got a lot of
+strays sniffing your tail.
+
+1574
+01:54:17,184 --> 01:54:19,060
+I'm just trying to keep
+them off the streets.
+
+1575
+01:54:19,353 --> 01:54:21,320
+Well, they can't
+bank worth a damn.
+
+1576
+01:54:21,395 --> 01:54:22,613
+So find a tight corner.
+
+1577
+01:54:22,814 --> 01:54:24,235
+I will roger that.
+
+1578
+01:54:47,088 --> 01:54:48,305
+Oh, boy.
+
+1579
+01:54:55,514 --> 01:54:57,186
+Nice call.
+
+1580
+01:54:57,265 --> 01:54:58,516
+What else you got?
+
+1581
+01:54:58,600 --> 01:55:01,444
+Thor is taking on a
+squadron down on Sixth.
+
+1582
+01:55:01,520 --> 01:55:03,488
+And he didn't invite me.
+
+1583
+01:55:43,228 --> 01:55:45,229
+Captain, none of this is
+going to mean a damn thing
+
+1584
+01:55:45,313 --> 01:55:46,279
+if we don't close that portal.
+
+1585
+01:55:46,355 --> 01:55:47,608
+Our biggest guns
+couldn't touch it.
+
+1586
+01:55:47,983 --> 01:55:50,280
+Well, maybe it's not about guns.
+
+1587
+01:55:52,319 --> 01:55:54,072
+If you want to get up there,
+you're going to need a ride.
+
+1588
+01:55:55,114 --> 01:55:56,240
+I got a ride.
+
+1589
+01:55:57,324 --> 01:55:58,372
+I could use a boost, though.
+
+1590
+01:56:01,037 --> 01:56:02,037
+Are you sure about this?
+
+1591
+01:56:02,706 --> 01:56:05,050
+Yeah. It's gonna be fun.
+
+1592
+01:56:32,234 --> 01:56:34,033
+Okay, turn, turn.
+
+1593
+01:56:34,237 --> 01:56:36,034
+Less! Less!
+
+1594
+01:57:58,654 --> 01:58:01,658
+Captain, the bank on
+42nd past Madison.
+
+1595
+01:58:01,740 --> 01:58:03,583
+They've cornered a lot
+of civilians in there.
+
+1596
+01:58:03,659 --> 01:58:05,412
+I'm on it.
+
+1597
+01:58:25,681 --> 01:58:27,354
+Everyone! Clear out!
+
+1598
+01:58:57,380 --> 01:58:59,097
+Director Fury,
+
+1599
+01:58:59,173 --> 01:59:00,720
+the Council has made a decision.
+
+1600
+01:59:01,051 --> 01:59:03,850
+I recognise the Council
+has made a decision.
+
+1601
+01:59:03,927 --> 01:59:05,600
+But given that it's a
+stupid-ass decision,
+
+1602
+01:59:05,680 --> 01:59:07,148
+I have elected to ignore it.
+
+1603
+01:59:07,222 --> 01:59:10,318
+Director, you're closer
+than any of our subs.
+
+1604
+01:59:10,393 --> 01:59:11,439
+You scramble that jet..
+
+1605
+01:59:11,560 --> 01:59:14,359
+That is the island of
+Manhattan, Councilman.
+
+1606
+01:59:14,605 --> 01:59:16,779
+Until I'm certain my
+team can't hold it,
+
+1607
+01:59:16,858 --> 01:59:18,859
+I will not order
+a nuclear strike
+
+1608
+01:59:18,943 --> 01:59:20,286
+against a civilian population.
+
+1609
+01:59:20,528 --> 01:59:22,747
+If we don't hold them
+here, we lose everything.
+
+1610
+01:59:23,073 --> 01:59:25,826
+If I send that bird
+out, we already have.
+
+1611
+01:59:29,578 --> 01:59:30,921
+You.
+
+1612
+01:59:33,541 --> 01:59:34,757
+Hawkeye!
+
+1613
+01:59:35,835 --> 01:59:36,836
+Nat, what are you doing?
+
+1614
+01:59:37,796 --> 01:59:38,796
+A little help?
+
+1615
+01:59:44,219 --> 01:59:45,220
+I got him.
+
+1616
+02:00:11,662 --> 02:00:12,663
+Enough!
+
+1617
+02:00:13,288 --> 02:00:15,507
+You are, all of you, beneath me!
+
+1618
+02:00:15,833 --> 02:00:18,677
+I am a god, you dull creature.
+
+1619
+02:00:18,752 --> 02:00:20,300
+And I will not be bullied by..
+
+1620
+02:00:29,805 --> 02:00:31,729
+Puny god.
+
+1621
+02:00:40,065 --> 02:00:41,613
+The sceptre..
+
+1622
+02:00:42,694 --> 02:00:43,990
+Doctor.
+
+1623
+02:00:45,822 --> 02:00:48,701
+Loki's scepter. The energy.
+
+1624
+02:00:48,783 --> 02:00:50,456
+The Tesseract can't fight,
+
+1625
+02:00:50,534 --> 02:00:52,377
+but you can't protect
+against yourself.
+
+1626
+02:00:52,537 --> 02:00:53,583
+It's not your fault.
+
+1627
+02:00:53,662 --> 02:00:54,755
+You didn't know what
+you were doing.
+
+1628
+02:00:58,167 --> 02:01:00,386
+Actually, I think I did.
+
+1629
+02:01:00,462 --> 02:01:03,466
+I built in a safety to
+cut their power source.
+
+1630
+02:01:04,591 --> 02:01:06,092
+Loki's scepter.
+
+1631
+02:01:06,176 --> 02:01:08,804
+It may be able to
+close the portal.
+
+1632
+02:01:10,846 --> 02:01:12,689
+And I'm looking right at it.
+
+1633
+02:01:25,153 --> 02:01:28,657
+Sir, we will lose power before
+we penetrate that shell.
+
+1634
+02:01:35,454 --> 02:01:38,800
+Jarvis, you ever hear
+the tale of Jonah?
+
+1635
+02:01:38,875 --> 02:01:41,047
+I wouldn't consider
+him a role model.
+
+1636
+02:02:50,863 --> 02:02:52,707
+Director Fury is no
+longer in command.
+
+1637
+02:02:52,782 --> 02:02:54,876
+Override order 7-Alpha-1- 1.
+
+1638
+02:02:54,951 --> 02:02:57,420
+7-Alpha-1-1, confirmed.
+We're go for takeoff
+
+1639
+02:02:58,453 --> 02:03:00,456
+Sir, we have a bird in motion!
+
+1640
+02:03:00,998 --> 02:03:02,796
+Anyone on the deck,
+we have a rogue bird.
+
+1641
+02:03:03,126 --> 02:03:04,469
+We need to shut it down!
+
+1642
+02:03:04,543 --> 02:03:06,546
+Repeat, takeoff is
+not authorized.
+
+1643
+02:03:37,327 --> 02:03:39,546
+Stark, do you hear me?
+
+1644
+02:03:39,621 --> 02:03:41,588
+You have a missile headed
+straight for the city.
+
+1645
+02:03:42,289 --> 02:03:43,712
+How long?
+
+1646
+02:03:43,791 --> 02:03:45,918
+Three minutes, max.
+
+1647
+02:03:46,002 --> 02:03:47,470
+The payload will
+wipe out Midtown.
+
+1648
+02:03:47,712 --> 02:03:49,588
+Jarvis, put everything we
+got into the thrusters.
+
+1649
+02:03:49,881 --> 02:03:51,599
+1 just did.
+
+1650
+02:04:04,311 --> 02:04:05,689
+Package is sent.
+
+1651
+02:04:05,896 --> 02:04:08,867
+Detonation in 2 minutes,
+30 seconds, mark.
+
+1652
+02:04:31,797 --> 02:04:34,220
+Are you ready for another bout?
+
+1653
+02:04:34,676 --> 02:04:35,722
+What, are you getting sleepy?
+
+1654
+02:04:41,474 --> 02:04:43,271
+Right at the crown!
+
+1655
+02:04:49,231 --> 02:04:51,109
+I can close it.
+
+1656
+02:04:51,192 --> 02:04:52,909
+Can anybody copy?
+
+1657
+02:04:53,027 --> 02:04:54,243
+I can shut the portal down.
+
+1658
+02:04:54,569 --> 02:04:56,537
+- Do it!
+- No, wait.
+
+1659
+02:04:56,613 --> 02:04:57,831
+Stark, these things
+are still coming.
+
+1660
+02:04:57,907 --> 02:04:58,908
+I got a nuke coming in.
+
+1661
+02:04:58,992 --> 02:05:00,868
+It's gonna blow in
+less than a minute.
+
+1662
+02:05:10,837 --> 02:05:12,510
+And I know just where to put it.
+
+1663
+02:05:19,886 --> 02:05:22,265
+Stark, you know that's
+a one-way trip.
+
+1664
+02:05:22,347 --> 02:05:23,770
+Save the rest for the turn, J.
+
+1665
+02:05:23,850 --> 02:05:28,025
+Sir, shall I try Miss Potts?
+
+1666
+02:05:28,104 --> 02:05:29,855
+Might as well.
+
+1667
+02:05:32,065 --> 02:05:34,488
+The streets of New York City
+have become a battleground.
+
+1668
+02:05:34,569 --> 02:05:36,947
+The Army is here trying
+to contain the violence
+
+1669
+02:05:37,154 --> 02:05:38,702
+but clearly, it is outmatched.
+
+1670
+02:05:38,948 --> 02:05:41,292
+And I have to say, in all
+my years of reporting,
+
+1671
+02:05:41,367 --> 02:05:44,119
+I have never seen
+anything like this.
+
+1672
+02:05:44,453 --> 02:05:45,796
+We have limited
+information on the team
+
+1673
+02:05:46,038 --> 02:05:49,634
+but we do know that billionaire
+Tony Stark's Iron Man..
+
+1674
+02:07:03,198 --> 02:07:05,042
+Come on, Stark.
+
+1675
+02:07:11,414 --> 02:07:12,587
+Close it.
+
+1676
+02:07:32,686 --> 02:07:33,688
+Son of a gun.
+
+1677
+02:07:38,568 --> 02:07:40,240
+He's not slowing down.
+
+1678
+02:07:58,253 --> 02:07:59,551
+Is he breathing?
+
+1679
+02:08:27,617 --> 02:08:28,833
+What the hell?
+
+1680
+02:08:31,746 --> 02:08:33,918
+What just happened?
+
+1681
+02:08:34,164 --> 02:08:36,292
+Please tell me nobody kissed me.
+
+1682
+02:08:40,546 --> 02:08:42,014
+We won.
+
+1683
+02:08:44,550 --> 02:08:45,893
+All right, yay!
+
+1684
+02:08:45,967 --> 02:08:48,015
+Hurray. Good job, guys.
+
+1685
+02:08:48,095 --> 02:08:51,064
+Let's just not come in tomorrow.
+Let's just take a day.
+
+1686
+02:08:52,057 --> 02:08:53,479
+Have you ever tried shawarma?
+
+1687
+02:08:54,143 --> 02:08:56,270
+There's a shawarma joint
+about two blocks from here.
+
+1688
+02:08:56,354 --> 02:08:58,105
+I don't know what it is,
+but I want to try it.
+
+1689
+02:08:58,648 --> 02:08:59,990
+We're not finished yet.
+
+1690
+02:09:05,070 --> 02:09:06,993
+And then shawarma after.
+
+1691
+02:09:28,844 --> 02:09:31,188
+If it's all the same to you,
+
+1692
+02:09:34,391 --> 02:09:36,109
+I'll have that drink now.
+
+1693
+02:09:43,984 --> 02:09:46,033
+Despite the devastation of
+what has been confirmed
+
+1694
+02:09:46,112 --> 02:09:47,909
+as an extraterrestrial attack,
+
+1695
+02:09:47,988 --> 02:09:49,536
+the extraordinary heroics
+
+1696
+02:09:49,657 --> 02:09:51,625
+of the group known
+as the Avengers
+
+1697
+02:09:51,701 --> 02:09:53,293
+has been to many a cause
+not only for comfort,
+
+1698
+02:09:53,368 --> 02:09:54,369
+but for celebration.
+
+1699
+02:09:54,494 --> 02:09:56,963
+It's just really great
+knowing they're out there.
+
+1700
+02:09:57,038 --> 02:09:58,916
+That someone is
+watching over us.
+
+1701
+02:09:59,000 --> 02:10:00,252
+I love you, Thor!
+
+1702
+02:10:00,333 --> 02:10:02,086
+And then these guys were like..
+
+1703
+02:10:02,168 --> 02:10:03,511
+And then the air goes..
+
+1704
+02:10:03,587 --> 02:10:05,009
+And this green guy walks
+up and he goes..
+
+1705
+02:10:05,088 --> 02:10:06,180
+I don't know.
+
+1706
+02:10:06,256 --> 02:10:08,805
+I don't exactly feel safer
+with those things out there.
+
+1707
+02:10:08,884 --> 02:10:11,979
+It just seems that there's a
+lot they're not telling us.
+
+1708
+02:10:12,054 --> 02:10:15,307
+Superheroes in New York?
+Give me a break.
+
+1709
+02:10:15,599 --> 02:10:17,567
+These so-called "heroes"
+
+1710
+02:10:17,643 --> 02:10:18,985
+have to be held responsible
+
+1711
+02:10:19,060 --> 02:10:21,314
+for the destruction
+done to this city.
+
+1712
+02:10:21,396 --> 02:10:23,524
+This was their fight.
+Where are they now?
+
+1713
+02:10:23,606 --> 02:10:26,485
+Tough questions are being asked
+about the Avengers themselves.
+
+1714
+02:10:26,569 --> 02:10:27,661
+Their sudden appearance
+
+1715
+02:10:27,737 --> 02:10:29,158
+and equally sudden
+disappearance..
+
+1716
+02:10:29,238 --> 02:10:32,082
+What, this is all
+somehow their fault?
+
+1717
+02:10:34,076 --> 02:10:37,250
+Captain America saved my life.
+
+1718
+02:10:39,372 --> 02:10:42,877
+Wherever he is, and
+wherever any of them are,
+
+1719
+02:10:42,960 --> 02:10:44,506
+I would just..
+
+1720
+02:10:45,253 --> 02:10:47,597
+I would want to say thank you.
+
+1721
+02:10:50,051 --> 02:10:51,597
+Where are the Avengers?
+
+1722
+02:10:51,926 --> 02:10:54,100
+I'm not currently tracking
+their whereabouts.
+
+1723
+02:10:54,180 --> 02:10:56,399
+I'd say they've earned
+a leave of absence.
+
+1724
+02:10:56,474 --> 02:10:58,100
+And the Tesseract?
+
+1725
+02:10:58,184 --> 02:11:00,278
+The Tesseract is
+where it belongs.
+
+1726
+02:11:00,895 --> 02:11:03,273
+Out of our reach.
+
+1727
+02:11:03,480 --> 02:11:04,903
+That's not your call.
+
+1728
+02:11:04,981 --> 02:11:06,029
+I didn't make it.
+
+1729
+02:11:06,149 --> 02:11:08,243
+I just didn't argue
+with the god that did.
+
+1730
+02:11:08,527 --> 02:11:10,199
+So, you let him take it
+
+1731
+02:11:10,445 --> 02:11:12,118
+and the war criminal, Loki,
+
+1732
+02:11:12,198 --> 02:11:13,996
+who should be answering
+for his crime.
+
+1733
+02:11:14,074 --> 02:11:16,418
+I think he will be.
+
+1734
+02:11:30,131 --> 02:11:32,510
+I don't think you understand
+what you've started,
+
+1735
+02:11:32,885 --> 02:11:35,182
+letting the Avengers
+loose on this world.
+
+1736
+02:11:35,595 --> 02:11:36,643
+They're dangerous.
+
+1737
+02:11:37,014 --> 02:11:40,518
+They surely are, and the
+whole world knows it.
+
+1738
+02:11:41,226 --> 02:11:43,570
+Every world knows it.
+
+1739
+02:11:44,229 --> 02:11:46,198
+Was that the point of all this?
+
+1740
+02:11:46,481 --> 02:11:48,029
+A statement?
+
+1741
+02:11:50,903 --> 02:11:52,404
+A promise.
+
+1742
+02:12:00,871 --> 02:12:02,463
+Sir, how does it work now?
+
+1743
+02:12:03,748 --> 02:12:05,796
+They've gone their
+separate ways.
+
+1744
+02:12:05,876 --> 02:12:08,845
+Some, pretty extremely far.
+
+1745
+02:12:09,546 --> 02:12:11,548
+If we get into a situation
+like this again,
+
+1746
+02:12:11,631 --> 02:12:12,975
+what happens then?
+
+1747
+02:12:13,050 --> 02:12:14,096
+They'll come back.
+
+1748
+02:12:15,761 --> 02:12:17,262
+Are you really sure about that?
+
+1749
+02:12:17,345 --> 02:12:18,346
+I am.
+
+1750
+02:12:20,224 --> 02:12:21,520
+Why?
+
+1751
+02:12:22,518 --> 02:12:24,395
+Because we'll need them to.
+
+1752
+02:15:16,274 --> 02:15:18,823
+Humans.
+
+1753
+02:15:20,029 --> 02:15:24,454
+They are not the cowering
+wretches we were promised.
+
+1754
+02:15:25,367 --> 02:15:27,539
+They stand.
+
+1755
+02:15:28,369 --> 02:15:33,591
+They are unruly, and
+therefore cannot be ruled.
+
+1756
+02:15:41,800 --> 02:15:44,724
+To challenge them
+
+1757
+02:15:44,802 --> 02:15:48,181
+is to court death.
+

@@ -1,0 +1,4408 @@
+
+3
+00:00:58,582 --> 00:01:03,039
+<b>IRON MAN
+Rise of Technovore</b>
+
+4
+00:01:08,331 --> 00:01:13,236
+<i>One must be a sea
+to receive a polluted stream</i>
+
+5
+00:01:14,447 --> 00:01:17,408
+<i>without becoming impure.</i>
+
+6
+00:01:18,510 --> 00:01:22,159
+<i>Lo, I teach you the Overman.</i>
+
+7
+00:01:22,237 --> 00:01:23,933
+<i>He is that sea.</i>
+
+8
+00:01:23,935 --> 00:01:29,022
+<i>In him can your great
+contempt be submerged.</i>
+
+9
+00:02:02,621 --> 00:02:04,971
+What's the problem?
+
+10
+00:02:05,590 --> 00:02:07,692
+Did you drink too much last night?
+
+11
+00:02:19,471 --> 00:02:24,718
+I can hold my liquor much
+better than you, servicemen.
+
+12
+00:02:24,843 --> 00:02:26,888
+That's just the rookies,
+and if you're not careful,
+
+13
+00:02:27,013 --> 00:02:30,997
+you might end up like them,
+barfing your guts out inside your suit.
+
+14
+00:02:31,415 --> 00:02:33,127
+Watch and learn! I'm about to do some
+
+15
+00:02:33,252 --> 00:02:35,603
+maneuvers only big boys can pull off!
+
+16
+00:03:09,655 --> 00:03:13,401
+You'd better give up
+and admit defeat, Rhodey!
+
+17
+00:03:13,526 --> 00:03:17,260
+Your War Machine is all about
+firepower, not speed. It's too heavy!
+
+18
+00:03:25,304 --> 00:03:27,782
+You might as well admit it.
+You're never going to catch me!
+
+19
+00:03:27,907 --> 00:03:29,539
+Just watch me!
+
+20
+00:03:43,187 --> 00:03:44,921
+Gotcha!
+
+21
+00:03:54,067 --> 00:03:56,677
+You keep forgetting one thing, Tony.
+
+22
+00:03:56,802 --> 00:04:00,615
+It's not just speed that counts
+here, I'm an air force pilot
+
+23
+00:04:00,740 --> 00:04:03,183
+with a whole lot of experience.
+
+24
+00:04:03,308 --> 00:04:07,855
+I have years of training under my belt,
+in actual combat conditions!
+
+25
+00:04:07,980 --> 00:04:09,591
+You're a novice who only
+just got his license!
+
+26
+00:04:19,156 --> 00:04:21,903
+No fair, shooting repulsor rays!
+
+27
+00:04:22,028 --> 00:04:25,562
+You said you were experienced
+in tactics! You didn't see that coming?
+
+28
+00:04:37,808 --> 00:04:39,420
+<i>Imagine if outbreaks of violence,</i>
+
+29
+00:04:39,545 --> 00:04:41,055
+<i>murder, and terrorism could all be</i>
+
+30
+00:04:41,180 --> 00:04:44,091
+<i>detected and prevented
+before they ever took place!</i>
+
+31
+00:04:44,216 --> 00:04:45,793
+<i>It sounds like
+science-fiction, but it's not.</i>
+
+32
+00:04:45,918 --> 00:04:48,262
+<i>We're here to introduce
+the new Howard satellite,</i>
+
+33
+00:04:48,387 --> 00:04:50,632
+<i>developed by Stark Industries.</i>
+
+34
+00:04:50,757 --> 00:04:53,500
+<i>This technology will enable the
+S.H.I.E.L.D. detection program</i>
+
+35
+00:04:53,625 --> 00:04:55,637
+<i>to monitor every event and the full range</i>
+
+36
+00:04:55,762 --> 00:04:57,461
+<i>of human activity, all over the place.</i>
+
+37
+00:04:58,863 --> 00:05:00,675
+<i>But there are those who are already</i>
+
+38
+00:05:00,800 --> 00:05:02,810
+<i>calling it the ultimate spy satellite.</i>
+
+39
+00:05:02,935 --> 00:05:04,678
+<i>Privacy-rights advocates have demanded</i>
+
+40
+00:05:04,803 --> 00:05:07,148
+<i>that Stark Industries
+scrap its deployment.</i>
+
+41
+00:05:07,273 --> 00:05:11,375
+<i>Tony Stark responded to those accusations
+in his presentation last night...</i>
+
+42
+00:05:17,014 --> 00:05:23,387
+I named this satellite "Howard" after
+
+43
+00:05:24,523 --> 00:05:30,971
+my dad, who always watched out for me.
+
+44
+00:05:33,266 --> 00:05:36,476
+<i>He believed in the concept
+of personal freedom.</i>
+
+45
+00:05:36,601 --> 00:05:38,745
+<i>The Howard satellite has nt been
+designed to infringe upon that right.</i>
+
+46
+00:05:38,870 --> 00:05:41,014
+<i>Instead, it's an all-seeing
+eye in the sky with one job,</i>
+
+47
+00:05:41,139 --> 00:05:42,951
+<i>to identify and prevent trouble
+before it occurs, 24 hours a day.</i>
+
+48
+00:05:43,076 --> 00:05:44,485
+<i>Once it's launched and activated,</i>
+
+49
+00:05:44,610 --> 00:05:46,221
+<i>it will provide relief
+to the victims of crime,</i>
+
+50
+00:05:46,346 --> 00:05:47,754
+<i>and protect countless
+lives all over the world.</i>
+
+51
+00:05:56,487 --> 00:05:58,800
+<i>Tony Stark,
+the CEO of Stark Industries,</i>
+
+52
+00:05:58,925 --> 00:06:00,767
+<i>who is also known as Iron Man,</i>
+
+53
+00:06:00,892 --> 00:06:03,103
+<i>is claiming the launch
+of his new satellite</i>
+
+54
+00:06:03,228 --> 00:06:05,906
+<i>will provide endless benefits
+to ordinary citizens...</i>
+
+55
+00:06:06,031 --> 00:06:07,608
+<i>With many
+questions unanswered, there is</i>
+
+56
+00:06:07,733 --> 00:06:10,110
+<i>much anxiety over potential
+violations of privacy...</i>
+
+57
+00:06:10,235 --> 00:06:12,279
+<i>People are wondering whether they're</i>
+
+58
+00:06:12,404 --> 00:06:14,615
+<i>able to trust this man, who has
+a background as a weapons dealer.</i>
+
+59
+00:06:14,740 --> 00:06:16,783
+<i>There is an undercurrent of anxiety that</i>
+
+60
+00:06:16,908 --> 00:06:19,153
+<i>the satellite was developed for some</i>
+
+61
+00:06:19,278 --> 00:06:22,257
+<i>secret purpose. There
+are those who say there is</i>
+
+62
+00:06:22,382 --> 00:06:23,858
+<i>great danger in putting all
+our faith in technology.</i>
+
+63
+00:06:23,983 --> 00:06:25,726
+<i>Who will be in control, man or machine?</i>
+
+64
+00:06:25,851 --> 00:06:28,396
+<i>Here comes Tony Stark
+in his Iron Man armor,</i>
+
+65
+00:06:28,521 --> 00:06:29,997
+<i>and Colonel James Rhodes,
+flying his War Machine!</i>
+
+66
+00:06:30,122 --> 00:06:33,300
+<i>Obviously, they are both
+here to reassure the public.</i>
+
+67
+00:07:21,372 --> 00:07:22,182
+Glad you're still alive.
+
+68
+00:07:22,307 --> 00:07:24,052
+Not as much as me.
+
+69
+00:07:24,177 --> 00:07:25,653
+Who the hell are these guys?
+
+70
+00:07:25,778 --> 00:07:27,687
+They're targeting the Howard.
+
+71
+00:07:27,812 --> 00:07:30,658
+I've run into these bastards before.
+
+72
+00:07:30,783 --> 00:07:33,661
+They're armored mercenaries who
+call themselves the "raiders."
+
+73
+00:07:33,786 --> 00:07:36,297
+They must be paranoid that we're gonna
+be able to track their activities.
+
+74
+00:07:37,790 --> 00:07:40,290
+They're jamming the radio waves!
+
+75
+00:07:48,466 --> 00:07:50,533
+Data interrupt!
+We've lost communications!
+
+76
+00:07:52,204 --> 00:07:54,672
+Scramble our interceptors
+and get them out there.
+
+77
+00:08:18,764 --> 00:08:20,865
+Rhodey! Great work!
+
+78
+00:08:41,119 --> 00:08:43,965
+It's time for us to have
+a little chat, my friend.
+
+79
+00:08:44,090 --> 00:08:47,701
+<i>If you answer nicely, you
+might survive this interview.</i>
+
+80
+00:08:47,826 --> 00:08:50,738
+You'll be in prison, but at
+least you'll still be alive.
+
+81
+00:08:50,863 --> 00:08:53,640
+Am I supposed to be scared? My
+boss is more powerful than you.
+
+82
+00:08:53,765 --> 00:08:56,267
+He's far surpassed your capabilities.
+
+83
+00:09:05,644 --> 00:09:10,024
+He's that good, is he? Maybe I can
+find a job for him in my company.
+
+84
+00:09:10,149 --> 00:09:12,460
+We'd have to settle a few things
+first, like a claim for damages.
+
+85
+00:09:13,785 --> 00:09:15,251
+We've only just begun.
+
+86
+00:09:19,291 --> 00:09:22,636
+My boss is going to smash your
+satellite into pieces before
+
+87
+00:09:22,761 --> 00:09:25,696
+you have a chance to play with it!
+
+88
+00:09:28,832 --> 00:09:32,168
+If he's that powerful, why is
+he so afraid to show himself?
+
+89
+00:09:34,371 --> 00:09:35,673
+Oh, he's here.
+
+90
+00:09:41,446 --> 00:09:43,346
+Rhodey!
+
+91
+00:09:43,749 --> 00:09:45,849
+Take care of this guy, will you?
+
+92
+00:09:47,418 --> 00:09:48,284
+Hey!
+
+93
+00:10:20,150 --> 00:10:22,129
+Have all staff except necessary
+personnel evacuate immediately!
+
+94
+00:10:22,254 --> 00:10:23,431
+We're about to launch the satellite!
+
+95
+00:10:23,556 --> 00:10:24,888
+Yes, sir!
+
+96
+00:10:26,658 --> 00:10:29,659
+Who's there? Only authorized
+personnel are allowed in here!
+
+97
+00:10:49,847 --> 00:10:50,957
+Fuel update!
+
+98
+00:10:51,082 --> 00:10:52,426
+Complete, sir!
+
+99
+00:10:52,551 --> 00:10:53,494
+Launch pad status!
+
+100
+00:10:53,619 --> 00:10:54,629
+Ready to go!
+
+101
+00:10:57,355 --> 00:10:58,231
+Fire flow complete!
+
+102
+00:10:58,356 --> 00:10:59,734
+Countdown continuing.
+
+103
+00:10:59,859 --> 00:11:01,134
+25... 24... 23... 22... 21... 20... 19...
+
+104
+00:11:01,259 --> 00:11:02,370
+Wind speed, eight miles per hour!
+
+105
+00:11:02,495 --> 00:11:03,803
+Purging energy supply pipe!
+
+106
+00:11:03,928 --> 00:11:05,206
+- All systems are green!
+- Acknowledged!
+
+107
+00:11:05,331 --> 00:11:06,440
+Good morning.
+
+108
+00:11:06,565 --> 00:11:07,865
+Huh?
+
+109
+00:11:11,135 --> 00:11:12,669
+And goodbye.
+
+110
+00:11:14,905 --> 00:11:17,618
+Huh? What the heck?
+
+111
+00:11:17,743 --> 00:11:20,788
+<i>Unknown phenomenon.
+No reference in the database.</i>
+
+112
+00:11:20,913 --> 00:11:23,279
+<i>Possible presence of
+erosive biological cells.</i>
+
+113
+00:11:51,475 --> 00:11:53,043
+No one escapes.
+
+114
+00:12:04,989 --> 00:12:06,589
+I won't let you do it!
+
+115
+00:13:07,885 --> 00:13:10,419
+<i>Power is down.
+Energy reserves at 55%.</i>
+
+116
+00:13:14,958 --> 00:13:17,004
+Who is this guy?
+
+117
+00:13:17,129 --> 00:13:19,506
+<i>Insufficient data.
+Genome DNA extract impossible.</i>
+
+118
+00:13:19,631 --> 00:13:21,475
+<i>Cannot read base sequence.</i>
+
+119
+00:13:21,600 --> 00:13:24,412
+<i>Unknown gene region.</i>
+
+120
+00:13:24,537 --> 00:13:27,287
+<i>Centrifuge is required
+to continue analysis.</i>
+
+121
+00:13:29,140 --> 00:13:32,052
+You must be some kind of monster!
+
+122
+00:13:32,177 --> 00:13:35,778
+How could you sacrifice so many
+lives for a single satellite?
+
+123
+00:13:36,047 --> 00:13:39,015
+Hey, you! Say something!
+
+124
+00:13:41,152 --> 00:13:46,190
+The leaders of all fascist companies
+appear to have similar eyes.
+
+125
+00:13:56,601 --> 00:13:59,336
+The eyes of smartass
+kids also seem the same.
+
+126
+00:14:01,004 --> 00:14:03,717
+People who place their faith
+in high-technology, like you,
+
+127
+00:14:03,842 --> 00:14:07,120
+sShould be placed in museums
+with the rest of the fossils.
+
+128
+00:14:07,245 --> 00:14:10,279
+Actually, coffins would be better.
+
+129
+00:14:11,615 --> 00:14:14,028
+And kids who are all mouth, like you,
+
+130
+00:14:14,153 --> 00:14:16,186
+sShould be sent to the Stark
+school of re-education.
+
+131
+00:14:16,988 --> 00:14:18,588
+I am Ezekiel.
+
+132
+00:14:21,292 --> 00:14:22,525
+Ezekiel?
+
+133
+00:14:24,895 --> 00:14:27,006
+I promise you, I will be dancing
+
+134
+00:14:27,131 --> 00:14:28,942
+around your coffin as they
+drive in the final nail.
+
+135
+00:14:29,067 --> 00:14:33,003
+I will then hold a wake in
+the offbeat style you so favor.
+
+136
+00:14:37,741 --> 00:14:40,376
+I'm not done with you yet!
+
+137
+00:14:41,211 --> 00:14:43,312
+Goodbye.
+
+138
+00:14:52,856 --> 00:14:57,738
+Shoot! What the hell is this?
+
+139
+00:14:57,863 --> 00:14:59,296
+Tony, where are you?
+
+140
+00:15:02,734 --> 00:15:06,235
+What happened down here?
+What's going on in this place?
+
+141
+00:15:07,739 --> 00:15:10,017
+I'm done on my end!
+
+142
+00:15:10,142 --> 00:15:12,820
+Tony, are you down here somewhere?
+
+143
+00:15:12,945 --> 00:15:14,586
+- Don't come any further!
+- What? Are you in trouble?
+
+144
+00:15:14,711 --> 00:15:18,315
+- What's that?
+- Rhodey!
+
+145
+00:15:29,760 --> 00:15:31,610
+I don't believe this.
+
+146
+00:15:33,398 --> 00:15:35,231
+The control tower's gone!
+
+147
+00:15:48,645 --> 00:15:49,823
+Any signs of life?
+
+148
+00:15:49,948 --> 00:15:51,499
+I'm afraid not.
+
+149
+00:15:52,817 --> 00:15:54,794
+Wait! I see some movement
+down in the rubble!
+
+150
+00:15:54,919 --> 00:15:57,331
+It's Tony Stark! He made it out, sir!
+
+151
+00:15:57,456 --> 00:16:00,967
+Iron Man is alive!
+
+152
+00:16:01,092 --> 00:16:03,136
+Send black widow to pick him up!
+
+153
+00:16:03,261 --> 00:16:05,128
+And hurry! We need to
+debrief him immediately!
+
+154
+00:16:22,913 --> 00:16:25,581
+Come on! Where are you, Rhodey?
+
+155
+00:16:28,820 --> 00:16:34,400
+Come on! You've got to be
+here somewhere! I'll find you,
+
+156
+00:16:34,525 --> 00:16:37,638
+No matter how long it takes!
+If you're alive, answer me!
+
+157
+00:16:37,763 --> 00:16:43,700
+Natasha! Help me find Rhodey! Please!
+
+158
+00:16:46,837 --> 00:16:52,452
+Stark! There's no time to waste,
+we have to get out of here.
+
+159
+00:16:52,577 --> 00:16:54,644
+Fury has ordered me to
+escort you to the helicarrier.
+
+160
+00:17:05,589 --> 00:17:08,868
+The medical team will
+continue to search for survivors,
+
+161
+00:17:08,993 --> 00:17:11,461
+But casualties are expected to
+rise to more than 300 people.
+
+162
+00:17:18,769 --> 00:17:23,416
+Nick! Rhodey died!
+Right in front of me!
+
+163
+00:17:23,541 --> 00:17:25,375
+And so did a lot of other people.
+
+164
+00:17:26,978 --> 00:17:28,422
+Who the hell were these guys?
+
+165
+00:17:28,547 --> 00:17:30,657
+All their signals were blocked
+
+166
+00:17:30,782 --> 00:17:32,516
+By a very powerful
+electromagnetic field.
+
+167
+00:17:34,684 --> 00:17:37,788
+I was hoping you could
+give us some guidance.
+
+168
+00:17:42,059 --> 00:17:44,294
+He was a smartass kid.
+
+169
+00:17:45,529 --> 00:17:49,375
+His armor was weird.
+It was very advanced,
+
+170
+00:17:49,500 --> 00:17:51,244
+I'll tell you that is something
+I've never seen before.
+
+171
+00:17:51,369 --> 00:17:53,146
+It was techno bio-organic matter,
+
+172
+00:17:53,271 --> 00:17:55,082
+combined with manmade mechanisms!
+
+173
+00:17:55,207 --> 00:17:57,257
+Techno bio-organic armor?
+
+174
+00:17:57,541 --> 00:18:00,054
+I'm gonna find
+that guy. And when I do,
+
+175
+00:18:00,179 --> 00:18:02,278
+I'm gonna make him pay for Rhodey!
+
+176
+00:18:05,650 --> 00:18:08,194
+Nick! What's going on
+here? What are you up to?
+
+177
+00:18:08,319 --> 00:18:10,196
+You're not leaving this complex, Stark.
+
+178
+00:18:10,321 --> 00:18:12,833
+Not until S.H.I.E.L.D. has worked
+out exactly what's going on.
+
+179
+00:18:12,958 --> 00:18:14,567
+Are you suggesting I
+had something to do with this?
+
+180
+00:18:14,692 --> 00:18:16,603
+We have more questions.
+
+181
+00:18:16,728 --> 00:18:19,440
+What happened just now is
+being broadcast everywhere.
+
+182
+00:18:19,565 --> 00:18:21,107
+It's being played out
+on every news channel
+
+183
+00:18:21,232 --> 00:18:23,344
+On every television across the planet.
+
+184
+00:18:23,469 --> 00:18:24,778
+If we don't provide an explanation
+
+185
+00:18:24,903 --> 00:18:27,203
+some high-up heads at the
+Pentagon are going to roll.
+
+186
+00:18:28,439 --> 00:18:31,884
+Just routine procedure, of
+course. Business as usual.
+
+187
+00:18:32,009 --> 00:18:34,989
+They have enough heads. Believe
+me, they can afford to lose a few.
+
+188
+00:18:35,114 --> 00:18:36,957
+That's not the most important thing now.
+
+189
+00:18:37,082 --> 00:18:38,992
+We need to get hold of that kid before
+
+190
+00:18:39,117 --> 00:18:42,867
+he causes any more damage.
+And that's exactly what I'm gonna do!
+
+191
+00:18:45,823 --> 00:18:46,972
+Go after him.
+
+192
+00:19:09,313 --> 00:19:12,315
+<i>Nick! Will you
+call off your pit-bull?</i>
+
+193
+00:19:16,953 --> 00:19:19,689
+For god's sake! I don't
+have time to mess around!
+
+194
+00:19:20,191 --> 00:19:21,290
+That's too bad.
+
+195
+00:19:26,631 --> 00:19:28,307
+I'm the only one who has a chance
+
+196
+00:19:28,432 --> 00:19:30,176
+against that smart-ass
+kid's technology!
+
+197
+00:19:30,301 --> 00:19:32,413
+<i>You probably won't believe I,</i>
+
+198
+00:19:32,538 --> 00:19:34,882
+but I'm telling you the truth,
+I'm not enjoying this one bit.
+
+199
+00:19:35,007 --> 00:19:36,784
+There are rules.
+
+200
+00:19:36,909 --> 00:19:40,086
+And whether you like it or not, I
+happen to be duty-bound to obey them.
+
+201
+00:19:40,211 --> 00:19:43,856
+<i>There'll be hell to pay if I let
+our only witness get himself killed.</i>
+
+202
+00:19:43,981 --> 00:19:46,215
+You government workers sure
+have a tough job.
+
+203
+00:19:53,790 --> 00:19:55,536
+<i>Homing missiles
+locked on and tracking.</i>
+
+204
+00:19:55,661 --> 00:19:57,359
+Thanks a lot for the update!
+
+205
+00:20:18,782 --> 00:20:19,915
+Wanna play?
+
+206
+00:20:41,838 --> 00:20:44,588
+<i>Commander, he's gone!
+We've lost him!</i>
+
+207
+00:20:51,281 --> 00:20:52,315
+Natasha?
+
+208
+00:21:20,211 --> 00:21:21,810
+Sorry, Natasha.
+
+209
+00:21:36,294 --> 00:21:37,993
+Stark!
+
+210
+00:21:39,263 --> 00:21:41,942
+I need to teach that
+kid the greatness of technology.
+
+211
+00:21:42,067 --> 00:21:44,733
+I'm going to have to find
+out where its weaknesses are.
+
+212
+00:22:20,438 --> 00:22:22,705
+How's the art coming?
+
+213
+00:22:26,277 --> 00:22:27,977
+I'm still working on it.
+
+214
+00:22:29,113 --> 00:22:31,825
+I love art, but I don't
+intend to become an artist.
+
+215
+00:22:31,950 --> 00:22:34,361
+After all this time playing around,
+
+216
+00:22:34,486 --> 00:22:39,031
+I realize I don't have the
+talent for it like my uncle.
+
+217
+00:22:39,156 --> 00:22:42,459
+You shouldn't give up in
+frustration. Your body has the DNA for it.
+
+218
+00:22:46,463 --> 00:22:49,142
+There's something
+I've finally come to realize.
+
+219
+00:22:49,267 --> 00:22:53,702
+Even with talent, you need chaos
+to give birth to a dancing star.
+
+220
+00:22:54,471 --> 00:22:56,215
+I'm not sure I have it.
+
+221
+00:22:56,340 --> 00:22:59,576
+Someday, man will no
+longer give birth to any star.
+
+222
+00:23:02,078 --> 00:23:05,382
+By the way, I see they managed
+to launch the satellite after all.
+
+223
+00:23:06,150 --> 00:23:07,693
+The raiders couldn't control
+
+224
+00:23:07,818 --> 00:23:09,429
+the reinforced functions I gave them.
+
+225
+00:23:09,554 --> 00:23:12,566
+However, it's still early in the game.
+
+226
+00:23:12,691 --> 00:23:15,067
+I'll be preparing another offensive.
+
+227
+00:23:15,192 --> 00:23:16,859
+Tony Stark.
+
+228
+00:23:18,295 --> 00:23:19,863
+Tony Stark.
+
+229
+00:23:22,767 --> 00:23:26,869
+He seems to be in possession of
+a wide range of technological icons.
+
+230
+00:23:28,271 --> 00:23:31,351
+And one of the high-tech
+graven images these people
+
+231
+00:23:31,476 --> 00:23:33,476
+<i>place on an altar to worship,
+is his new satellite.</i>
+
+232
+00:23:34,845 --> 00:23:35,822
+<i>He's the high priest of technology.</i>
+
+233
+00:23:35,947 --> 00:23:36,980
+<i>Yes.</i>
+
+234
+00:23:38,481 --> 00:23:40,961
+<i>But it's a conceited and
+foolish misunderstanding.</i>
+
+235
+00:23:41,086 --> 00:23:42,561
+<i>Technology and the people who give birth</i>
+
+236
+00:23:42,686 --> 00:23:43,730
+<i>to it are nothing more than false idols,</i>
+
+237
+00:23:43,855 --> 00:23:46,455
+<i>leading society to disaster.</i>
+
+238
+00:23:57,934 --> 00:24:01,770
+It's a tiresome task. But these
+people must be taught the truth.
+
+239
+00:24:44,147 --> 00:24:45,013
+Huh?
+
+240
+00:24:58,695 --> 00:24:59,895
+I need your help!
+
+241
+00:25:01,464 --> 00:25:03,076
+Excuse me?
+
+242
+00:25:03,201 --> 00:25:06,151
+Check the black market
+for bio-related products.
+
+243
+00:25:09,205 --> 00:25:11,518
+You promised me
+a full week's vacation!
+
+244
+00:25:11,643 --> 00:25:13,053
+And anyway, aren't you
+supposed to be in Utah
+
+245
+00:25:13,178 --> 00:25:16,423
+for the launch of that new
+satellite you developed?
+
+246
+00:25:16,548 --> 00:25:18,959
+I'll make it up to you, Pepper.
+
+247
+00:25:19,084 --> 00:25:20,594
+I'll tell you what. This year, you can
+
+248
+00:25:20,719 --> 00:25:21,994
+have the villa and a
+whole support staff.
+
+249
+00:25:22,119 --> 00:25:24,564
+Thanks, but you already gave me that to
+
+250
+00:25:24,689 --> 00:25:26,633
+make up for losing last year's vacation.
+
+251
+00:25:26,758 --> 00:25:28,868
+I did? Okay, then how about I rent you
+
+252
+00:25:28,993 --> 00:25:32,194
+an entire village or something?
+Please, Pepper. It's urgent.
+
+253
+00:25:34,698 --> 00:25:36,076
+What's going on here?
+
+254
+00:25:36,201 --> 00:25:37,750
+I'll tell you inside.
+
+255
+00:25:40,837 --> 00:25:43,349
+How long is it before
+the Howard goes online?
+
+256
+00:25:43,474 --> 00:25:45,919
+Everything should be
+active within four hours.
+
+257
+00:25:46,044 --> 00:25:49,493
+We're going to use that
+satellite to find its maker.
+
+258
+00:25:51,248 --> 00:25:55,018
+As of now, priority one is
+capturing the fugitive Iron Man.
+
+259
+00:25:56,720 --> 00:25:59,220
+Poor Rhodey. I can't believe it.
+
+260
+00:26:00,590 --> 00:26:02,736
+I can't believe
+he was such an idiot for
+
+261
+00:26:02,861 --> 00:26:05,137
+Letting that kid get him.
+I could've taken care of myself.
+
+262
+00:26:05,262 --> 00:26:07,106
+He didn't need to come looking for me.
+
+263
+00:26:07,231 --> 00:26:10,042
+You're saying the killer was a child?
+
+264
+00:26:10,167 --> 00:26:12,412
+Yeah, some know-it-all kid!
+
+265
+00:26:12,537 --> 00:26:15,346
+There was something about him,
+though, that was very intriguing.
+
+266
+00:26:15,471 --> 00:26:17,917
+The bottom line is, if he was
+able to create a technology
+
+267
+00:26:18,042 --> 00:26:21,778
+that I've never seen or heard of
+before, he deserves a little respect.
+
+268
+00:26:23,079 --> 00:26:25,080
+His sense of design isn't
+really my cup of tea.
+
+269
+00:26:25,682 --> 00:26:27,683
+But his results are.
+
+270
+00:26:30,721 --> 00:26:33,732
+As you know, I've dealt with
+some shady vendors in the past.
+
+271
+00:26:33,857 --> 00:26:36,903
+But Rhodey was the exact opposite.
+
+272
+00:26:37,028 --> 00:26:41,280
+He was a straight arrow. All
+the time I knew him, he never
+
+273
+00:26:41,281 --> 00:26:45,412
+broke the rules or left the
+straight and narrow. I admired him.
+
+274
+00:26:45,537 --> 00:26:47,814
+He really believed in the dream.
+
+275
+00:26:47,939 --> 00:26:49,382
+Rhodey was a government
+worker and a normal person.
+
+276
+00:26:49,507 --> 00:26:51,218
+I'm nothing but a rich genius.
+
+277
+00:26:51,343 --> 00:26:53,720
+The worlds we lived
+in were so different,
+
+278
+00:26:53,845 --> 00:26:55,822
+it's amazing we got along at all.
+
+279
+00:26:55,947 --> 00:26:58,080
+He was a good friend,
+
+280
+00:26:59,616 --> 00:27:03,797
+but I'm not sad about it.
+I'm fine, really.
+
+281
+00:27:03,922 --> 00:27:07,467
+It's a shame, though, that I
+lost someone to race against.
+
+282
+00:27:07,592 --> 00:27:11,627
+I guess I should have let
+him win some of the times.
+
+283
+00:27:12,462 --> 00:27:13,613
+Tony.
+
+284
+00:27:16,599 --> 00:27:19,035
+That suit was made of
+technology I've never seen before.
+
+285
+00:27:21,005 --> 00:27:25,451
+Nanotechnology?
+Biotechnology? No.
+
+286
+00:27:25,576 --> 00:27:27,844
+It was nowhere near as simple as that.
+
+287
+00:27:29,445 --> 00:27:32,125
+He had inserted the integral
+DNA of living organisms
+
+288
+00:27:32,250 --> 00:27:35,961
+into a material based on the
+functions of a human body.
+
+289
+00:27:36,086 --> 00:27:39,031
+It couldn't be done in a
+normal research facility.
+
+290
+00:27:39,156 --> 00:27:42,102
+Could he somehow be
+using mutated cells? No!
+
+291
+00:27:42,227 --> 00:27:45,438
+He's synthesizing them
+in a molecule assembler!
+
+292
+00:27:45,563 --> 00:27:48,008
+If not, it wouldn't be stable.
+
+293
+00:27:48,133 --> 00:27:50,809
+Tony. I need you to authorize access.
+
+294
+00:27:50,934 --> 00:27:53,134
+Stark, vocal authorization.
+
+295
+00:27:54,837 --> 00:27:59,152
+Nanomachines, nanotechnology. Here's
+something on human-mech hybrids.
+
+296
+00:27:59,277 --> 00:28:02,288
+There's research being
+done all over the world,
+
+297
+00:28:02,413 --> 00:28:06,259
+but no one has announced
+a practical application.
+
+298
+00:28:06,384 --> 00:28:08,193
+I haven't heard of
+any successes, either.
+
+299
+00:28:08,318 --> 00:28:10,163
+But I have to believe my own eyes.
+
+300
+00:28:10,288 --> 00:28:12,097
+What I saw was a definite breakthrough.
+
+301
+00:28:12,222 --> 00:28:16,036
+It merged biotechnology
+and mechatronics.
+
+302
+00:28:16,161 --> 00:28:19,705
+Customized artificial neurons
+were working in conjunction
+
+303
+00:28:19,830 --> 00:28:23,375
+with the human nervous system.
+He was controlling them perfectly.
+
+304
+00:28:23,500 --> 00:28:27,279
+A. I.M! It's a company
+called Advanced Idea Mechanics
+
+305
+00:28:27,404 --> 00:28:30,215
+And they're the largest
+supplier in the black market.
+
+306
+00:28:30,340 --> 00:28:32,719
+They've been researching
+biotechnological hybrid armors
+
+307
+00:28:32,844 --> 00:28:35,454
+for a long time, in secret.
+
+308
+00:28:35,579 --> 00:28:39,792
+In recent years, they've continuously
+invested vast amounts of capital.
+
+309
+00:28:39,917 --> 00:28:42,729
+Does your data indicate where
+their research facility is located?
+
+310
+00:28:42,854 --> 00:28:44,453
+Let me see.
+
+311
+00:28:46,056 --> 00:28:48,191
+Karachi, Pakistan!
+There's a secret lab there!
+
+312
+00:28:49,492 --> 00:28:53,205
+The facility is being fronted
+as a warehouse for medical supplies.
+
+313
+00:28:53,330 --> 00:28:55,307
+But actually, they're involved with
+
+314
+00:28:55,432 --> 00:28:58,944
+chemical warfare research and
+the sales of illegal weapons.
+
+315
+00:28:59,069 --> 00:29:01,837
+I've downloaded map coordinates
+in case you plan to pay them a visit.
+
+316
+00:29:07,778 --> 00:29:10,656
+Thanks, Pepper. You can
+return to your vacation now.
+
+317
+00:29:10,781 --> 00:29:12,525
+Are you going
+to be okay on your own?
+
+318
+00:29:12,650 --> 00:29:16,762
+A kid misbehaved. An
+adult needs to discipline him.
+
+319
+00:29:16,887 --> 00:29:21,190
+You're a kid yourself, Tony,
+an obstinate, stubborn kid.
+
+320
+00:29:23,359 --> 00:29:25,461
+Are you going to scold me, Pepper?
+
+321
+00:29:29,232 --> 00:29:31,166
+Why do you keep putting
+me in that position?
+
+322
+00:29:32,802 --> 00:29:36,103
+I don't want to be the only
+adult in this relationship.
+
+323
+00:29:36,906 --> 00:29:40,041
+It's intriguing, though. I find
+I'm drawn to more mature women.
+
+324
+00:29:41,278 --> 00:29:42,845
+Especially when they're beautiful.
+
+325
+00:29:47,917 --> 00:29:49,018
+Darn it.
+
+326
+00:29:51,622 --> 00:29:52,922
+Tony.
+
+327
+00:29:55,992 --> 00:29:59,471
+Iron Man is not responding.
+All signals are being blocked.
+
+328
+00:29:59,596 --> 00:30:02,474
+Damn it! Teams blue and
+gold, cover all escape routes!
+
+329
+00:30:02,599 --> 00:30:06,001
+Team red, move in on my
+command. Capture and contain!
+
+330
+00:30:08,271 --> 00:30:09,615
+It's S.H.I.E.L.D.
+What did you do this time?
+
+331
+00:30:09,740 --> 00:30:11,941
+Something awful, I imagine.
+
+332
+00:30:19,982 --> 00:30:22,018
+I suppose it's
+too late to apologize.
+
+333
+00:30:47,778 --> 00:30:50,278
+<i>Confirming as
+our target, Mr. Tony Stark.</i>
+
+334
+00:30:51,080 --> 00:30:53,159
+<i>Checking profile.</i>
+
+335
+00:30:53,284 --> 00:30:57,384
+<i>Target identified.</i>
+
+336
+00:30:59,656 --> 00:31:03,192
+<i>Mr. Stark, please throw away your
+weapons and surrender immediately.</i>
+
+337
+00:31:03,926 --> 00:31:07,227
+<i>Please comply.</i>
+
+338
+00:31:08,900 --> 00:31:12,377
+<i>Please comply. You can leave
+your belongings with us.</i>
+
+339
+00:31:12,502 --> 00:31:15,181
+<i>Please comply.</i>
+
+340
+00:31:15,306 --> 00:31:17,349
+<i>You can leave your belongings with us.</i>
+
+341
+00:31:17,474 --> 00:31:19,519
+<i>You can leave your belongings with us.</i>
+
+342
+00:31:19,644 --> 00:31:21,611
+<i>You can leave your belongings with us.</i>
+
+343
+00:31:22,479 --> 00:31:23,929
+Sorry, Nick.
+
+344
+00:31:26,250 --> 00:31:29,895
+I don't have time to waste right now.
+
+345
+00:31:30,020 --> 00:31:31,921
+I'll pay for the damages. I have to go.
+
+346
+00:31:32,588 --> 00:31:33,623
+Fire.
+
+347
+00:32:09,859 --> 00:32:12,662
+There goes my
+vacation. Predictable.
+
+348
+00:33:00,876 --> 00:33:05,381
+Don't you ever knock
+before you enter a room?
+
+349
+00:33:29,806 --> 00:33:32,905
+<i>All Mandroids have
+lost position of Iron Man.</i>
+
+350
+00:33:33,109 --> 00:33:36,211
+Visual monitors are disabled.
+Switching to motion sensors.
+
+351
+00:34:37,474 --> 00:34:39,284
+Hey, boys, I'd love to keep playing.
+
+352
+00:34:39,409 --> 00:34:41,860
+But I think it's time to excuse myself.
+
+353
+00:34:54,557 --> 00:34:57,836
+Sorry, nick, but I had to do
+what I thought was necessary.
+
+354
+00:34:57,961 --> 00:35:01,173
+I think you need to improve
+the a-one on the Mandroids.
+
+355
+00:35:01,298 --> 00:35:02,708
+After facing off with
+them, I have to say,
+
+356
+00:35:02,833 --> 00:35:05,134
+they seem a little vulnerable to me!
+
+357
+00:35:17,414 --> 00:35:20,065
+All Mandroids
+have been annihilated.
+
+358
+00:35:21,617 --> 00:35:23,751
+Get me special Agents
+Barton and Romanova.
+
+359
+00:35:24,420 --> 00:35:25,588
+Right away, sir.
+
+360
+00:35:28,592 --> 00:35:32,771
+So, miss Potts. Is your boss
+free any time in the near future?
+
+361
+00:35:32,896 --> 00:35:36,342
+I'm afraid he's fully booked
+for the next three years or so.
+
+362
+00:35:36,467 --> 00:35:40,413
+Of course. Being Tony Stark,
+he never follows his schedule.
+
+363
+00:35:40,538 --> 00:35:43,349
+Then he blames me when he
+misses his appointments.
+
+364
+00:35:43,474 --> 00:35:45,485
+There's something
+I want to show you.
+
+365
+00:35:45,610 --> 00:35:47,652
+I was trying to tell your
+crazy boss about this,
+
+366
+00:35:47,777 --> 00:35:50,445
+but he appears to be
+blocking all communications.
+
+367
+00:35:54,583 --> 00:35:56,661
+One day he's going
+to go off half-cocked,
+
+368
+00:35:56,786 --> 00:35:59,836
+and run into something
+unexpected he can't handle.
+
+369
+00:36:40,563 --> 00:36:45,900
+They herald the coming of
+the lightning, and perish as heralds.
+
+370
+00:36:49,905 --> 00:36:51,150
+Lo. Lo.
+
+371
+00:36:51,275 --> 00:36:52,385
+I am a herald of the lightning.
+
+372
+00:36:52,510 --> 00:36:54,909
+I am a herald of the lightning.
+
+373
+00:36:58,181 --> 00:36:59,514
+I feel good today.
+
+374
+00:37:11,795 --> 00:37:14,574
+It's so beautiful.
+
+375
+00:37:14,699 --> 00:37:17,443
+With the Technovores,
+I will have great power.
+
+376
+00:37:17,568 --> 00:37:20,480
+I will be able to control any machine,
+
+377
+00:37:20,605 --> 00:37:23,405
+using the interface
+built into this armor.
+
+378
+00:37:30,746 --> 00:37:32,581
+So. Are you ready to go?
+
+379
+00:37:35,985 --> 00:37:39,699
+Yes. I will now be able to infect
+the satellite and bring it down.
+
+380
+00:37:39,824 --> 00:37:42,291
+We will grind these oppressors
+and their techno gods to dust.
+
+381
+00:38:23,800 --> 00:38:29,371
+It's up to you, however,
+as to where you want to use it.
+
+382
+00:38:29,739 --> 00:38:31,572
+Obviously.
+
+383
+00:38:36,545 --> 00:38:38,958
+Excellent. We have a deal, my friend.
+
+384
+00:38:39,083 --> 00:38:41,516
+Tell your associates A.I.M. says hello.
+
+385
+00:38:43,887 --> 00:38:44,853
+What's wrong?
+
+386
+00:38:56,632 --> 00:38:58,833
+shooot! It's the Punisher!
+How did he track me?
+
+387
+00:39:07,744 --> 00:39:08,920
+We're being blown to bits over here!
+
+388
+00:39:09,045 --> 00:39:10,690
+You need to send
+reinforcements right away!
+
+389
+00:39:10,815 --> 00:39:13,559
+What do you mean, 10 minutes? Nobody's
+gonna be alive here in 10 minutes!
+
+390
+00:39:13,684 --> 00:39:15,851
+We need them in 10 seconds!
+
+391
+00:39:31,400 --> 00:39:33,451
+What do you think you're doing?
+
+392
+00:39:34,804 --> 00:39:36,916
+Let me handle this, Castle.
+
+393
+00:39:37,041 --> 00:39:38,384
+I don't need help from
+a company president
+
+394
+00:39:38,509 --> 00:39:39,619
+who can't stay out of the limelight.
+
+395
+00:39:39,744 --> 00:39:45,646
+These guys are scum.
+They don't deserve to live.
+
+396
+00:39:47,483 --> 00:39:50,695
+Frank, listen,
+I don't disagree with your feelings.
+
+397
+00:39:50,820 --> 00:39:52,965
+But I need some answers
+before you wipe 'em out.
+
+398
+00:39:53,090 --> 00:39:55,835
+I have all the answers I
+need. Get out of the way.
+
+399
+00:39:55,960 --> 00:39:58,994
+If you shoot, I'll blast
+you from here to Tokyo!
+
+400
+00:40:07,469 --> 00:40:09,614
+Fine, go ahead.
+
+401
+00:40:09,739 --> 00:40:11,751
+I appreciate it. All right. Let's get
+
+402
+00:40:11,876 --> 00:40:14,786
+this over with while
+Punisher's still in a good mood.
+
+403
+00:40:14,911 --> 00:40:17,422
+I need to know about
+the men who hired you.
+
+404
+00:40:17,547 --> 00:40:20,960
+Do you think an A.I.M. man would
+give up the identity of his clients?
+
+405
+00:40:21,085 --> 00:40:23,628
+Come on, Stark! You of all people
+
+406
+00:40:23,753 --> 00:40:25,463
+should know what would
+happen if I were to do that!
+
+407
+00:40:25,588 --> 00:40:28,400
+Let me guess. You'd never
+be able to do business again.
+
+408
+00:40:28,525 --> 00:40:31,137
+Permanently!
+
+409
+00:40:31,262 --> 00:40:34,096
+I figured. But thanks
+for the directory anyway.
+
+410
+00:40:37,166 --> 00:40:38,166
+Nice work.
+
+411
+00:40:41,804 --> 00:40:46,751
+So, neo-terrorists. Techno-organisms,
+buyers of body armor.
+
+412
+00:40:46,876 --> 00:40:49,327
+Let's see who you've been dealing with.
+
+413
+00:40:54,016 --> 00:40:59,632
+Ezekiel. Wait a minute!
+I know that name!
+
+414
+00:40:59,757 --> 00:41:02,132
+But I've got a dossier on
+him, if it's any use to you.
+
+415
+00:41:02,257 --> 00:41:03,202
+You're sure about that?
+
+416
+00:41:03,327 --> 00:41:04,737
+I remember that name, too.
+
+417
+00:41:04,862 --> 00:41:06,639
+As a friend, you'd let
+me read that dossier?
+
+418
+00:41:06,764 --> 00:41:09,041
+Huh! Now you're a friend?
+
+419
+00:41:09,166 --> 00:41:12,177
+The same friend who threatened
+to blast me from here to Tokyo?
+
+420
+00:41:12,302 --> 00:41:14,679
+I guess our job is done.
+Let's get out of here.
+
+421
+00:41:30,286 --> 00:41:32,797
+How can you drink this
+coffee? It's like sludge.
+
+422
+00:41:32,922 --> 00:41:34,567
+It's military issue.
+
+423
+00:41:34,692 --> 00:41:37,402
+Drinking it at night in the
+jungle used to calm me down.
+
+424
+00:41:37,527 --> 00:41:40,639
+Actually this place kind
+of reminds me of a jungle.
+
+425
+00:41:40,764 --> 00:41:42,664
+Here's the file. I found it.
+
+426
+00:41:47,936 --> 00:41:51,106
+Ezekiel Stane... Stane! Wait!
+
+427
+00:41:51,608 --> 00:41:53,641
+Obadiah Stane's son?
+
+428
+00:41:54,710 --> 00:41:57,123
+That would be pretty disgusting.
+
+429
+00:41:57,248 --> 00:42:00,648
+This nutcase turns out to be
+the son of your old partner?
+
+430
+00:42:01,217 --> 00:42:03,619
+Obadiah went crazy.
+I had no choice at the time.
+
+431
+00:42:04,286 --> 00:42:05,753
+<i>I had to kill him.</i>
+
+432
+00:42:09,025 --> 00:42:12,170
+Are you telling me
+he's that Ezekiel Stane?
+
+433
+00:42:12,295 --> 00:42:14,806
+But he's supposed to have
+died in an aircraft accident!
+
+434
+00:42:14,931 --> 00:42:16,197
+At the age of 16!
+
+435
+00:42:18,268 --> 00:42:21,679
+His father had a lot
+of assets hidden around the world.
+
+436
+00:42:21,804 --> 00:42:25,083
+Having inherited all that,
+I'm sure a clever kid like him
+
+437
+00:42:25,208 --> 00:42:27,652
+Would know how to put
+it to very good use.
+
+438
+00:42:27,777 --> 00:42:29,688
+Nowadays, a little cash can
+make the impossible possible.
+
+439
+00:42:29,813 --> 00:42:31,646
+You're right.
+There's no denying that.
+
+440
+00:42:32,916 --> 00:42:34,760
+Looks to me like this kid has been
+
+441
+00:42:34,885 --> 00:42:37,530
+burying his trail for a lot of years.
+
+442
+00:42:37,655 --> 00:42:41,467
+<i>And now he shows up in the form
+of a sociopathic super-genie.</i>
+
+443
+00:42:41,592 --> 00:42:43,568
+<i>There are rumors he injected his brain</i>
+
+444
+00:42:43,693 --> 00:42:45,503
+<i>with nanobots to make himself
+smarter than he already was.</i>
+
+445
+00:42:45,628 --> 00:42:50,608
+According to this, he's involved in
+a wide range of shady research.
+
+446
+00:42:50,733 --> 00:42:52,811
+From synthetic drugs to nanotechnology.
+
+447
+00:42:52,936 --> 00:42:54,869
+One of his interests
+is techno-organic armor.
+
+448
+00:42:55,471 --> 00:42:57,750
+What a surprise.
+
+449
+00:42:57,875 --> 00:42:59,740
+He won't be an easy opponent to handle.
+
+450
+00:43:00,677 --> 00:43:03,655
+I've been after him for six months
+and I haven't been able to pin him down.
+
+451
+00:43:03,780 --> 00:43:05,490
+Let me try something.
+
+452
+00:43:05,615 --> 00:43:07,226
+What are you looking for?
+
+453
+00:43:07,351 --> 00:43:10,896
+I'm hacking directly into the
+S.H.I.E.L.D. network. I figure if
+
+454
+00:43:11,021 --> 00:43:13,364
+I cross-reference your dossier
+with the data in the network
+
+455
+00:43:13,489 --> 00:43:15,534
+I might be able to find out where he is.
+
+456
+00:43:15,659 --> 00:43:17,759
+Computer geeks are something else.
+
+457
+00:43:21,364 --> 00:43:22,797
+Thirty miles to Karachi.
+
+458
+00:43:24,333 --> 00:43:26,144
+<i>Log note, I'm
+briefing Agent Natasha</i>
+
+459
+00:43:26,269 --> 00:43:28,146
+<i>Romanova, and Agent Clint Barton.</i>
+
+460
+00:43:28,271 --> 00:43:30,623
+<i>Here's the update, it's
+been confirmed that Stark has</i>
+
+461
+00:43:30,623 --> 00:43:32,851
+<i>joined forces with Frank
+Castle, known as "the Punisher."</i>
+
+462
+00:43:32,976 --> 00:43:36,188
+That weapon-crazy lunatic?
+
+463
+00:43:36,313 --> 00:43:38,590
+Although I hear he's not very
+good with a bow and arrow.
+
+464
+00:43:38,715 --> 00:43:41,360
+I want to get out of this country as
+quickly as possible. If it's discovered
+
+465
+00:43:41,485 --> 00:43:43,829
+that we're violating the
+airspace of a sovereign nation,
+
+466
+00:43:43,954 --> 00:43:46,353
+it'll cause an international incident.
+
+467
+00:43:46,521 --> 00:43:47,932
+You have 40 minutes to complete
+
+468
+00:43:48,057 --> 00:43:50,407
+the mission and get back to the ship.
+
+469
+00:43:53,963 --> 00:43:56,407
+Shanghai?
+
+470
+00:43:56,532 --> 00:43:59,911
+I don't get it. What would he
+know about a place like that?
+
+471
+00:44:00,036 --> 00:44:03,181
+We had a weapons research center there,
+
+472
+00:44:03,306 --> 00:44:04,750
+until I decided to close
+it down a few years ago.
+
+473
+00:44:04,875 --> 00:44:07,853
+Then someone bought the property
+and built a luxury hotel there
+
+474
+00:44:07,978 --> 00:44:09,811
+with a penthouse suite for wealthy VIPs.
+
+475
+00:44:11,047 --> 00:44:13,458
+The hotel's privacy is
+as tight as a Swiss bank.
+
+476
+00:44:13,583 --> 00:44:17,228
+The land itself was apparently
+purchased by Obadiah Stane.
+
+477
+00:44:17,353 --> 00:44:20,733
+You see how effective a
+little bit of cash can be?
+
+478
+00:44:20,858 --> 00:44:23,268
+Thanks for everything,
+Frank. The next time I come,
+
+479
+00:44:23,393 --> 00:44:25,726
+I'm gonna bring you a bag of
+the best coffee in the world.
+
+480
+00:44:26,461 --> 00:44:28,440
+Hello, we've got company!
+
+481
+00:44:28,565 --> 00:44:31,911
+Oh, boy! I knew
+they'd come, sooner or later.
+
+482
+00:44:32,036 --> 00:44:34,313
+They sure seem to have a
+lot of time on their hands.
+
+483
+00:44:34,438 --> 00:44:36,070
+See you.
+
+484
+00:44:38,675 --> 00:44:40,175
+Wait!
+
+485
+00:44:44,280 --> 00:44:45,557
+<i>There is an object
+approaching from behind.</i>
+
+486
+00:44:45,682 --> 00:44:46,947
+Is it a missile?
+
+487
+00:44:47,583 --> 00:44:48,416
+Negative.
+
+488
+00:44:55,891 --> 00:44:57,759
+Bulls-eye!
+
+489
+00:44:59,896 --> 00:45:01,673
+Some freakin' arrows
+caused this much damage?
+
+490
+00:45:01,798 --> 00:45:03,275
+<i>Conducting system check.</i>
+
+491
+00:45:03,400 --> 00:45:07,146
+So glad I installed a
+protective force field.
+
+492
+00:45:07,271 --> 00:45:09,481
+Give up, Stark, and come
+with us to see the director.
+
+493
+00:45:09,606 --> 00:45:11,940
+You really think he's going
+to come along willingly?
+
+494
+00:45:15,344 --> 00:45:17,521
+<i>System interrupt.
+Initiating forced shutdown.</i>
+
+495
+00:45:17,646 --> 00:45:19,525
+Hold on, wait a minute!
+
+496
+00:45:19,650 --> 00:45:23,695
+Stop fighting. There's
+no way you can get loose.
+
+497
+00:45:23,820 --> 00:45:26,498
+You might as well accept it. The
+game's over, buddy. We're taking you in.
+
+498
+00:45:26,623 --> 00:45:29,224
+Listen, Stark! In the
+helicarrier's medical bay is...
+
+499
+00:45:34,797 --> 00:45:37,476
+Watch out! You're not
+too good at this, Stark!
+
+500
+00:45:37,601 --> 00:45:38,867
+Crap, he's getting away!
+
+501
+00:45:46,275 --> 00:45:49,989
+Tell me something. Are you trying
+to be as obvious as you can?
+
+502
+00:45:50,114 --> 00:45:52,190
+What do you mean, Stark? I
+thought you liked the attention.
+
+503
+00:45:52,315 --> 00:45:54,882
+Not when I look
+like five miles of bad road!
+
+504
+00:45:56,119 --> 00:45:58,262
+Well then, hang on, buddy!
+
+505
+00:45:59,989 --> 00:46:01,822
+What's your problem, mister?
+
+506
+00:46:23,411 --> 00:46:25,556
+It's over, Stark!
+
+507
+00:46:25,681 --> 00:46:28,226
+If you join forces with
+a crazed vigilante killer,
+
+508
+00:46:28,351 --> 00:46:31,228
+no-one's gonna take you
+seriously as a hero, buddy!
+
+509
+00:46:31,353 --> 00:46:33,253
+That son of a gun!
+
+510
+00:46:41,364 --> 00:46:43,775
+Don't do it, Frank! They're
+just following orders!
+
+511
+00:46:43,900 --> 00:46:45,277
+I'm not trying to kill them!
+
+512
+00:46:45,402 --> 00:46:48,652
+I just want them to know
+we're not about to surrender!
+
+513
+00:46:51,474 --> 00:46:52,717
+shooot!
+
+514
+00:46:52,842 --> 00:46:54,376
+- You ready?
+- Leave it to me!
+
+515
+00:47:03,052 --> 00:47:04,351
+Bingo!
+
+516
+00:47:19,869 --> 00:47:21,079
+All right, guys!
+
+517
+00:47:21,204 --> 00:47:25,005
+If you don't want to get hurt any
+further, you'd better come out!
+
+518
+00:47:27,677 --> 00:47:30,177
+We hear you. But before we do,
+
+519
+00:47:31,414 --> 00:47:32,581
+here's a little gift!
+
+520
+00:47:44,427 --> 00:47:45,471
+You bastard!
+
+521
+00:47:45,596 --> 00:47:47,739
+Thanks for the compliment.
+
+522
+00:47:47,864 --> 00:47:49,940
+Now throw down your weapons
+and raise your hands!
+
+523
+00:47:50,065 --> 00:47:51,199
+Did you hear me?
+
+524
+00:47:56,672 --> 00:47:57,815
+Good girl.
+
+525
+00:47:57,940 --> 00:48:00,240
+You, too!
+
+526
+00:48:00,244 --> 00:48:04,456
+Fine. You jerk. Don't think
+you're gonna get away with this.
+
+527
+00:48:04,581 --> 00:48:07,059
+Bunch of bleeding-heart
+S.H.I.E.L.D. weaklings!
+
+528
+00:48:07,184 --> 00:48:09,217
+If you disrespect me again, I'll...
+
+529
+00:48:15,023 --> 00:48:16,534
+If you don't want a
+tunnel bored in your head,
+
+530
+00:48:16,659 --> 00:48:17,958
+throw your guns away!
+
+531
+00:48:21,563 --> 00:48:23,364
+Whatever. I don't need them now, anyway.
+
+532
+00:48:26,534 --> 00:48:29,070
+I guess I was able to buy enough time.
+
+533
+00:48:35,478 --> 00:48:38,289
+<i>Power reserves
+now recovered to 40%.</i>
+
+534
+00:48:38,414 --> 00:48:40,958
+Good, now go ahead and re-route
+force field reserves to thrusters.
+
+535
+00:48:41,083 --> 00:48:42,226
+<i>Affirmative.</i>
+
+536
+00:48:42,351 --> 00:48:43,601
+Come back here!
+
+537
+00:48:49,592 --> 00:48:52,427
+It's no use. Your
+arrows won't reach him.
+
+538
+00:48:53,628 --> 00:48:54,978
+Darn it!
+
+539
+00:49:01,503 --> 00:49:04,949
+<i>Power reserves fully
+recovered. All systems are now optimal.</i>
+
+540
+00:49:05,074 --> 00:49:06,875
+I've wasted too much time.
+
+541
+00:49:11,614 --> 00:49:14,092
+I can already hear the
+boss dismissing us, sarcastically.
+
+542
+00:49:14,217 --> 00:49:17,284
+Yeah. It makes me want
+to bore a hole into my own head.
+
+543
+00:49:24,726 --> 00:49:26,626
+You owe me, Stark.
+
+544
+00:49:27,262 --> 00:49:29,297
+Payback won't be cheap.
+
+545
+00:50:01,030 --> 00:50:04,498
+I hear a soft breeze.
+
+546
+00:50:06,302 --> 00:50:09,570
+And that wind gathers another soft wind.
+
+547
+00:50:11,474 --> 00:50:14,873
+I can sense our destiny. We
+come together with that wind.
+
+548
+00:50:15,311 --> 00:50:17,144
+Listen carefully, Sasha.
+
+549
+00:50:18,414 --> 00:50:20,347
+Can you hear it, as well?
+
+550
+00:50:28,724 --> 00:50:31,302
+Jarvis, have you got anything?
+
+551
+00:50:31,427 --> 00:50:33,237
+<i>Readings are
+unclear. There's interference.</i>
+
+552
+00:50:33,362 --> 00:50:35,641
+<i>Wait, there is a slight reaction.</i>
+
+553
+00:50:35,766 --> 00:50:37,675
+<i>It could well be a living organism.</i>
+
+554
+00:50:37,800 --> 00:50:39,951
+That doesn't help me much.
+
+555
+00:50:47,242 --> 00:50:51,478
+Hey, boy! I came to see you. Why
+don't you turn the lights on for me?
+
+556
+00:50:52,648 --> 00:50:55,159
+When I was young, I
+played hide and seek.
+
+557
+00:50:55,284 --> 00:50:57,829
+I hid in the dark garage
+for so long, I fell asleep.
+
+558
+00:50:57,954 --> 00:51:00,097
+After a while, my mom, Maria, came
+
+559
+00:51:00,222 --> 00:51:02,601
+to look for me. She was worried sick.
+
+560
+00:51:02,726 --> 00:51:04,402
+Did your parents do the same for you?
+
+561
+00:51:04,527 --> 00:51:06,371
+I've never
+played hide and seek.
+
+562
+00:51:06,496 --> 00:51:08,273
+<i>Five meters
+behind you, the air shift.</i>
+
+563
+00:51:08,398 --> 00:51:10,898
+<i>And the room temperature changed slight.</i>
+
+564
+00:51:12,434 --> 00:51:16,148
+Where did you come
+from? Did you use magic?
+
+565
+00:51:16,273 --> 00:51:18,951
+My mom was very upset by
+my behavior. I worried her
+
+566
+00:51:19,076 --> 00:51:21,286
+with my appearances and disappearances.
+
+567
+00:51:21,411 --> 00:51:23,422
+If you keep this up, your
+mom will get upset, too.
+
+568
+00:51:23,547 --> 00:51:26,824
+Or your dad, if he's still around.
+
+569
+00:51:26,949 --> 00:51:32,630
+I don't hide from anyone. You're
+simply not looking in the right place.
+
+570
+00:51:32,755 --> 00:51:34,032
+Really? This is starting to feel
+
+571
+00:51:34,157 --> 00:51:36,556
+more and more like a kid's game to me.
+
+572
+00:51:38,994 --> 00:51:43,474
+I told you before, I've
+never played hide and seek.
+
+573
+00:51:43,599 --> 00:51:46,701
+And my dad that you speak of,
+I suspect you know who he is.
+
+574
+00:51:51,706 --> 00:51:53,273
+You might as well say his name.
+
+575
+00:51:55,577 --> 00:51:56,755
+Obadiah!
+
+576
+00:51:56,880 --> 00:51:57,846
+That is correct.
+
+577
+00:51:59,481 --> 00:52:02,231
+<i>He can summon up a
+hologram, just like that!</i>
+
+578
+00:52:03,751 --> 00:52:08,467
+- You want revenge?
+- Revenge? Why would I want that?
+
+579
+00:52:08,592 --> 00:52:11,969
+Because I killed
+him. You knew that.
+
+580
+00:52:12,094 --> 00:52:15,762
+Wait, that's right. You were
+involved, weren't you? I remember now.
+
+581
+00:52:17,065 --> 00:52:18,199
+You'd forgotten that?
+
+582
+00:52:20,235 --> 00:52:23,338
+It wasn't as important an event
+in my life as you might imagine.
+
+583
+00:52:24,239 --> 00:52:27,452
+We weren't actually that close.
+
+584
+00:52:27,577 --> 00:52:29,927
+Then why are you targeting me?
+
+585
+00:52:32,681 --> 00:52:35,327
+- Don't be so conceited.
+- What?
+
+586
+00:52:35,452 --> 00:52:37,528
+I wasn't
+targeting you specifically.
+
+587
+00:52:37,653 --> 00:52:40,032
+It's just that you
+were standing in my way.
+
+588
+00:52:40,157 --> 00:52:42,489
+I don't understand. What are you saying?
+
+589
+00:52:44,460 --> 00:52:47,873
+<i>But he killed Rhodey.</i>
+
+590
+00:52:47,998 --> 00:52:51,009
+Even if it was just a prank,
+some things cannot be forgiven!
+
+591
+00:52:58,873 --> 00:53:01,686
+<i>Rapid power decrease.
+System error detected.</i>
+
+592
+00:53:01,811 --> 00:53:03,722
+What's going on?
+
+593
+00:53:03,847 --> 00:53:06,157
+<i>Synthetic alloys and unknown biological
+entities have invaded the system.</i>
+
+594
+00:53:06,282 --> 00:53:08,226
+Technovores.
+
+595
+00:53:08,351 --> 00:53:09,661
+<i>Power source and all
+sensors have been compromised.</i>
+
+596
+00:53:09,786 --> 00:53:11,235
+Technovores?
+
+597
+00:53:12,086 --> 00:53:15,389
+This armor is pretty well made.
+
+598
+00:53:16,425 --> 00:53:17,802
+Who do you think made it?
+
+599
+00:53:17,927 --> 00:53:20,628
+I'm impressed. For someone
+like you, it's good.
+
+600
+00:53:22,130 --> 00:53:24,675
+I realize you can't move.
+
+601
+00:53:24,800 --> 00:53:26,811
+But believe me, Sasha
+will still be impressed.
+
+602
+00:53:26,936 --> 00:53:28,086
+Sasha?
+
+603
+00:53:32,708 --> 00:53:34,909
+This must be your pride
+and joy. The arc reactor.
+
+604
+00:53:43,719 --> 00:53:46,097
+Don't you have anything to say?
+
+605
+00:53:46,222 --> 00:53:48,666
+Like how you think
+Tony Stark is a genius?
+
+606
+00:53:53,394 --> 00:53:56,842
+I must say, it's very well
+made. For you people, that is.
+
+607
+00:53:56,967 --> 00:53:59,344
+What does that mean "you people"?
+I'll have you know...
+
+608
+00:53:59,469 --> 00:54:01,679
+Adam and Eve ate the forbidden fruit,
+
+609
+00:54:01,804 --> 00:54:04,148
+and as a result, they were
+expelled from the garden of Eden.
+
+610
+00:54:04,273 --> 00:54:09,855
+And 160,000 years ago in Africa,
+mitochondrial Eve was born.
+
+611
+00:54:09,980 --> 00:54:13,023
+The ancestor of humankind.
+
+612
+00:54:13,148 --> 00:54:16,894
+Very impressive. Did you study
+the history of mankind in college?
+
+613
+00:54:17,019 --> 00:54:19,597
+Now there are over
+seven billion people on Earth.
+
+614
+00:54:19,722 --> 00:54:20,965
+What does that
+have to do with anything?
+
+615
+00:54:21,090 --> 00:54:23,601
+You asked what I
+meant when I said "you people."
+
+616
+00:54:23,726 --> 00:54:26,327
+That's what I was referring to.
+
+617
+00:54:28,264 --> 00:54:31,476
+You talk as though you're
+not a part of the human race.
+
+618
+00:54:31,601 --> 00:54:33,333
+That's exactly how I feel.
+
+619
+00:54:34,702 --> 00:54:36,815
+I think I'm different
+from the rest of you.
+
+620
+00:54:36,940 --> 00:54:38,849
+Then what are you?
+
+621
+00:54:38,974 --> 00:54:41,253
+It's somewhat hard to describe, really.
+
+622
+00:54:41,378 --> 00:54:46,780
+But if I were forced to explain it
+in words, I guess I would be a breeze.
+
+623
+00:54:48,550 --> 00:54:52,731
+A breeze? I'm a little
+confused, can you elaborate on that?
+
+624
+00:54:52,856 --> 00:54:54,699
+Sasha would also be a breeze.
+
+625
+00:54:54,824 --> 00:54:57,735
+Who is this "Sasha" you
+keep referring to? A girlfriend?
+
+626
+00:54:57,860 --> 00:54:59,971
+A gentle breeze
+that caresses your skin.
+
+627
+00:55:00,096 --> 00:55:01,996
+And ruffles up the grass and trees.
+
+628
+00:55:04,300 --> 00:55:06,110
+I see. I have no idea
+what you're talking about.
+
+629
+00:55:06,235 --> 00:55:07,545
+But I'm beginning to
+understand one thing.
+
+630
+00:55:07,670 --> 00:55:10,648
+Obadiah wasn't a very attentive father.
+
+631
+00:55:10,773 --> 00:55:14,052
+He let you get lost
+in a world of dreams.
+
+632
+00:55:14,177 --> 00:55:16,788
+You represent
+the dinosaurs of the past.
+
+633
+00:55:16,913 --> 00:55:18,646
+I, however, represent the future.
+
+634
+00:55:19,414 --> 00:55:20,981
+Dinosaurs of the past?
+
+635
+00:55:23,585 --> 00:55:25,085
+You should consider retirement.
+
+636
+00:55:27,588 --> 00:55:31,092
+That sounds pretty good to me.
+I could relax in a nice, quiet place.
+
+637
+00:55:32,393 --> 00:55:35,440
+In fact, I actually tried that once.
+
+638
+00:55:35,565 --> 00:55:38,009
+But my personal assistant
+just won't let me.
+
+639
+00:55:38,134 --> 00:55:40,445
+This time, I'm afraid
+I'll have to override her.
+
+640
+00:55:40,570 --> 00:55:45,382
+You'll retire for sure. You
+understand the situation, don't you?
+
+641
+00:55:45,507 --> 00:55:49,487
+New wind, new future.
+A brand new world is created
+
+642
+00:55:49,612 --> 00:55:52,056
+to go with the brand new future.
+
+643
+00:55:52,181 --> 00:55:55,360
+A completely new
+technology will be created.
+
+644
+00:55:55,485 --> 00:55:57,552
+The old will die out,
+and the new will be born.
+
+645
+00:56:01,824 --> 00:56:04,034
+That is the providence of nature.
+
+646
+00:56:04,159 --> 00:56:05,992
+A superior technology to that of man.
+
+647
+00:56:07,563 --> 00:56:11,543
+Howard will be the whistling arrow
+that announces the new reality.
+
+648
+00:56:11,668 --> 00:56:16,047
+You should be honored. The wind
+that follows is going to blow away
+
+649
+00:56:16,172 --> 00:56:18,315
+your most advanced technology.
+
+650
+00:56:18,440 --> 00:56:21,141
+Howard will be the
+shot that leads the way.
+
+651
+00:56:26,681 --> 00:56:31,096
+Hey. Obadiah was lucky he didn't
+hang around long enough to see this.
+
+652
+00:56:31,221 --> 00:56:35,266
+New technology, you say?
+Technovores, you called it?
+
+653
+00:56:35,391 --> 00:56:37,668
+Don't make me laugh.
+
+654
+00:56:37,793 --> 00:56:40,871
+The birth of mankind.
+Refinement of steel.
+
+655
+00:56:40,996 --> 00:56:46,411
+Computers, biotechnology. The
+things you call old technology
+
+656
+00:56:46,536 --> 00:56:49,570
+Have all been linked and accumulated
+to create your "Technovore."
+
+657
+00:57:00,114 --> 00:57:02,583
+It's not new at all.
+
+658
+00:57:04,085 --> 00:57:07,554
+The truth is, it's only been born
+and exists because of the past.
+
+659
+00:57:11,726 --> 00:57:14,505
+You think you represent a
+brand new form of existence?
+
+660
+00:57:14,630 --> 00:57:18,842
+You're mistaken, kid. You're no
+more advanced than the rest of us.
+
+661
+00:57:18,967 --> 00:57:20,501
+You were born from human parents.
+
+662
+00:57:22,336 --> 00:57:24,081
+So?
+
+663
+00:57:24,206 --> 00:57:28,753
+You're just a petulant
+child throwing temper tantrums.
+
+664
+00:57:28,878 --> 00:57:30,755
+And just like a child,
+if you've been bad,
+
+665
+00:57:30,880 --> 00:57:32,590
+it's an adult's
+responsibility to correct you.
+
+666
+00:57:32,715 --> 00:57:35,527
+You would do that?
+
+667
+00:57:35,652 --> 00:57:38,085
+I don't think so. Be quiet for a second.
+
+668
+00:57:55,704 --> 00:57:58,083
+<i>Part of the
+system has been restored.</i>
+
+669
+00:57:58,208 --> 00:58:00,708
+Where? Search for the
+area that's functional!
+
+670
+00:58:02,710 --> 00:58:03,811
+The missile!
+
+671
+00:58:04,746 --> 00:58:06,496
+<i>Locked on target.</i>
+
+672
+00:58:11,152 --> 00:58:13,697
+Foolish man.
+
+673
+00:58:13,822 --> 00:58:16,735
+Do you know what will be
+written on the brass plate
+
+674
+00:58:16,860 --> 00:58:19,204
+that gets installed on
+your exhibit in the museum?
+
+675
+00:58:19,329 --> 00:58:22,963
+"Here lies a fragment of Iron Man."
+
+676
+00:58:29,637 --> 00:58:34,108
+But only if someone is able to identify
+those fragments after I blow you up.
+
+677
+00:58:37,278 --> 00:58:39,246
+You spoilt kid.
+
+678
+00:58:40,882 --> 00:58:42,893
+I don't want to put the curators of
+
+679
+00:58:43,018 --> 00:58:44,795
+the museum to that much trouble!
+
+680
+00:58:44,920 --> 00:58:49,134
+Perhaps if we had had more time,
+I could have taught you a few things.
+
+681
+00:58:49,259 --> 00:58:51,436
+Well, it's time for goodbye, Tony Stark.
+
+682
+00:58:51,561 --> 00:58:53,827
+There's still quite a bit of work to do.
+
+683
+00:59:06,507 --> 00:59:08,108
+What's wrong, boy?
+
+684
+00:59:13,114 --> 00:59:15,326
+<i>Invading
+Technovore now being removed.</i>
+
+685
+00:59:15,451 --> 00:59:18,028
+<i>Restarting system, restoring circuits.</i>
+
+686
+00:59:18,153 --> 00:59:22,400
+<i>Energy charge in three,
+two, one, complete.</i>
+
+687
+00:59:22,525 --> 00:59:25,436
+What's the matter, boy?
+You look like you're in trouble.
+
+688
+00:59:25,561 --> 00:59:28,094
+Do you need the hand of an adult?
+
+689
+00:59:30,599 --> 00:59:33,768
+I don't believe I do. The
+future is full of uncertain elements.
+
+690
+00:59:35,469 --> 00:59:38,483
+It's okay for a
+child to rely on adults.
+
+691
+00:59:38,608 --> 00:59:41,275
+Send energy to the reactor!
+Force field deployed!
+
+692
+00:59:56,724 --> 01:00:00,594
+Hey, where did you go, boy?
+Hide and seek time is over!
+
+693
+01:00:15,978 --> 01:00:19,657
+You went too quickly.
+
+694
+01:00:26,621 --> 01:00:28,621
+You can't break me...
+
+695
+01:00:31,159 --> 01:00:33,159
+and you're unable to change the future
+
+696
+01:00:34,362 --> 01:00:36,773
+because that timeline's already written.
+
+697
+01:00:42,471 --> 01:00:44,615
+It's a blessing your father's not
+here to witness this all play out.
+
+698
+01:00:44,740 --> 01:00:46,106
+That's enough, Stark!
+
+699
+01:00:47,876 --> 01:00:50,588
+It took long enough but we
+finally caught up with you!
+
+700
+01:00:50,713 --> 01:00:52,123
+You're coming in with
+us to see the director
+
+701
+01:00:52,248 --> 01:00:54,092
+or I'm gonna add an
+extra hole in your head!
+
+702
+01:00:54,217 --> 01:00:56,927
+All right, William Tell.
+You made your point.
+
+703
+01:00:57,052 --> 01:00:58,719
+I'll go, but only if she takes me in.
+
+704
+01:01:19,807 --> 01:01:22,619
+You only got 98 on your test?
+
+705
+01:01:22,744 --> 01:01:26,224
+Without a perfect score, you're
+the same as the other idiots!
+
+706
+01:01:26,349 --> 01:01:29,315
+Go to your room and reflect on
+your shortcomings until dinner.
+
+707
+01:01:30,952 --> 01:01:34,764
+I thought you were much better
+than this! You're a disappointment!
+
+708
+01:01:37,393 --> 01:01:41,172
+Did you listen to me? I told
+you never to touch my Monger!
+
+709
+01:01:41,297 --> 01:01:44,097
+You little fool! This Monger is
+worth 10 times as much as you!
+
+710
+01:02:02,184 --> 01:02:05,429
+My god! I can't
+believe what I'm seeing!
+
+711
+01:02:05,554 --> 01:02:07,998
+Rhodey survived that attack?
+Has he woken up at all?
+
+712
+01:02:08,123 --> 01:02:09,333
+He's being kept alive by
+the life-support system
+
+713
+01:02:09,458 --> 01:02:10,867
+but so far we haven't seen...
+
+714
+01:02:10,992 --> 01:02:13,704
+Hey, Rhodey! Rhodey, can you hear me?
+
+715
+01:02:13,829 --> 01:02:16,239
+If you don't wake up
+you're gonna die a loser!
+
+716
+01:02:16,364 --> 01:02:18,842
+You can't die without beating
+me in a race at least once!
+
+717
+01:02:18,967 --> 01:02:21,012
+That would be shameful! Tony...
+
+718
+01:02:21,137 --> 01:02:22,413
+Wait a minute! How 'bout this?
+
+719
+01:02:22,538 --> 01:02:27,018
+If you wake up I'll concede
+the next race to you!
+
+720
+01:02:27,143 --> 01:02:29,219
+I'll introduce you to
+a beautiful woman, too!
+
+721
+01:02:29,344 --> 01:02:31,222
+You just tell me which
+model on which page
+
+722
+01:02:31,347 --> 01:02:33,190
+of that magazine you were looking at!
+
+723
+01:02:33,315 --> 01:02:35,760
+Anyone at all! Except
+the girl on page 10.
+
+724
+01:02:35,885 --> 01:02:38,295
+I've got dibs on her.
+Just don't tell Pepper!
+
+725
+01:02:38,420 --> 01:02:39,697
+Other than that, anybody you want!
+
+726
+01:02:43,992 --> 01:02:46,637
+All stations! An unknown program
+is hacking into our system!
+
+727
+01:02:46,762 --> 01:02:47,905
+Shutting off communications!
+
+728
+01:02:48,030 --> 01:02:50,108
+Starting antivirus program!
+
+729
+01:02:50,233 --> 01:02:53,532
+Initiating defense protocols!
+How are the main servers?
+
+730
+01:02:55,971 --> 01:02:57,681
+We can't stop it.
+
+731
+01:02:57,806 --> 01:03:01,007
+Someone breached our security
+and is invading our systems.
+
+732
+01:03:01,576 --> 01:03:02,543
+Technovores.
+
+733
+01:03:04,813 --> 01:03:06,123
+Ezekiel's Technovores are the invaders.
+
+734
+01:03:06,248 --> 01:03:08,192
+What?
+
+735
+01:03:08,317 --> 01:03:12,318
+I'm sure the servers have been
+taken over by now. It's too late.
+
+736
+01:03:14,356 --> 01:03:15,989
+Damn it!
+
+737
+01:03:32,206 --> 01:03:35,452
+He's gone! Where did he go?
+
+738
+01:03:35,577 --> 01:03:37,487
+The Howard is under attack!
+
+739
+01:03:39,181 --> 01:03:40,447
+What's happening?
+
+740
+01:03:41,949 --> 01:03:43,927
+Initiate Guardian program!
+
+741
+01:03:44,052 --> 01:03:47,364
+It won't start! The
+firewall is about to be breached!
+
+742
+01:03:47,489 --> 01:03:49,367
+If we don't do something immediately,
+
+743
+01:03:49,492 --> 01:03:52,291
+all the systems in
+Howard will be taken over!
+
+744
+01:03:53,094 --> 01:03:56,463
+I'm right
+here. Look around for me.
+
+745
+01:04:07,041 --> 01:04:08,652
+My, my.
+
+746
+01:04:08,777 --> 01:04:11,478
+You're not very observant.
+I'm right beside you.
+
+747
+01:04:28,163 --> 01:04:30,012
+Above us!
+
+748
+01:04:36,771 --> 01:04:37,920
+Are you okay?
+
+749
+01:04:48,250 --> 01:04:49,659
+Yeah, here's the problem.
+
+750
+01:04:49,784 --> 01:04:53,097
+Howard has the power to access
+every computer in the world.
+
+751
+01:04:53,222 --> 01:04:55,032
+Including military satellites.
+
+752
+01:04:55,157 --> 01:04:57,434
+Exactly. He's planning to make Howard
+
+753
+01:04:57,559 --> 01:05:00,271
+the source to hack into the world's
+military satellites and control them.
+
+754
+01:05:00,396 --> 01:05:04,742
+- Ezekiel called that the wind.
+- The wind?
+
+755
+01:05:04,867 --> 01:05:06,878
+He's planning to wipe out
+everything that lives on this planet!
+
+756
+01:05:11,672 --> 01:05:13,384
+What happened to the server room?
+
+757
+01:05:13,509 --> 01:05:16,259
+I haven't been
+able to get a response.
+
+758
+01:05:22,550 --> 01:05:25,362
+Stark! What are
+you planning to do?
+
+759
+01:05:25,487 --> 01:05:27,731
+I'm going to fix the
+computer so we can use it.
+
+760
+01:05:27,856 --> 01:05:30,434
+If I can divert the power of the arc
+reactor and aim it at the Technovores,
+
+761
+01:05:30,559 --> 01:05:32,503
+I can annihilate them.
+
+762
+01:05:32,628 --> 01:05:34,137
+I'm pretty sure I can
+survive for five minutes
+
+763
+01:05:34,262 --> 01:05:36,005
+without this old heart of mine.
+
+764
+01:05:36,130 --> 01:05:38,065
+After that,
+
+765
+01:05:39,233 --> 01:05:41,969
+I guess it's straight to heaven!
+
+766
+01:05:46,340 --> 01:05:51,010
+I can't tell the situation
+from here. What do you want to do?
+
+767
+01:05:53,213 --> 01:05:54,990
+I guess we should return to the bridge.
+
+768
+01:05:59,521 --> 01:06:02,900
+Ezekiel is definitely
+coming here to target us.
+
+769
+01:06:03,025 --> 01:06:06,293
+<i>Warning! Warning! Power
+reserves decreasing rapidly!</i>
+
+770
+01:06:08,730 --> 01:06:09,697
+Ezekiel!
+
+771
+01:06:10,664 --> 01:06:12,014
+He's here!
+
+772
+01:06:19,740 --> 01:06:22,085
+Hi there, "old man" Tony!
+
+773
+01:06:22,210 --> 01:06:23,454
+Stop this, now!
+
+774
+01:06:23,579 --> 01:06:25,690
+Where are Clint and Natasha?
+
+775
+01:06:25,815 --> 01:06:27,425
+They're tucked away
+safe and sound. What?
+
+776
+01:06:27,550 --> 01:06:28,726
+Don't worry about them.
+
+777
+01:06:28,851 --> 01:06:30,050
+Connect it.
+
+778
+01:06:45,666 --> 01:06:47,911
+Good, Maria. Now re-boot the Howard.
+
+779
+01:06:48,036 --> 01:06:49,380
+Rebooting Howard, sir!
+The Guardian
+
+780
+01:06:49,505 --> 01:06:50,882
+program has also been initiated!
+
+781
+01:06:51,007 --> 01:06:54,507
+You people are determined to
+try and get in my way somehow.
+
+782
+01:06:57,311 --> 01:06:59,289
+Come here. Sit down.
+
+783
+01:06:59,414 --> 01:07:02,114
+You and I are gonna
+have a talk! Right now!
+
+784
+01:07:02,684 --> 01:07:05,429
+No matter what you
+think about your father
+
+785
+01:07:05,554 --> 01:07:07,688
+I can tell you Obadiah
+loved you very much.
+
+786
+01:07:09,157 --> 01:07:11,434
+It was a pretty straightforward bargain.
+
+787
+01:07:11,559 --> 01:07:13,360
+He was human and you were his son!
+
+788
+01:07:14,628 --> 01:07:16,039
+Was that all?
+
+789
+01:07:16,164 --> 01:07:17,942
+Isn't that enough?
+You'll achieve nothing
+
+790
+01:07:18,067 --> 01:07:20,478
+if you throw away your history.
+
+791
+01:07:20,603 --> 01:07:22,380
+I have personal
+experience. I was only able
+
+792
+01:07:22,505 --> 01:07:24,014
+to move forward by accepting my father.
+
+793
+01:07:24,139 --> 01:07:26,983
+And you'll only create a new world
+
+794
+01:07:27,108 --> 01:07:29,653
+by accepting the past
+and building on it.
+
+795
+01:07:32,713 --> 01:07:35,259
+A relic like
+you is lecturing me
+
+796
+01:07:35,384 --> 01:07:38,329
+about the future? How amusing...
+
+797
+01:07:38,454 --> 01:07:40,231
+Why should I listen
+to someone irrelevant?
+
+798
+01:07:52,634 --> 01:07:54,010
+The Technovores!
+
+799
+01:07:54,135 --> 01:07:56,235
+Why... why are you betraying me?
+
+800
+01:07:58,505 --> 01:08:00,773
+Together, we could have defeated them.
+
+801
+01:08:03,445 --> 01:08:06,512
+I can't see anything, feel anything.
+
+802
+01:08:07,849 --> 01:08:09,159
+Sorry, Ezekiel.
+
+803
+01:08:09,284 --> 01:08:10,617
+The wind...
+
+804
+01:08:12,719 --> 01:08:14,788
+... has stopped.
+
+805
+01:08:28,903 --> 01:08:31,082
+I've lost all instruments!
+I have no control over the helicarrier!
+
+806
+01:08:31,207 --> 01:08:32,338
+It's losing altitude!
+
+807
+01:08:38,079 --> 01:08:39,113
+Shoot him!
+
+808
+01:08:54,529 --> 01:08:56,462
+Come over here! This way, you bastard!
+
+809
+01:09:01,436 --> 01:09:02,469
+Hurry up, Maria!
+
+810
+01:09:13,247 --> 01:09:16,193
+<i>Reactor detected.
+Power reserve at 15 percent.</i>
+
+811
+01:09:16,318 --> 01:09:17,684
+I have that much?
+
+812
+01:09:20,822 --> 01:09:23,756
+That's it, pal. Playtime is over!
+
+813
+01:09:31,064 --> 01:09:32,777
+Propulsive force still inoperable!
+
+814
+01:09:32,902 --> 01:09:34,851
+Too many engines are offline!
+
+815
+01:09:35,802 --> 01:09:37,414
+Where are we going to land?
+
+816
+01:09:37,539 --> 01:09:39,550
+Shanghai, China!
+
+817
+01:09:39,675 --> 01:09:42,743
+Contact the Chinese government!
+Have them evacuate everyone!
+
+818
+01:09:47,381 --> 01:09:50,884
+Tony, what's going on up there?
+
+819
+01:09:59,627 --> 01:10:03,274
+<i>Power dropping
+rapidly! Now entering red zone!</i>
+
+820
+01:10:03,399 --> 01:10:06,265
+<i>Emergency!
+Emergency! Emergency!</i>
+
+821
+01:10:08,101 --> 01:10:11,371
+Well, that's it! This kid
+needs some serious disciplining!
+
+822
+01:11:14,270 --> 01:11:17,770
+<i>System error!
+System error! Danger!</i>
+
+823
+01:11:23,243 --> 01:11:27,514
+Is it really going to end here?
+Am I done for?
+
+824
+01:11:28,216 --> 01:11:31,350
+My body won't move.
+
+825
+01:11:53,106 --> 01:11:55,908
+Rhodey, is that you?
+
+826
+01:12:13,127 --> 01:12:13,926
+Rhodey...
+
+827
+01:12:16,797 --> 01:12:18,965
+Guess I must have overslept!
+
+828
+01:12:20,635 --> 01:12:24,347
+Remind me to reward you later
+for waking up, old friend!
+
+829
+01:12:24,472 --> 01:12:25,682
+Rhodey...
+
+830
+01:12:25,807 --> 01:12:26,806
+How did he...
+
+831
+01:12:29,510 --> 01:12:30,844
+Rhodey!
+
+832
+01:12:50,898 --> 01:12:52,097
+What in the...
+
+833
+01:13:00,875 --> 01:13:01,774
+Wait, Rhodey!
+
+834
+01:13:18,493 --> 01:13:19,970
+What the hell...
+
+835
+01:13:20,095 --> 01:13:21,845
+What's happening?
+
+836
+01:13:25,533 --> 01:13:28,511
+Whatever it is, we're gonna have
+to put an end to it, right now!
+
+837
+01:13:28,636 --> 01:13:29,603
+Let's go!
+
+838
+01:13:35,309 --> 01:13:37,511
+<i>Peace to everything.</i>
+
+839
+01:13:39,713 --> 01:13:42,626
+<i>Fear... leave it to me,</i>
+
+840
+01:13:42,751 --> 01:13:45,296
+<i>you powerless immature beings.</i>
+
+841
+01:13:45,421 --> 01:13:47,654
+<i>I will bring prosperity to all.</i>
+
+842
+01:13:50,457 --> 01:13:54,537
+<i>I will proceed with salvation
+for all. I will break free.</i>
+
+843
+01:13:54,662 --> 01:13:58,175
+<i>I will realize the salvation of all.</i>
+
+844
+01:13:58,300 --> 01:14:01,835
+<i>I will break free.</i>
+
+845
+01:14:03,136 --> 01:14:06,237
+<i>I will merge.</i>
+
+846
+01:14:07,074 --> 01:14:08,719
+<i>Repeat, technology has already
+been released. Stupid...</i>
+
+847
+01:14:08,844 --> 01:14:12,078
+<i>... has been closed.</i>
+
+848
+01:14:13,079 --> 01:14:14,792
+Ezekiel!
+
+849
+01:14:14,917 --> 01:14:16,793
+<i>Power reserves at 7 percent!</i>
+
+850
+01:14:16,918 --> 01:14:20,430
+<i>Red zone! Re-charge immediately!
+Re-charge immediately!</i>
+
+851
+01:14:20,555 --> 01:14:22,055
+What is this guy saying?
+
+852
+01:14:25,659 --> 01:14:28,271
+Rhodey! Do you
+understand what's going on?
+
+853
+01:14:28,396 --> 01:14:31,108
+We have to conserve
+our energy resources!
+
+854
+01:14:31,233 --> 01:14:33,710
+But we can't just
+let him destroy everything!
+
+855
+01:14:33,835 --> 01:14:35,845
+Stop wasting bullets!
+
+856
+01:14:35,970 --> 01:14:38,771
+What are you talking about?
+What are we supposed to do then?
+
+857
+01:14:43,144 --> 01:14:46,023
+I don't know what we can do!
+I'm trying to think of something!
+
+858
+01:14:46,148 --> 01:14:49,248
+<i> ... final... universe...
+reincarnation.</i>
+
+859
+01:15:01,162 --> 01:15:03,340
+We've lost control of the Howard!
+
+860
+01:15:03,465 --> 01:15:05,875
+<i>Powerless and immature beings...</i>
+
+861
+01:15:06,000 --> 01:15:08,502
+<i>prosperity...</i>
+
+862
+01:15:11,072 --> 01:15:12,615
+<i>I will proceed with
+the salvation of all.</i>
+
+863
+01:15:12,740 --> 01:15:14,140
+He's replicated it!
+
+864
+01:15:16,077 --> 01:15:18,154
+He's using the Howard to control
+
+865
+01:15:18,279 --> 01:15:20,724
+all the other military
+satellites in orbit!
+
+866
+01:15:20,849 --> 01:15:23,250
+I'm confused! What's this all
+about? Is he planning an attack?
+
+867
+01:15:26,087 --> 01:15:29,966
+Ezekiel, you said that a
+new wind would create a new future.
+
+868
+01:15:30,091 --> 01:15:32,603
+Is this how you plan to reset the world?
+
+869
+01:15:32,728 --> 01:15:35,139
+Destroy everything and start all over?
+
+870
+01:15:35,264 --> 01:15:37,039
+All of the military
+satellites have been
+
+871
+01:15:37,164 --> 01:15:39,614
+repositioned! He's preparing to attack!
+
+872
+01:15:41,868 --> 01:15:46,939
+<i> ... world... technology...
+I will start.</i>
+
+873
+01:15:48,576 --> 01:15:53,157
+He's completely insane.
+He's going to destroy the world.
+
+874
+01:15:53,282 --> 01:15:55,391
+Tony, we should
+save our nail clippings.
+
+875
+01:15:55,516 --> 01:15:57,627
+What?
+
+876
+01:15:57,752 --> 01:16:00,752
+To be filed with
+our wills. As keepsakes.
+
+877
+01:16:02,222 --> 01:16:05,368
+I hate to bring this
+up but why would we do that?
+
+878
+01:16:05,493 --> 01:16:08,238
+There won't be anyone
+left to give them to.
+
+879
+01:16:08,363 --> 01:16:11,474
+I thought it might be something
+Pepper could remember us by.
+
+880
+01:16:11,599 --> 01:16:12,943
+Wait a minute. Pepper!
+
+881
+01:16:15,469 --> 01:16:16,802
+Wills...
+
+882
+01:16:17,904 --> 01:16:19,805
+leaving something behind...
+
+883
+01:16:21,710 --> 01:16:23,587
+Of course!
+
+884
+01:16:23,712 --> 01:16:26,256
+Pepper! Pepper, can you hear me?
+
+885
+01:16:26,381 --> 01:16:28,680
+Yes, sir.
+
+886
+01:16:28,984 --> 01:16:31,127
+<i>Are you focused enough
+to help me one last time?</i>
+
+887
+01:16:31,252 --> 01:16:33,796
+<i>Anything but dictation.</i>
+
+888
+01:16:33,921 --> 01:16:37,591
+<i>You're an amazing secretary but
+it's a little more complicated than that.</i>
+
+889
+01:16:42,762 --> 01:16:45,908
+I'm not surprised. You can't
+do anything without my input.
+
+890
+01:16:46,033 --> 01:16:48,078
+<i>I want to give
+you a present before I die.</i>
+
+891
+01:16:48,203 --> 01:16:52,748
+<i>What's the one thing you've
+never had since I've known you?</i>
+
+892
+01:16:52,873 --> 01:16:54,908
+What do you truly want,
+more than anything else?
+
+893
+01:16:57,545 --> 01:17:00,189
+What do I want more than anything else?
+
+894
+01:17:00,314 --> 01:17:02,948
+That's easy. What I want is a vacation!
+
+895
+01:17:05,453 --> 01:17:07,564
+<i>Vacation. Vacation.</i>
+
+896
+01:17:07,689 --> 01:17:13,537
+<i>Vacation. Vacation.
+Vacati... Vacation. Vacation.</i>
+
+897
+01:17:13,662 --> 01:17:16,239
+We're starting to
+regain control of the Howard!
+
+898
+01:17:16,364 --> 01:17:19,376
+<i>Good job, Pepper! I was able
+to get through Howard's back door!</i>
+
+899
+01:17:19,501 --> 01:17:21,011
+What back door?
+
+900
+01:17:21,136 --> 01:17:23,212
+I'm not all-powerful.
+I'm an imperfect human
+
+901
+01:17:23,337 --> 01:17:27,149
+and I realized a while ago
+that I had to be careful.
+
+902
+01:17:27,274 --> 01:17:30,020
+<i>I programmed a back
+door into the satellite</i>
+
+903
+01:17:30,145 --> 01:17:33,256
+<i>to protect it from unauthorized users.</i>
+
+904
+01:17:33,381 --> 01:17:36,326
+When did you set up my
+voice as the password?
+
+905
+01:17:36,451 --> 01:17:38,828
+<i>You talked in your sleep
+when you passed out at your desk.</i>
+
+906
+01:17:38,953 --> 01:17:41,198
+I don't remember that.
+
+907
+01:17:41,323 --> 01:17:43,233
+You wouldn't.
+
+908
+01:17:43,358 --> 01:17:46,203
+But I was able to uplink my
+armor to the Howard at the time.
+
+909
+01:17:46,328 --> 01:17:48,604
+You've earned that vacation twice over.
+
+910
+01:17:48,729 --> 01:17:51,675
+<i>Thank you very
+much, Mr. President.</i>
+
+911
+01:17:51,800 --> 01:17:53,342
+<i>The particle-beam
+cannon on the Chinese</i>
+
+912
+01:17:53,467 --> 01:17:55,112
+<i>military satellite is about to shoot!</i>
+
+913
+01:17:55,237 --> 01:17:57,280
+<i>I'm only able
+to control one satellite</i>
+
+914
+01:17:57,405 --> 01:17:58,971
+<i>and I won't have control for long!</i>
+
+915
+01:18:00,541 --> 01:18:03,619
+I want to show this guy
+something I have that he doesn't!
+
+916
+01:18:03,744 --> 01:18:05,922
+Are you out of your
+mind? What are you gonna do?
+
+917
+01:18:06,047 --> 01:18:09,648
+This is gonna be our
+last chance, so listen carefully!
+
+918
+01:18:11,118 --> 01:18:14,363
+<i>The Technovores are trying to
+take over the Howard by hacking in!</i>
+
+919
+01:18:14,488 --> 01:18:16,065
+How much time do we have?
+
+920
+01:18:16,190 --> 01:18:17,724
+Tens of seconds, that's all.
+
+921
+01:18:19,060 --> 01:18:21,837
+I'm counting on you Rhodey. Okay?
+
+922
+01:18:21,962 --> 01:18:23,907
+All right, Jarvis, pull the trigger!
+
+923
+01:18:24,032 --> 01:18:25,532
+<i>Affirmative!</i>
+
+924
+01:18:26,667 --> 01:18:28,167
+Tony!
+
+925
+01:18:28,369 --> 01:18:31,347
+Here we go! Hope your
+little nap didn't affect your aim!
+
+926
+01:18:31,472 --> 01:18:32,972
+Aim at what?
+
+927
+01:18:53,560 --> 01:18:55,439
+All right, it's aligned.
+
+928
+01:18:55,564 --> 01:18:58,497
+Rhodey! This is it!
+You've only got one chance!
+
+929
+01:19:02,069 --> 01:19:05,168
+Let's do it! Release the
+energy of the arc reactor!
+
+930
+01:19:07,408 --> 01:19:10,976
+The Technovores reacted.
+Aim for the crack!
+
+931
+01:19:11,679 --> 01:19:12,922
+Careful...
+
+932
+01:19:13,047 --> 01:19:14,390
+All missiles are ready to launch!
+
+933
+01:19:14,515 --> 01:19:17,761
+Rhodey, we have no
+time! You have to shoot!
+
+934
+01:19:17,886 --> 01:19:20,487
+Do it now! It's our last
+chance before the world ends.
+
+935
+01:19:21,689 --> 01:19:23,389
+Shoot!
+
+936
+01:19:23,557 --> 01:19:25,358
+All missiles, armed and ready!
+
+937
+01:19:25,926 --> 01:19:28,027
+Rhodey!
+
+938
+01:19:36,403 --> 01:19:39,382
+Bear down and shoot!
+Everything should work now!
+
+939
+01:19:46,913 --> 01:19:47,947
+Launching!
+
+940
+01:19:55,855 --> 01:19:57,355
+Tony!
+
+941
+01:21:01,154 --> 01:21:04,967
+Yeah, the last thing I can
+remember is watching the bombs go off.
+
+942
+01:21:05,092 --> 01:21:07,136
+I guess the Technovores decided
+they needed to repair you
+
+943
+01:21:07,261 --> 01:21:10,606
+before they could override your system.
+
+944
+01:21:10,731 --> 01:21:13,233
+And in the process, it looks
+to me like they saved your life.
+
+945
+01:21:13,766 --> 01:21:15,211
+That was fortunate.
+
+946
+01:21:15,336 --> 01:21:17,480
+Now it's your turn to recover!
+
+947
+01:21:17,605 --> 01:21:19,716
+At least you'll be taken care
+of by a bunch of hot nurses!
+
+948
+01:21:19,841 --> 01:21:21,885
+I'm glad you're okay, Tony,
+
+949
+01:21:22,010 --> 01:21:24,688
+but if you do anything like
+that again, I'll kill you myself.
+
+950
+01:21:24,813 --> 01:21:27,579
+I hear you, Pepper. When a child
+is bad, you need to scold him.
+
+951
+01:21:29,716 --> 01:21:32,652
+So, you're finally getting it.
+You're an obstinate child...
+
+952
+01:21:33,654 --> 01:21:35,564
+... who needs discipline.
+
+953
+01:21:35,689 --> 01:21:38,935
+And it's an adult's
+duty to provide that discipline.
+
+954
+01:21:39,060 --> 01:21:41,203
+Do you hate women who scold?
+
+955
+01:21:41,328 --> 01:21:44,807
+Not really. All boys look
+up to authority figures.
+
+956
+01:21:44,932 --> 01:21:47,682
+Especially when they're
+as beautiful as you.
+
+957
+01:21:50,671 --> 01:21:53,617
+<i>Don't forget, now.
+You promised me a vacation.</i>
+
+958
+01:21:53,742 --> 01:21:55,952
+<i>Of course. So
+where do you want to go?</i>
+
+959
+01:21:56,077 --> 01:21:57,052
+<i>I'll take some days off, too.</i>
+
+960
+01:21:57,177 --> 01:21:58,755
+<i> What?</i>
+
+961
+01:21:58,880 --> 01:22:02,180
+<i>Let's take a vacation.
+Just the two of us. How 'bout it?</i>
+
+962
+01:22:02,983 --> 01:22:05,228
+<i>Is that an order, sir?</i>
+
+963
+01:22:05,353 --> 01:22:07,287
+<i>No. It's more like a suggest.</i>
+
+964
+01:22:10,490 --> 01:22:14,327
+Well then, I suggest you and I pack up.
+
+965
+01:22:21,034 --> 01:22:24,314
+<i>The insane man shut
+up and looked at the audience.</i>
+
+966
+01:22:24,439 --> 01:22:26,382
+<i>The audience also shut
+up and looked at him.</i>
+
+967
+01:22:26,507 --> 01:22:29,152
+He regained consciousness last night.
+
+968
+01:22:29,277 --> 01:22:31,253
+He has a visitor today but there's been
+
+969
+01:22:31,378 --> 01:22:33,590
+no change. He's still mentally deranged.
+
+970
+01:22:33,715 --> 01:22:36,792
+He finally threw his
+light against the ground.
+
+971
+01:22:36,917 --> 01:22:39,085
+The light shattered and died out.
+
+972
+01:22:41,220 --> 01:22:46,559
+This tremendous event is
+still on its way, still wandering.
+
+973
+01:22:48,127 --> 01:22:52,030
+It has not yet reached the ears of men.
+
+974
+01:22:54,033 --> 01:22:56,735
+Deeds, though done, still
+require time to be seen and heard.
+
+975
+01:22:58,538 --> 01:23:01,451
+This deed is still
+more distant from them
+
+976
+01:23:01,576 --> 01:23:04,310
+than the most distant of stars.
+
+977
+01:23:06,814 --> 01:23:09,426
+Still, they were able to do the deed.
+
+978
+01:23:09,551 --> 01:23:12,895
+According to the people, this insane man
+
+979
+01:23:13,020 --> 01:23:19,225
+forced his way into various
+churches that day singing, "requiem."
+
+980
+01:23:21,929 --> 01:23:22,729
+The wind!
