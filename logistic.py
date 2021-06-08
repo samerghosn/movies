@@ -32,6 +32,7 @@ def create_df_fromfile(file_name):
     df_sub['subtitle'] = " ".join(subtitle)
     df_list.append(df_sub)
 
+max_iter = 5000
 
 nltk.download('punkt')
 nltk.download("stopwords")
@@ -57,7 +58,7 @@ vectorizer.fit(subtitles_train)
 X_train = vectorizer.transform(subtitles_train)
 X_test = vectorizer.transform(subtitles_test)
 
-classifier = LogisticRegression()
+classifier = LogisticRegression(max_iter=5000)
 classifier.fit(X_train, y_train)
 score = classifier.score(X_test, y_test)
 print("Accuracy: ", score)
